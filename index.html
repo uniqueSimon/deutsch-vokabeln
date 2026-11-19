@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>독일어 단어 · Goethe-Zertifikat B1</title>
+<style>
+  :root { --bg:#f7f6f2; --card:#fff; --ink:#222; --muted:#777; --accent:#c8312b; --dark:#2b2b2b; --ok:#1e9e5a; --bad:#d64545; --der:#2a6fd6; --die:#d6336c; --das:#2e9e5b; }
+  * { box-sizing:border-box; }
+  html, body { margin:0; }
+  body { font-family:-apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif; background:var(--bg); color:var(--ink); }
+  header { position:sticky; top:0; z-index:5; background:var(--dark); color:#fff; }
+  .top { display:flex; align-items:center; gap:10px; padding:8px 16px 0; }
+  .top h1 { font-size:17px; margin:0; flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .top .stat { font-size:12px; opacity:.8; white-space:nowrap; }
+  #lessons { display:flex; gap:6px; overflow-x:auto; padding:8px 16px; -webkit-overflow-scrolling:touch; }
+  #lessons button { flex:none; white-space:nowrap; border:none; border-radius:8px; padding:5px 10px; cursor:pointer; background:#ffffff22; color:#fff; text-align:left; font-size:14px; font-weight:600; position:relative; overflow:hidden; }
+  #lessons button small { display:block; font-size:10px; font-weight:400; opacity:.85; }
+  #lessons button.active { background:#fff; color:var(--accent); }
+  #lessons button i { position:absolute; left:0; bottom:0; height:3px; background:#4cd08a; }
+  .tabs { display:flex; background:#fff; border-bottom:1px solid #e4e0d8; }
+  .tabs button { flex:1; border:none; background:none; padding:11px 4px; font-size:15px; cursor:pointer; color:#555; border-bottom:3px solid transparent; }
+  .tabs button.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:700; }
+  main { max-width:820px; margin:0 auto; padding:16px; }
+  .card { background:var(--card); border-radius:12px; padding:16px; margin-bottom:12px; box-shadow:0 1px 3px rgba(0,0,0,.07); }
+  .muted { color:var(--muted); font-size:13px; }
+  .btn { border:none; background:var(--accent); color:#fff; padding:9px 16px; border-radius:8px; cursor:pointer; font-size:15px; }
+  .btn.alt { background:#e9e6df; color:#333; }
+  .btn.ok { background:var(--ok); } .btn.bad { background:var(--bad); }
+  .play { border:none; background:#f1ece4; border-radius:50%; width:32px; height:32px; cursor:pointer; flex:none; font-size:14px; }
+  .row { display:flex; gap:10px; align-items:center; }
+  .grow { flex:1; min-width:0; }
+  .art { font-weight:700; margin-right:5px; font-size:.75em; }
+  .art.der { color:var(--der); } .art.die { color:var(--die); } .art.das { color:var(--das); }
+  .w { font-size:24px; font-weight:600; }
+  .extra { font-size:14px; color:var(--muted); margin-left:6px; font-weight:400; }
+  .ko { font-size:18px; color:var(--accent); }
+  .reveal { cursor:pointer; filter:blur(7px); user-select:none; } .reveal.open { filter:none; }
+  .ex { margin-top:8px; padding-top:8px; border-top:1px dashed #e4e0d8; font-size:16px; }
+  .ex .exko { font-size:14px; color:#666; margin-top:2px; }
+  .ex .row { align-items:flex-start; }
+  .note { font-size:12px; color:var(--muted); margin-top:4px; }
+  .known { width:20px; height:20px; accent-color:var(--ok); cursor:pointer; }
+  .tools { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; align-items:center; }
+  .tools select { padding:7px; border-radius:8px; border:1px solid #ccc; font-size:14px; }
+  .big { text-align:center; padding:28px 16px; }
+  .big .w { font-size:38px; } .big .ko { font-size:26px; margin-top:10px; }
+  .opts { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:14px; }
+  .opts button { padding:14px 8px; font-size:17px; border:2px solid #e0dcd2; background:#fff; border-radius:10px; cursor:pointer; }
+  .opts button.right { border-color:var(--ok); background:#e6f6ec; } .opts button.wrong { border-color:var(--bad); background:#fbe8e8; }
+  .opts.art3 { grid-template-columns:1fr 1fr 1fr; }
+  input.type { width:100%; font-size:22px; padding:12px; border:2px solid #ddd; border-radius:10px; margin-top:12px; }
+  .prog { height:6px; background:#e8e4da; border-radius:3px; margin-bottom:12px; overflow:hidden; } .prog i { display:block; height:100%; background:var(--accent); }
+  .center { text-align:center; }
+  @media (max-width:520px) { .w { font-size:21px; } .big .w { font-size:30px; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="top"><h1>🇩🇪 독일어 단어 · Goethe B1</h1><span class="stat" id="stat"></span></div>
+  <nav id="lessons"></nav>
+  <div class="tabs" id="tabs"></div>
+</header>
+<main id="main"></main>
+<script src="data.js"></script>
+<script>
+const LESSON_SIZE = 30;
+const TABS = [["list","📖 단어"],["cards","🃏 카드"],["quiz","✏️ 퀴즈"],["review","🔁 복습"]];
+const LESSONS = [];
+for (let i = 0; i < WORDS.length; i += LESSON_SIZE) {
+  const ws = WORDS.slice(i, i + LESSON_SIZE);
+  LESSONS.push({ name: "Lektion " + (LESSONS.length + 1), ws, note: bare(ws[0]) + " – " + bare(ws[ws.length - 1]) });
+}
+function bare(w) { return w.de.replace(/^sich /, ""); }
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c])); }
+function full(w) { return (w.art ? w.art + " " : "") + w.de; }
+function artHtml(w) { return w.art ? w.art.split("/").map(a => `<span class="art ${a}">${a}</span>`).join("") : ""; }
+function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; }
+
+// --- progress (localStorage) ---
+const KEY = "deutsch-vokabeln-v1";
+let P = JSON.parse(localStorage.getItem(KEY) || '{"s":{},"cur":0,"tab":"list"}');
+const save = () => localStorage.setItem(KEY, JSON.stringify(P));
+const st = id => P.s[id] || (P.s[id] = { box: 0, ok: 0, bad: 0, due: 0 });
+const DAY = 864e5, GAPS = [0, 1, 3, 7, 14, 30];
+function grade(id, ok) {
+  const s = st(id);
+  if (ok) { s.ok++; s.box = Math.min(5, s.box + 1); } else { s.bad++; s.box = 0; }
+  s.due = Date.now() + GAPS[s.box] * DAY;
+  save(); updateStat();
+}
+const known = id => (P.s[id]?.box || 0) >= 3;
+
+// --- speech ---
+let voice = null;
+function pickVoice() { const v = speechSynthesis.getVoices().filter(v => v.lang.replace("_","-").startsWith("de")); voice = v.find(x => /Anna|Petra|Google/.test(x.name)) || v[0] || null; }
+if ("speechSynthesis" in window) { pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+function say(t) {
+  if (!("speechSynthesis" in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(t.replace(/\(.*?\)/g, ""));
+  u.lang = "de-DE"; if (voice) u.voice = voice; u.rate = .9;
+  speechSynthesis.speak(u);
+}
+window.say = say;
+
+// --- layout ---
+const nav = document.getElementById("lessons"), tabsEl = document.getElementById("tabs"), main = document.getElementById("main");
+function updateStat() {
+  const n = WORDS.filter(w => known(w.id)).length;
+  document.getElementById("stat").textContent = `${n} / ${WORDS.length} 암기`;
+  LESSONS.forEach((l, i) => {
+    const b = nav.children[i]; if (!b) return;
+    b.querySelector("i").style.width = (l.ws.filter(w => known(w.id)).length / l.ws.length * 100) + "%";
+  });
+}
+LESSONS.forEach((l, i) => {
+  const b = document.createElement("button");
+  b.innerHTML = `${l.name}<small>${esc(l.note)}</small><i></i>`;
+  b.onclick = () => { P.cur = i; if (P.tab === "review") P.tab = "list"; save(); render(); };
+  nav.appendChild(b);
+});
+TABS.forEach(([k, label]) => {
+  const b = document.createElement("button");
+  b.textContent = label; b.dataset.k = k;
+  b.onclick = () => { P.tab = k; save(); render(); };
+  tabsEl.appendChild(b);
+});
+
+function render() {
+  if (P.cur >= LESSONS.length) P.cur = 0;
+  [...nav.children].forEach((b, i) => b.classList.toggle("active", P.tab !== "review" && i === P.cur));
+  [...tabsEl.children].forEach(b => b.classList.toggle("active", b.dataset.k === P.tab));
+  const cur = nav.children[P.cur]; if (cur && P.tab !== "review") cur.scrollIntoView({ block: "nearest", inline: "nearest" });
+  speechSynthesis?.cancel();
+  ({ list: renderList, cards: renderCards, quiz: renderQuiz, review: renderReview })[P.tab]();
+  window.scrollTo(0, 0);
+  updateStat();
+}
+
+// --- tab: word list ---
+function renderList() {
+  const L = LESSONS[P.cur];
+  main.innerHTML = `<div class="tools"><button class="btn alt" id="hideKo">한국어 가리기</button><button class="btn alt" id="showAll">모두 보기</button><span class="muted">${L.name} · ${L.ws.length}단어 · 단어를 눌러 뜻 확인</span></div>` +
+    L.ws.map(w => `<div class="card" data-id="${w.id}">
+      <div class="row"><button class="play" onclick="say('${esc(full(w)).replace(/'/g, "\\'")}')">🔊</button>
+        <div class="grow"><div class="w">${artHtml(w)}${esc(w.de)}<span class="extra">${esc(w.extra)}</span></div>
+          <div class="ko reveal open">${esc(w.ko)}</div></div>
+        <input type="checkbox" class="known" title="외웠어요" ${known(w.id) ? "checked" : ""}></div>
+      ${w.note ? `<div class="note">${esc(w.note)}</div>` : ""}
+      ${w.ex.map(([d, k]) => `<div class="ex"><div class="row"><button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button><div class="grow">${esc(d)}<div class="exko reveal open">${esc(k)}</div></div></div></div>`).join("")}
+    </div>`).join("");
+  main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
+  main.querySelectorAll(".known").forEach(c => c.onchange = () => {
+    const id = +c.closest(".card").dataset.id, s = st(id);
+    s.box = c.checked ? 4 : 0; s.due = Date.now() + (c.checked ? GAPS[4] * DAY : 0); save(); updateStat();
+  });
+  document.getElementById("hideKo").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.remove("open"));
+  document.getElementById("showAll").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.add("open"));
+}
+
+// --- tab: flashcards ---
+function renderCards(pool = LESSONS[P.cur].ws, title = LESSONS[P.cur].name) {
+  let deck = shuffle(pool), i = 0, flipped = false, again = 0;
+  const wrap = () => {
+    if (i >= deck.length) {
+      main.innerHTML = `<div class="card center"><h2>🎉 ${esc(title)} 완료!</h2><p>다시 본 카드: ${again}</p><button class="btn" id="re">다시 하기</button></div>`;
+      document.getElementById("re").onclick = () => renderCards(pool, title); return;
+    }
+    const w = deck[i];
+    main.innerHTML = `<div class="prog"><i style="width:${i / deck.length * 100}%"></i></div>
+      <div class="muted center">${i + 1} / ${deck.length} · ${esc(title)}</div>
+      <div class="card big" id="face">
+        <div class="w">${artHtml(w)}${esc(w.de)}</div><div class="extra">${esc(w.extra)}</div>
+        <div style="margin-top:10px"><button class="play" id="sp">🔊</button></div>
+        ${flipped ? `<div class="ko">${esc(w.ko)}</div>${w.ex[0] ? `<div class="ex" style="text-align:left">${esc(w.ex[0][0])}<div class="exko">${esc(w.ex[0][1])}</div></div>` : ""}` : `<p class="muted">카드를 눌러 뜻 보기</p>`}
+      </div>
+      ${flipped ? `<div class="row"><button class="btn bad grow" id="no">❌ 몰라요</button><button class="btn ok grow" id="yes">✅ 알아요</button></div>` : ""}`;
+    document.getElementById("sp").onclick = e => { e.stopPropagation(); say(full(w)); };
+    document.getElementById("face").onclick = () => { if (!flipped) { flipped = true; wrap(); say(full(w)); } };
+    if (flipped) {
+      const next = ok => { grade(w.id, ok); if (!ok) { again++; deck.push(w); } i++; flipped = false; wrap(); };
+      document.getElementById("yes").onclick = () => next(true);
+      document.getElementById("no").onclick = () => next(false);
+    }
+  };
+  wrap();
+}
+
+// --- tab: quiz ---
+const MODES = [["de-ko", "독일어 → 한국어"], ["ko-de", "한국어 → 독일어"], ["art", "관사 맞추기 (der/die/das)"], ["type", "철자 쓰기 (한국어 → 독일어)"]];
+function renderQuiz(pool = LESSONS[P.cur].ws, title = LESSONS[P.cur].name) {
+  main.innerHTML = `<div class="card"><h3 style="margin-top:0">${esc(title)} 퀴즈</h3>` +
+    MODES.map(([m, l]) => `<p><button class="btn" data-m="${m}" style="width:100%">${l}</button></p>`).join("") + `</div>`;
+  main.querySelectorAll("[data-m]").forEach(b => b.onclick = () => runQuiz(b.dataset.m, pool, title));
+}
+function runQuiz(mode, pool, title) {
+  let src = mode === "art" ? pool.filter(w => w.art && !w.art.includes("/")) : pool;
+  if (src.length < 4 && mode !== "art" && mode !== "type") src = pool;
+  if (!src.length) { main.innerHTML = `<div class="card">이 범위에는 해당 단어가 없어요.</div>`; return; }
+  const qs = shuffle(src).slice(0, 15); let i = 0, score = 0;
+  const distract = w => shuffle(WORDS.filter(x => x.id !== w.id && x.kind === w.kind && !x.sub)).slice(0, 3);
+  const q = () => {
+    if (i >= qs.length) {
+      main.innerHTML = `<div class="card center"><h2>${score} / ${qs.length}</h2><p>${score === qs.length ? "완벽해요! 🎉" : "수고했어요!"}</p><button class="btn" id="re">다시</button> <button class="btn alt" id="menu">메뉴</button></div>`;
+      document.getElementById("re").onclick = () => runQuiz(mode, pool, title);
+      document.getElementById("menu").onclick = () => renderQuiz(pool, title); return;
+    }
+    const w = qs[i], head = `<div class="prog"><i style="width:${i / qs.length * 100}%"></i></div><div class="muted center">${i + 1} / ${qs.length}</div>`;
+    const done = (ok, shown) => {
+      grade(w.id, ok); if (ok) score++;
+      const n = document.createElement("div"); n.className = "card center";
+      n.innerHTML = `<div class="${ok ? "" : "ko"}">${ok ? "✅ 정답!" : "❌ " + esc(shown)}</div><div class="w">${artHtml(w)}${esc(w.de)}</div><div class="ko">${esc(w.ko)}</div><p><button class="btn" id="nx">다음 ▶</button></p>`;
+      main.appendChild(n); say(full(w));
+      const nx = document.getElementById("nx"); nx.focus(); nx.onclick = () => { i++; q(); };
+    };
+    if (mode === "type") {
+      main.innerHTML = head + `<div class="card big"><div class="ko" style="margin:0">${esc(w.ko)}</div><div class="muted">${w.art ? "관사 포함해서 쓰세요 (예: " + esc(w.art.split("/")[0]) + " …)" : ""}</div>
+        <input class="type" id="in" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Deutsch…"><p><button class="btn" id="ok">확인</button></p></div>`;
+      const inp = document.getElementById("in"); inp.focus();
+      const norm = s => s.trim().toLowerCase().replace(/\s+/g, " ");
+      const targets = [norm(full(w)), norm(w.de)].concat(w.art ? [] : []);
+      const check = () => { inp.disabled = true; document.getElementById("ok").remove(); done(targets.includes(norm(inp.value)), full(w) + "  (" + inp.value + ")"); };
+      document.getElementById("ok").onclick = check; inp.onkeydown = e => { if (e.key === "Enter") check(); };
+      return;
+    }
+    let prompt, opts, correct, big;
+    if (mode === "art") { prompt = `<div class="w">${esc(w.de)}</div>`; opts = ["der", "die", "das"]; correct = w.art; }
+    else if (mode === "de-ko") { prompt = `<div class="w">${artHtml(w)}${esc(w.de)}</div>`; correct = w.ko; opts = shuffle([w.ko, ...distract(w).map(x => x.ko)]); }
+    else { prompt = `<div class="ko" style="margin:0">${esc(w.ko)}</div>`; correct = full(w); opts = shuffle([full(w), ...distract(w).map(full)]); }
+    main.innerHTML = head + `<div class="card big">${prompt}${mode === "de-ko" || mode === "art" ? `<div style="margin-top:8px"><button class="play" id="sp">🔊</button></div>` : ""}</div><div class="opts ${mode === "art" ? "art3" : ""}">${opts.map((o, k) => `<button data-k="${k}">${esc(o)}</button>`).join("")}</div>`;
+    document.getElementById("sp")?.addEventListener("click", () => say(mode === "art" ? w.de : full(w)));
+    main.querySelectorAll(".opts button").forEach(b => b.onclick = () => {
+      const ok = opts[b.dataset.k] === correct;
+      main.querySelectorAll(".opts button").forEach(x => { x.disabled = true; if (opts[x.dataset.k] === correct) x.classList.add("right"); });
+      if (!ok) b.classList.add("wrong");
+      done(ok, "오답");
+    });
+  };
+  q();
+}
+
+// --- tab: review (spaced repetition over all words) ---
+function renderReview() {
+  const now = Date.now();
+  const seen = WORDS.filter(w => P.s[w.id]);
+  const due = seen.filter(w => P.s[w.id].due <= now);
+  const weak = seen.filter(w => P.s[w.id].bad > P.s[w.id].ok);
+  const pool = d => `<button class="btn" data-a="${d}" style="margin-right:8px">카드</button><button class="btn alt" data-q="${d}">퀴즈</button>`;
+  main.innerHTML = `<div class="card"><h3 style="margin-top:0">복습할 단어 (${due.length})</h3><p class="muted">학습 간격이 지난 단어들이에요.</p>${due.length ? pool("due") : "<p>지금은 복습할 단어가 없어요 👍</p>"}</div>
+    <div class="card"><h3 style="margin-top:0">자주 틀린 단어 (${weak.length})</h3>${weak.length ? pool("weak") : "<p class='muted'>아직 없어요.</p>"}</div>
+    <div class="card"><h3 style="margin-top:0">전체 (${WORDS.length}) · 랜덤 30</h3>${pool("rand")}</div>
+    <div class="card"><button class="btn alt" id="reset">진행 상황 초기화</button></div>`;
+  const get = d => d === "due" ? shuffle(due).slice(0, 30) : d === "weak" ? shuffle(weak).slice(0, 30) : shuffle(WORDS).slice(0, 30);
+  const names = { due: "복습", weak: "약한 단어", rand: "랜덤" };
+  main.querySelectorAll("[data-a]").forEach(b => b.onclick = () => renderCards(get(b.dataset.a), names[b.dataset.a]));
+  main.querySelectorAll("[data-q]").forEach(b => b.onclick = () => renderQuiz(get(b.dataset.q), names[b.dataset.q]));
+  document.getElementById("reset").onclick = () => { if (confirm("정말 초기화할까요?")) { P.s = {}; save(); render(); } };
+}
+
+render();
+</script>
+</body>
+</html>
