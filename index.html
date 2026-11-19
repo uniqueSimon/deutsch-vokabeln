@@ -141,14 +141,14 @@ function render() {
 // --- tab: word list ---
 function renderList() {
   const L = LESSONS[P.cur];
-  main.innerHTML = `<div class="tools"><button class="btn alt" id="hideKo">한국어 가리기</button><button class="btn alt" id="showAll">모두 보기</button><span class="muted">${L.name} · ${L.ws.length}단어 · 단어를 눌러 뜻 확인</span></div>` +
+  main.innerHTML = `<div class="tools"><button class="btn alt" id="hideKo">독일어 가리기</button><button class="btn alt" id="showAll">모두 보기</button><span class="muted">${L.name} · ${L.ws.length}단어 · 블러 처리된 독일어를 눌러 확인</span></div>` +
     L.ws.map(w => `<div class="card" data-id="${w.id}">
       <div class="row"><button class="play" onclick="say('${esc(full(w)).replace(/'/g, "\\'")}')">🔊</button>
-        <div class="grow"><div class="w">${artHtml(w)}${esc(w.de)}<span class="extra">${esc(w.extra)}</span></div>
-          <div class="ko reveal open">${esc(w.ko)}</div></div>
+        <div class="grow"><div class="w reveal open">${artHtml(w)}${esc(w.de)}<span class="extra">${esc(w.extra)}</span></div>
+          <div class="ko">${esc(w.ko)}</div></div>
         <input type="checkbox" class="known" title="외웠어요" ${known(w.id) ? "checked" : ""}></div>
       ${w.note ? `<div class="note">${esc(w.note)}</div>` : ""}
-      ${w.ex.map(([d, k]) => `<div class="ex"><div class="row"><button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button><div class="grow">${esc(d)}<div class="exko reveal open">${esc(k)}</div></div></div></div>`).join("")}
+      ${w.ex.map(([d, k]) => `<div class="ex"><div class="row"><button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button><div class="grow"><div class="reveal open">${esc(d)}</div><div class="exko">${esc(k)}</div></div></div></div>`).join("")}
     </div>`).join("");
   main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
   main.querySelectorAll(".known").forEach(c => c.onchange = () => {
