@@ -148,16 +148,11 @@ function renderList() {
     L.ws.map(w => `<div class="card" data-id="${w.id}">
       <div class="row"><button class="play" onclick="say('${esc(full(w)).replace(/'/g, "\\'")}')">🔊</button>
         <div class="grow"><div class="w reveal open">${artHtml(w)}${esc(w.de)}<span class="extra">${esc(w.extra)}</span></div>
-          <div class="ko">${esc(w.ko)}</div></div>
-        <input type="checkbox" class="known" title="외웠어요" ${known(w.id) ? "checked" : ""}></div>
+          <div class="ko">${esc(w.ko)}</div></div></div>
       ${w.note ? `<div class="note">${esc(w.note)}</div>` : ""}
       ${w.ex.map(([d, k]) => `<div class="ex"><div class="row"><button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button><div class="grow"><div class="reveal open">${esc(d)}</div><div class="exko">${esc(k)}</div></div></div></div>`).join("")}
     </div>`).join("");
   main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
-  main.querySelectorAll(".known").forEach(c => c.onchange = () => {
-    const id = +c.closest(".card").dataset.id, s = st(id);
-    s.box = c.checked ? 4 : 0; s.due = Date.now() + (c.checked ? GAPS[4] * DAY : 0); save(); updateStat();
-  });
   document.getElementById("hideKo").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.remove("open"));
   document.getElementById("showAll").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.add("open"));
 }
