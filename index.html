@@ -33,6 +33,7 @@
   .w { font-size:24px; font-weight:600; }
   .extra { font-size:14px; color:var(--muted); margin-left:6px; font-weight:400; }
   .ko { font-size:18px; color:var(--accent); }
+  .pick { width:20px; height:20px; flex:none; accent-color:var(--accent); cursor:pointer; margin:6px 2px 0 0; }
   .reveal { cursor:pointer; filter:blur(7px); user-select:none; } .reveal.open { filter:none; }
   .ex { margin-top:8px; padding-top:8px; border-top:1px dashed #e4e0d8; font-size:16px; }
   .ex .exko { font-size:14px; color:#666; margin-top:2px; }
@@ -62,7 +63,7 @@
 <script src="data.js"></script>
 <script src="stories.js"></script>
 <script>
-const TABS = [["list","📖 단어"],["story","📚 이야기"],["quiz","✏️ 퀴즈"]];
+const TABS = [["list","📖 단어"],["story","📚 이야기"],["quiz","✏️ 퀴즈"],["saved","⭐ 내 목록"]];
 const LESSONS = [];
 Object.keys(TOPICS).forEach(t => {
   const ws = WORDS.filter(w => String(w.t) === t);
@@ -78,6 +79,15 @@ function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { co
 // --- remembers last lesson/tab only ---
 const KEY = "deutsch-vokabeln-v1";
 let P = JSON.parse(localStorage.getItem(KEY) || '{"cur":0,"tab":"list"}');
+const SKEY = "deutsch-vokabeln-saved-v1";
+let SAVED = JSON.parse(localStorage.getItem(SKEY) || '{"w":[],"s":[]}');
+const saveSaved = () => localStorage.setItem(SKEY, JSON.stringify(SAVED));
+function toggleSaved(kind, key, on) {
+  const a = SAVED[kind], i = a.indexOf(key);
+  if (on && i < 0) a.push(key); else if (!on && i >= 0) a.splice(i, 1);
+  saveSaved();
+  const n = document.getElementById("savedCount"); if (n) n.textContent = SAVED.w.length + SAVED.s.length;
+}
 const save = () => localStorage.setItem(KEY, JSON.stringify({ cur: P.cur, tab: P.tab }));
 
 // --- speech ---
@@ -111,11 +121,12 @@ TABS.forEach(([k, label]) => {
 function render() {
   if (!TABS.some(t => t[0] === P.tab)) P.tab = "list";
   if (P.cur >= LESSONS.length) P.cur = 0;
+  nav.style.display = P.tab === "saved" ? "none" : "";
   [...nav.children].forEach((b, i) => b.classList.toggle("active", i === P.cur));
   [...tabsEl.children].forEach(b => b.classList.toggle("active", b.dataset.k === P.tab));
   const cur = nav.children[P.cur]; if (cur) cur.scrollIntoView({ block: "nearest", inline: "nearest" });
   speechSynthesis?.cancel();
-  ({ list: renderList, story: renderStory, quiz: renderQuiz })[P.tab]();
+  ({ list: renderList, story: renderStory, quiz: renderQuiz, saved: renderSaved })[P.tab]();
   window.scrollTo(0, 0);
 }
 
@@ -124,13 +135,41 @@ function renderList() {
   const L = LESSONS[P.cur];
   main.innerHTML = `<div class="tools"><button class="btn alt" id="hideKo">독일어 가리기</button><button class="btn alt" id="showAll">모두 보기</button><span class="muted">${L.name} · ${L.ws.length}단어 · 블러 처리된 독일어를 눌러 확인</span></div>` +
     L.ws.map(w => `<div class="card" data-id="${w.id}">
-      <div class="row"><button class="play" onclick="say('${esc(full(w)).replace(/'/g, "\\'")}')">🔊</button>
+      <div class="row"><input type="checkbox" class="pick" data-kind="w" data-key="${w.id}" ${SAVED.w.includes(String(w.id)) ? "checked" : ""}><button class="play" onclick="say('${esc(full(w)).replace(/'/g, "\\'")}')">🔊</button>
         <div class="grow"><div class="w reveal open">${artHtml(w)}${esc(w.de)}<span class="extra">${esc(w.extra)}</span></div>
           <div class="ko">${esc(w.ko)}</div></div></div>
       ${w.note ? `<div class="note">${esc(w.note)}</div>` : ""}
-      ${w.ex.map(([d, k]) => `<div class="ex"><div class="row"><button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button><div class="grow"><div class="reveal open">${esc(d)}</div><div class="exko">${esc(k)}</div></div></div></div>`).join("")}
+      ${w.ex.map(([d, k], j) => `<div class="ex"><div class="row"><input type="checkbox" class="pick" data-kind="s" data-key="${w.id}:${j}" ${SAVED.s.includes(w.id + ":" + j) ? "checked" : ""}><button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button><div class="grow"><div class="reveal open">${esc(d)}</div><div class="exko">${esc(k)}</div></div></div></div>`).join("")}
     </div>`).join("");
   main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
+  main.querySelectorAll(".pick").forEach(c => c.onchange = () => toggleSaved(c.dataset.kind, c.dataset.key, c.checked));
+  document.getElementById("hideKo").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.remove("open"));
+  document.getElementById("showAll").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.add("open"));
+}
+
+// --- tab: saved words & sentences (independent of topic) ---
+function renderSaved() {
+  const byId = new Map(WORDS.map(w => [String(w.id), w]));
+  SAVED.w = SAVED.w.filter(k => byId.has(k));
+  SAVED.s = SAVED.s.filter(k => { const [id, j] = k.split(":"); return byId.get(id)?.ex[j]; });
+  saveSaved();
+  const words = SAVED.w.map(k => byId.get(k));
+  const sents = SAVED.s.map(k => { const [id, j] = k.split(":"); return { key: k, w: byId.get(id), ex: byId.get(id).ex[j] }; });
+  const chk = (kind, key) => `<input type="checkbox" class="pick" data-kind="${kind}" data-key="${key}" checked title="목록에서 제거">`;
+  main.innerHTML = `<div class="tools"><button class="btn alt" id="hideKo">독일어 가리기</button><button class="btn alt" id="showAll">모두 보기</button><span class="muted">⭐ <span id="savedCount">${words.length + sents.length}</span>개 · 체크를 해제하면 목록에서 제거돼요</span></div>` +
+    (words.length ? `<h3>단어</h3>` : "") +
+    words.map(w => `<div class="card" data-kind="w" data-key="${w.id}"><div class="row">${chk("w", w.id)}<button class="play" onclick="say('${esc(full(w)).replace(/'/g, "\\'")}')">🔊</button>
+      <div class="grow"><div class="w reveal open">${artHtml(w)}${esc(w.de)}<span class="extra">${esc(w.extra)}</span></div><div class="ko">${esc(w.ko)}</div></div></div>
+      ${w.note ? `<div class="note">${esc(w.note)}</div>` : ""}</div>`).join("") +
+    (sents.length ? `<h3>문장</h3>` : "") +
+    sents.map(({ key, ex: [d, k] }) => `<div class="card" data-kind="s" data-key="${key}"><div class="row">${chk("s", key)}<button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button>
+      <div class="grow"><div class="reveal open">${esc(d)}</div><div class="exko ko" style="font-size:15px">${esc(k)}</div></div></div></div>`).join("") +
+    (words.length + sents.length ? "" : `<div class="card muted">저장된 항목이 없습니다. 📖 단어 탭에서 체크박스를 눌러 추가하세요.</div>`);
+  main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
+  main.querySelectorAll(".pick").forEach(c => c.onchange = () => {
+    toggleSaved(c.dataset.kind, c.dataset.key, c.checked);
+    if (!c.checked) { c.closest(".card").remove(); if (!SAVED.w.length && !SAVED.s.length) renderSaved(); }
+  });
   document.getElementById("hideKo").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.remove("open"));
   document.getElementById("showAll").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.add("open"));
 }
