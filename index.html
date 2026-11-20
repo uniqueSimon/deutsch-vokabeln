@@ -64,13 +64,15 @@
 <main id="main"></main>
 <script src="data.js"></script>
 <script>
-const LESSON_SIZE = 30;
-const TABS = [["list","📖 단어"],["cards","🃏 카드"],["quiz","✏️ 퀴즈"],["review","🔁 복습"]];
+const LESSON_SIZE = 40;
+const TABS = [["list","📖 단어"],["quiz","✏️ 퀴즈"],["review","🔁 복습"]];
 const LESSONS = [];
-for (let i = 0; i < WORDS.length; i += LESSON_SIZE) {
-  const ws = WORDS.slice(i, i + LESSON_SIZE);
-  LESSONS.push({ name: "Lektion " + (LESSONS.length + 1), ws, note: bare(ws[0]) + " – " + bare(ws[ws.length - 1]) });
-}
+Object.keys(TOPICS).forEach(t => {
+  const ws = WORDS.filter(w => String(w.t) === t);
+  const n = Math.ceil(ws.length / LESSON_SIZE) || 0, size = Math.ceil(ws.length / n);
+  const [de, ko] = TOPICS[t].split(" (");
+  for (let i = 0; i < n; i++) LESSONS.push({ name: de, ws: ws.slice(i * size, (i + 1) * size), note: (ko ? ko.replace(")", "") : "") + (n > 1 ? ` · ${i + 1}/${n}` : "") });
+});
 function bare(w) { return w.de.replace(/^sich /, ""); }
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c])); }
 function full(w) { return (w.art ? w.art + " " : "") + w.de; }
@@ -128,12 +130,13 @@ TABS.forEach(([k, label]) => {
 });
 
 function render() {
+  if (!TABS.some(t => t[0] === P.tab)) P.tab = "list";
   if (P.cur >= LESSONS.length) P.cur = 0;
   [...nav.children].forEach((b, i) => b.classList.toggle("active", P.tab !== "review" && i === P.cur));
   [...tabsEl.children].forEach(b => b.classList.toggle("active", b.dataset.k === P.tab));
   const cur = nav.children[P.cur]; if (cur && P.tab !== "review") cur.scrollIntoView({ block: "nearest", inline: "nearest" });
   speechSynthesis?.cancel();
-  ({ list: renderList, cards: renderCards, quiz: renderQuiz, review: renderReview })[P.tab]();
+  ({ list: renderList, quiz: renderQuiz, review: renderReview })[P.tab]();
   window.scrollTo(0, 0);
   updateStat();
 }
