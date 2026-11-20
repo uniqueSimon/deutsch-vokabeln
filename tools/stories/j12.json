@@ -1,0 +1,70 @@
+[
+{"title":"Mit der Bahn nach Zürich","title_ko":"기차로 취리히까지","type":"story","lines":[
+{"de":"Anna wohnt in München und fährt am Samstag mit der Eisenbahn nach Zürich.","ko":"안나는 뮌헨에 살고 토요일에 기차를 타고 취리히로 간다."},
+{"de":"Sie nimmt zuerst die S-Bahn zum Hauptbahnhof.","ko":"그녀는 먼저 S-Bahn을 타고 중앙역으로 간다."},
+{"de":"Dort kauft sie am Schalter ein Billett, denn eine Fahrkarte am Automaten ist ihr zu kompliziert.","ko":"그곳에서 그녀는 창구에서 표를 산다. 자동판매기에서 승차권을 사는 것은 너무 복잡하기 때문이다."},
+{"de":"Im Fahrplan sieht sie: Die Abfahrt ist um 9.10 Uhr auf Gleis 14.","ko":"시간표에서 그녀는 출발이 9시 10분 14번 선로임을 확인한다."},
+{"de":"Auf dem Bahnsteig hört sie eine Durchsage: Der Zug hat zehn Minuten Verspätung.","ko":"승강장에서 그녀는 안내 방송을 듣는다. 열차가 10분 늦는다는 것이다."},
+{"de":"Anna macht sich Sorgen wegen ihres Anschlusses in Lindau.","ko":"안나는 린다우에서의 환승이 걱정된다."},
+{"de":"Zum Glück hat sie dort einen Aufenthalt von zwanzig Minuten.","ko":"다행히 그곳에서 20분간 정차한다."},
+{"de":"Sie steigt mit ihrem schweren Koffer ein und legt das Gepäck in die Ablage.","ko":"그녀는 무거운 여행 가방을 들고 탑승해 짐을 선반에 올려놓는다."},
+{"de":"Als der Zug pünktlich in Zürich ankommt, wartet ihre Schwester schon auf sie.","ko":"기차가 제시간에 취리히에 도착하자 언니가 이미 그녀를 기다리고 있다."},
+{"de":"Die Ankunft ist für beide eine große Freude.","ko":"도착은 두 사람 모두에게 큰 기쁨이다."}
+]},
+{"title":"Unterwegs in der Stadt","title_ko":"도시에서 이동하기","type":"dialog","lines":[
+{"de":"Tim: Fährst du heute mit dem Auto zur Uni?","ko":"팀: 너 오늘 차 타고 대학에 가?"},
+{"de":"Lena: Nein, ich nehme lieber den Bus. Die Haltestelle ist gleich um die Ecke.","ko":"레나: 아니, 버스를 타는 게 더 좋아. 정류장이 바로 모퉁이야."},
+{"de":"Tim: Welche Linie fährt denn zur Uni?","ko":"팀: 대학까지 가는 노선이 뭔데?"},
+{"de":"Lena: Die Linie 5. Danach nehme ich die Straßenbahn bis zum Markt.","ko":"레나: 5번 노선이야. 그다음 시장까지는 트램을 타."},
+{"de":"Tim: Und warum nicht die U-Bahn?","ko":"팀: 그런데 왜 지하철은 안 타?"},
+{"de":"Lena: Die ist heute wegen einer Störung langsamer.","ko":"레나: 오늘은 고장 때문에 더 느려."},
+{"de":"Tim: Ich fahre mit dem Fahrrad. Aber an der Kreuzung muss ich immer aufpassen.","ko":"팀: 나는 자전거로 가. 근데 교차로에서는 항상 조심해야 해."},
+{"de":"Lena: Stimmt. Bei Rot an der Ampel muss man warten.","ko":"레나: 맞아. 신호등이 빨간불이면 기다려야 해."},
+{"de":"Tim: Und der Gehsteig ist für die Fußgänger da, nicht für Radfahrer.","ko":"팀: 그리고 인도는 보행자를 위한 거지 자전거 타는 사람을 위한 게 아니야."},
+{"de":"Lena: Genau. Dann bis später an der Uni!","ko":"레나: 맞아. 그럼 이따 대학에서 보자!"}
+]},
+{"title":"Eine Fahrt auf der Autobahn","title_ko":"고속도로 주행","type":"story","lines":[
+{"de":"Herr Braun tankt zuerst Benzin, bevor die Familie losfährt.","ko":"브라운 씨는 가족이 출발하기 전에 먼저 휘발유를 넣는다."},
+{"de":"Alle müssen sich anschnallen, auch die Kinder auf dem Rücksitz.","ko":"모두 안전벨트를 매야 하고, 뒷좌석의 아이들도 마찬가지다."},
+{"de":"An der Einfahrt zur Autobahn gibt er langsam Gas.","ko":"고속도로 진입로에서 그는 천천히 가속한다."},
+{"de":"Auf der Fahrbahn ist viel los, und eine Geschwindigkeitsbeschränkung von 100 gilt wegen der Baustelle.","ko":"차도에는 차가 많고, 공사 때문에 속도 제한 100이 적용된다."},
+{"de":"Herr Braun achtet auf seine Geschwindigkeit und fährt nicht schneller.","ko":"브라운 씨는 속도에 주의하며 더 빨리 달리지 않는다."},
+{"de":"Vor einer scharfen Kurve muss er plötzlich bremsen.","ko":"급커브 앞에서 그는 갑자기 브레이크를 밟아야 한다."},
+{"de":"Zum Glück funktioniert die Bremse sehr gut.","ko":"다행히 브레이크가 아주 잘 작동한다."},
+{"de":"An der nächsten Ausfahrt will er abfahren, um eine Pause zu machen.","ko":"다음 출구에서 그는 휴식을 위해 고속도로를 빠져나가려 한다."},
+{"de":"Danach muss er links abbiegen, aber die Straße ist eine Einbahnstraße.","ko":"그 후 좌회전해야 하지만 그 길은 일방통행로다."},
+{"de":"Also biegt er rechts ab und findet einen Parkplatz.","ko":"그래서 그는 우회전해서 주차 공간을 찾는다."}
+]},
+{"title":"Verkehrskontrolle","title_ko":"교통 단속","type":"dialog","lines":[
+{"de":"Polizist: Guten Tag, das ist eine Kontrolle. Bitte halten Sie hier an.","ko":"경찰: 안녕하세요, 단속입니다. 여기서 멈춰 주세요."},
+{"de":"Fahrer: Guten Tag. Habe ich etwas falsch gemacht?","ko":"운전자: 안녕하세요. 제가 뭘 잘못했나요?"},
+{"de":"Polizist: Nein, wir prüfen nur das Fahrzeug. Zeigen Sie mir bitte Ihren Führerschein.","ko":"경찰: 아니요, 차량만 점검합니다. 운전면허증을 보여 주세요."},
+{"de":"Fahrer: Hier, bitte. Ich komme aus der Schweiz, dort heißt es Führerausweis.","ko":"운전자: 여기 있습니다. 저는 스위스에서 왔는데 거기서는 Führerausweis라고 불러요."},
+{"de":"Polizist: Danke. Das Kennzeichen ist auch schweizerisch, oder?","ko":"경찰: 감사합니다. 번호판도 스위스 것이죠?"},
+{"de":"Fahrer: Ja, wir sind gerade an der Grenze nach Deutschland gekommen.","ko":"운전자: 네, 방금 독일 국경을 넘어왔어요."},
+{"de":"Polizist: Ist das Kraftfahrzeug Ihr eigenes?","ko":"경찰: 이 자동차는 본인 소유인가요?"},
+{"de":"Fahrer: Ja, und der Laster vor uns gehört einem Freund von mir.","ko":"운전자: 네, 그리고 우리 앞의 트럭은 제 친구 거예요."},
+{"de":"Polizist: Gut, alles in Ordnung. Beim nächsten Halt können Sie weiterfahren.","ko":"경찰: 좋습니다, 다 괜찮네요. 다음 정차 때 계속 가셔도 됩니다."},
+{"de":"Fahrer: Vielen Dank, schönen Tag noch!","ko":"운전자: 감사합니다, 좋은 하루 되세요!"}
+]},
+{"title":"Urlaub mit dem Flugzeug","title_ko":"비행기로 떠나는 휴가","type":"story","lines":[
+{"de":"Familie Weber möchte im Sommer nach Spanien fliegen.","ko":"베버 가족은 여름에 스페인으로 가고 싶어 한다."},
+{"de":"Im Internet buchen sie einen billigen Flug und ein Hotel am Meer.","ko":"그들은 인터넷으로 저렴한 항공편과 바닷가 호텔을 예약한다."},
+{"de":"Sie nehmen Halbpension, also Frühstück und Abendessen.","ko":"그들은 하프 보드를 선택하는데, 즉 아침과 저녁 식사가 포함된다."},
+{"de":"Für eine Nacht wohnt der Sohn mit seinen Freunden in einer Jugendherberge.","ko":"아들은 하룻밤 친구들과 유스호스텔에 묵는다."},
+{"de":"Am Flughafen müssen sie lange warten, bis sie ins Flugzeug dürfen.","ko":"공항에서 그들은 비행기에 탑승할 수 있을 때까지 오래 기다려야 한다."},
+{"de":"Der Pilot sagt, die Landung ist in zwei Stunden.","ko":"기장은 두 시간 후에 착륙한다고 말한다."},
+{"de":"Das Flugzeug landet pünktlich bei schönem Wetter.","ko":"비행기는 좋은 날씨 속에 제시간에 착륙한다."}
+]},
+{"title":"Am Hafen","title_ko":"항구에서","type":"dialog","lines":[
+{"de":"Paul: Schau mal, im Hafen liegen so viele Boote!","ko":"파울: 봐, 항구에 배가 정말 많아!"},
+{"de":"Mia: Wir wollen mit der Fähre zur Insel, oder?","ko":"미아: 우리 페리 타고 섬에 가려는 거지?"},
+{"de":"Paul: Ja, aber ich habe die Fahrkarte noch nicht gekauft.","ko":"파울: 응, 근데 아직 승선권을 안 샀어."},
+{"de":"Mia: Dann beeil dich, die Abfahrt ist in zehn Minuten.","ko":"미아: 그럼 서둘러, 10분 뒤에 출발이야."},
+{"de":"Paul: Wann ist die Ankunft auf der Insel?","ko":"파울: 섬에는 언제 도착해?"},
+{"de":"Mia: Nach einer Stunde, glaube ich. Schau in den Fahrplan.","ko":"미아: 한 시간 뒤일 거야. 시간표를 봐."},
+{"de":"Paul: Stimmt. Und mein Koffer? Der ist ziemlich schwer.","ko":"파울: 맞네. 내 여행 가방은? 꽤 무겁거든."},
+{"de":"Mia: Gib ihn mir, ich trage das Gepäck zum Schiff.","ko":"미아: 나 줘, 내가 짐을 배까지 들고 갈게."},
+{"de":"Paul: Danke! Hoffentlich sind wir nicht zu spät.","ko":"파울: 고마워! 너무 늦지 않았으면 좋겠다."}
+]}
+]

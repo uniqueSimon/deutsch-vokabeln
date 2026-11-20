@@ -1,0 +1,70 @@
+[
+{"title":"Ein Abend in der Oper","title_ko":"오페라의 밤","type":"story","lines":[
+{"de":"Am Samstag gehe ich mit meiner Schwester in die Oper.","ko":"토요일에 나는 여동생과 함께 오페라를 보러 간다."},
+{"de":"Das Orchester spielt schon vor der Vorstellung leise Musik.","ko":"오케스트라는 공연 시작 전부터 조용히 음악을 연주한다."},
+{"de":"Der Sänger in der Hauptrolle ist ein bekannter Star.","ko":"주역을 맡은 가수는 유명한 스타이다."},
+{"de":"Er singt so schön, dass das ganze Publikum still zuhört.","ko":"그는 노래를 너무 아름답게 불러서 관객 모두가 조용히 귀를 기울인다."},
+{"de":"Der Stil der Inszenierung ist modern, und die Kostüme sind stilistisch sehr mutig.","ko":"연출 스타일은 현대적이고, 의상은 스타일 면에서 매우 대담하다."},
+{"de":"Die letzte Szene gefällt allen Zuhörern am besten.","ko":"마지막 장면이 모든 청중에게 가장 인기가 좋다."},
+{"de":"Danach klatschen die Zuschauer mehrere Minuten lang.","ko":"그 후 관객들은 몇 분 동안 박수를 친다."},
+{"de":"Nächste Woche möchten wir auch ins Theater gehen.","ko":"다음 주에는 극장에도 가고 싶다."},
+{"de":"Dort spielt ein Schauspieler, den meine Schwester sehr mag.","ko":"그곳에서는 여동생이 아주 좋아하는 배우가 연기한다."}
+]},
+{"title":"Die Geburtstagsparty","title_ko":"생일 파티","type":"dialog","lines":[
+{"de":"Lena: Hast du Lust auf meine Party am Freitag?","ko":"레나: 금요일 내 파티에 올래?"},
+{"de":"Tom: Gern! Gibt es auch Spiele für die Gäste?","ko":"톰: 좋아! 손님들을 위한 게임도 있어?"},
+{"de":"Lena: Ja, wir machen ein Quiz und ein Rätsel mit vielen Fragen.","ko":"레나: 응, 질문이 많은 퀴즈랑 수수께끼를 할 거야."},
+{"de":"Tom: Super, das macht bestimmt Spaß. Ich kenne auch einen guten Witz.","ko":"톰: 좋네, 분명 재미있겠다. 나도 좋은 농담 하나 알아."},
+{"de":"Lena: Erzähl ihn mir! Ich möchte, dass alle sich vergnügen.","ko":"레나: 말해 줘! 다들 즐겁게 놀았으면 좋겠어."},
+{"de":"Tom: Wird auch getanzt?","ko":"톰: 춤도 추니?"},
+{"de":"Lena: Natürlich! Mein Bruder zeigt uns einen neuen Tanz.","ko":"레나: 물론이지! 오빠가 새로운 춤을 보여 줄 거야."},
+{"de":"Tom: Und wer singt? Ich kann leider nur schlecht singen.","ko":"톰: 그럼 누가 노래해? 나는 노래를 정말 못 하거든."},
+{"de":"Lena: Keine Sorge, wir singen alle zusammen.","ko":"레나: 걱정 마, 다 같이 부를 거야."},
+{"de":"Tom: Dann komme ich gerne. Ich bringe noch ein Spiel mit.","ko":"톰: 그럼 기꺼이 갈게. 게임도 하나 가져갈게."}
+]},
+{"title":"Der Schriftsteller und die Kinder","title_ko":"작가와 아이들","type":"story","lines":[
+{"de":"Herr Brandt ist ein Schriftsteller und hat einen berühmten Roman geschrieben.","ko":"브란트 씨는 작가이고 유명한 소설을 한 편 썼다."},
+{"de":"Heute liest er den Kindern in der Bibliothek etwas vor.","ko":"오늘 그는 도서관에서 아이들에게 책을 읽어 준다."},
+{"de":"Danach dürfen die Kinder eine Zeichnung zur Geschichte machen.","ko":"그다음 아이들은 이야기에 맞는 그림을 그릴 수 있다."},
+{"de":"Ein Mädchen möchte einen Zirkus zeichnen, ein Junge lieber den Zoo.","ko":"한 소녀는 서커스를, 한 소년은 동물원을 그리고 싶어 한다."},
+{"de":"Auf dem Boden liegen viele Puppen und anderes Spielzeug.","ko":"바닥에는 인형과 다른 장난감이 많이 놓여 있다."},
+{"de":"Nach der Lesung gehen alle zum Spielplatz neben der Bibliothek.","ko":"낭독 후 모두 도서관 옆 놀이터로 간다."},
+{"de":"Der Schriftsteller sagt, dass ihm die Kinder die besten Ideen geben.","ko":"작가는 아이들이 자기에게 최고의 아이디어를 준다고 말한다."}
+]},
+{"title":"Der Weg zum Sieg","title_ko":"승리로 가는 길","type":"story","lines":[
+{"de":"Jonas ist kein Profisportler, aber er trainiert dreimal pro Woche in seinem Verein.","ko":"요나스는 프로 운동선수는 아니지만 자기 동호회에서 일주일에 세 번 훈련한다."},
+{"de":"Sein Trainer plant jedes Training sehr genau.","ko":"그의 코치는 매번 훈련을 아주 세밀하게 계획한다."},
+{"de":"Im Mai möchte Jonas an einem großen Wettbewerb teilnehmen.","ko":"5월에 요나스는 큰 대회에 참가하고 싶어 한다."},
+{"de":"Die Teilnahme ist kostenlos, und viele Sportler aus der Region kommen.","ko":"참가는 무료이고 지역의 많은 운동선수들이 온다."},
+{"de":"Jonas hofft auf einen neuen Rekord, denn er will unbedingt siegen.","ko":"요나스는 새 기록을 기대한다. 꼭 이기고 싶기 때문이다."},
+{"de":"Am Ende gewinnt er tatsächlich, und der Sieg macht ihn sehr stolz.","ko":"결국 그는 실제로 우승하고, 그 승리는 그를 아주 자랑스럽게 만든다."},
+{"de":"Der Sieger bekommt einen Pokal, aber auch der Verlierer bekommt Applaus.","ko":"승자는 트로피를 받지만 패자도 박수를 받는다."}
+]},
+{"title":"Welchen Sport machst du?","title_ko":"어떤 운동을 하니?","type":"dialog","lines":[
+{"de":"Mia: Treibst du eigentlich Sport?","ko":"미아: 너 운동 하긴 하니?"},
+{"de":"Paul: Ja, ich spiele Tennis und manchmal Volleyball.","ko":"파울: 응, 테니스를 치고 가끔 배구도 해."},
+{"de":"Mia: Du bist wirklich sportlich! Welche Sportart gefällt dir am besten?","ko":"미아: 너 정말 운동 잘하는구나! 어떤 종목이 제일 좋아?"},
+{"de":"Paul: Im Winter fahre ich gern Ski, aber Tennis ist mein Favorit.","ko":"파울: 겨울엔 스키 타는 것도 좋아하지만 테니스가 제일 좋아."},
+{"de":"Mia: Bist du ein guter Spieler?","ko":"미아: 너 잘하는 선수야?"},
+{"de":"Paul: Ich glaube schon. Wenn ich den Ball richtig schieße, kann niemand ihn zurückschlagen.","ko":"파울: 그런 것 같아. 내가 공을 제대로 치면 아무도 받아치지 못해."},
+{"de":"Mia: Das glaube ich nicht. Wollen wir wetten?","ko":"미아: 못 믿겠어. 내기할래?"},
+{"de":"Paul: Gut, aber nur um ein Eis.","ko":"파울: 좋아, 하지만 아이스크림 내기만."},
+{"de":"Mia: Abgemacht! Morgen nach der Arbeit gibt es ein Spiel.","ko":"미아: 좋아! 내일 일 끝나고 한 경기 하자."}
+]},
+{"title":"Ein Wochenende im Freien","title_ko":"야외에서의 주말","type":"story","lines":[
+{"de":"Am Wochenende macht unsere Familie eine Wanderung in den Bergen.","ko":"주말에 우리 가족은 산으로 하이킹을 간다."},
+{"de":"Wir wandern den ganzen Tag und machen mittags ein Picknick.","ko":"우리는 하루 종일 걸으며 점심에는 소풍을 즐긴다."},
+{"de":"Am Abend bauen wir ein Zelt auf, denn wir wollen im Wald zelten.","ko":"저녁에 우리는 숲에서 야영하고 싶어서 텐트를 친다."},
+{"de":"Vor dem Schlafen machen wir noch einen kurzen Spaziergang am See.","ko":"자기 전에 호숫가에서 짧게 산책을 한다."},
+{"de":"Mein Vater will am nächsten Tag lieber im See schwimmen und tauchen.","ko":"아버지는 다음 날 호수에서 수영하고 잠수하고 싶어 하신다."},
+{"de":"Meine Schwester möchte dagegen reiten, weil es in der Nähe einen Bauernhof gibt.","ko":"반면 여동생은 근처에 농장이 있어서 말을 타고 싶어 한다."},
+{"de":"Wenn das Wetter schlecht ist, gehen wir zu Hause ins Schwimmbad.","ko":"날씨가 나쁘면 집에 와서 수영장에 간다."},
+{"de":"Am Sonntag besuchen wir noch eine Veranstaltung im Dorf, wo wir spazieren gehen und Musik hören.","ko":"일요일에는 마을의 행사에 들러 산책하며 음악을 듣는다."}
+]},
+{"title":"Ein Tag in der Stadt","title_ko":"도시에서의 하루","type":"story","lines":[
+{"de":"Am Nachmittag gehen wir in den Zirkus, weil dort eine besondere Vorstellung läuft.","ko":"오후에 우리는 특별한 공연이 있어서 서커스에 간다."},
+{"de":"Die Zuschauer lachen laut über die Witze des Clowns.","ko":"관객들은 광대의 농담에 크게 웃는다."},
+{"de":"Anschließend sehen wir uns im Zoo die Tiere an.","ko":"그 후 우리는 동물원에서 동물들을 구경한다."},
+{"de":"Mein Sohn schaut den Affen lange zu und spielt dann mit seiner Puppe.","ko":"아들은 원숭이를 오랫동안 지켜보다가 자기 인형을 가지고 논다."}
+]}
+]

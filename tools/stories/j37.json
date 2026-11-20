@@ -1,0 +1,134 @@
+[
+{"title":"Der Umzug","title_ko":"이사","type":"story","lines":[
+{"de":"Nachdem Lena nach Berlin gezogen war, hatte sie ziemlich viel zu tun.","ko":"레나는 베를린으로 이사한 후 꽤 할 일이 많았다."},
+{"de":"Sie wollte möglichst schnell alles auspacken, sodass die Wohnung wohnlich wird.","ko":"그녀는 집이 아늑해지도록 가능한 한 빨리 모든 것을 풀고 싶었다."},
+{"de":"Zusammen mit ihrem Bruder trug sie ein paar schwere Kisten nach oben.","ko":"그녀는 남동생과 함께 무거운 상자 몇 개를 위로 날랐다."},
+{"de":"Der Bruder meinte: „Meinetwegen können wir morgen weitermachen, sonst sind wir total kaputt.“","ko":"동생이 말했다. \"나는 내일 계속해도 상관없어, 안 그러면 우리 완전히 녹초가 될 거야.\""},
+{"de":"Aber Lena sagte: „Nein, ich will nicht warten, solange noch Kisten im Flur stehen.“","ko":"하지만 레나는 말했다. \"아니, 복도에 아직 상자가 있는 동안은 기다리고 싶지 않아.\""},
+{"de":"Schließlich war sogar die Küche fertig, obwohl es schon spät war.","ko":"결국 늦은 시간이었는데도 부엌까지 다 끝났다."},
+{"de":"Überall standen Blumen, denn die Nachbarn hatten sie willkommen geheißen.","ko":"이웃들이 그녀를 환영해 주었기 때문에 곳곳에 꽃이 놓여 있었다."},
+{"de":"Niemand hatte ihr vorher etwas gesagt, aber nun fühlte sie sich sehr wohl.","ko":"아무도 미리 말해 주지 않았지만, 이제 그녀는 아주 편안함을 느꼈다."}
+]},
+{"title":"Pizza per Telefon","title_ko":"전화로 주문하는 피자","type":"dialog","lines":[
+{"de":"Anna: Hallo Tom, wo bist du gerade?","ko":"안나: 안녕 톰, 지금 어디야?"},
+{"de":"Tom: Ich bin noch im Büro. Warum fragst du?","ko":"톰: 아직 사무실이야. 왜 물어?"},
+{"de":"Anna: Wann kommst du nach Hause, und was möchtest du essen?","ko":"안나: 언제 집에 오고, 뭐 먹고 싶어?"},
+{"de":"Tom: Das weiß ich nicht. Wieso kochst du überhaupt heute selbst?","ko":"톰: 모르겠어. 근데 오늘 왜 굳이 네가 직접 요리해?"},
+{"de":"Anna: Weil ich seit Tagen nichts anderes gegessen habe als Brot.","ko":"안나: 며칠째 빵밖에 안 먹었거든."},
+{"de":"Tom: Wirklich? Dann bestelle ich per Handy zwei Pizzen, eine pro Person.","ko":"톰: 정말? 그럼 휴대폰으로 피자 두 판, 한 사람당 한 판 주문할게."},
+{"de":"Anna: Gut. Woher kommt der Lieferdienst eigentlich? Wohin soll er liefern?","ko":"안나: 좋아. 그런데 배달 서비스는 어디서 와? 어디로 배달해야 해?"},
+{"de":"Tom: Er kommt von der Ecke und liefert zu uns. Übrigens, ob Peter auch kommt, weiß ich nicht.","ko":"톰: 모퉁이에서 와서 우리 집으로 배달해. 그건 그렇고, 페터가 올지는 나도 몰라."},
+{"de":"Anna: Egal, wir essen sowieso zu zweit. Wenigstens haben wir Ruhe.","ko":"안나: 상관없어, 어차피 둘이 먹을 거야. 적어도 조용하잖아."},
+{"de":"Tom: Bis gleich! Vielleicht bin ich in zehn Minuten da.","ko":"톰: 이따 봐! 어쩌면 10분 뒤에 도착할 거야."}
+]},
+{"title":"Ein Missverständnis im Büro","title_ko":"사무실에서의 오해","type":"story","lines":[
+{"de":"Manche Kollegen reden selten miteinander, und das führt oft zu Missverständnissen.","ko":"어떤 동료들은 서로 드물게 이야기하고, 그것이 자주 오해로 이어진다."},
+{"de":"Man glaubt dann schnell, der andere sei unfreundlich.","ko":"그러면 사람들은 상대가 불친절하다고 금방 믿어 버린다."},
+{"de":"Bei Jonas war es meistens so: Er arbeitete ständig am Computer und sagte nichts.","ko":"요나스는 대개 그랬다. 그는 계속 컴퓨터로 일하며 아무 말도 하지 않았다."},
+{"de":"Offenbar dachte Mia, dass er sie nicht mag.","ko":"미아는 보아하니 그가 자기를 싫어한다고 생각했다."},
+{"de":"Er hatte nämlich nur sehr viel Stress, weil ein großes Projekt weltweit starten sollte.","ko":"사실 그는 전 세계적으로 시작될 큰 프로젝트 때문에 스트레스가 아주 많았을 뿐이다."},
+{"de":"Natürlich wollte er nebenbei auch freundlich bleiben, aber das war schwer.","ko":"물론 그는 틈틈이 친절하게 지내고 싶었지만 그것은 어려웠다."},
+{"de":"Eines Tages fragte Mia ihn direkt, und er erklärte alles noch mal.","ko":"어느 날 미아가 그에게 직접 물었고, 그는 모든 것을 다시 한번 설명했다."},
+{"de":"Seitdem sprechen sie wieder offen, und umgekehrt hilft er ihr auch öfter.","ko":"그 이후로 그들은 다시 솔직하게 말하고, 반대로 그도 그녀를 더 자주 돕는다."}
+]},
+{"title":"Das Wochenende planen","title_ko":"주말 계획 세우기","type":"dialog","lines":[
+{"de":"Paul: Was für ein Wetter! Wollen wir am Wochenende wandern?","ko":"파울: 날씨 정말 좋다! 주말에 등산 갈까?"},
+{"de":"Sara: Gern, aber wir müssen unbedingt früh losgehen, sonst ist es zu voll.","ko":"사라: 좋아, 하지만 꼭 일찍 출발해야 해, 안 그러면 너무 붐벼."},
+{"de":"Paul: Um wie viel Uhr treffen wir uns?","ko":"파울: 몇 시에 만날까?"},
+{"de":"Sara: Um sieben, um vor der Hitze oben zu sein.","ko":"사라: 7시에, 더위가 오기 전에 위에 도착하려고."},
+{"de":"Paul: Wahrscheinlich regnet es nicht, und voraussichtlich bleibt es den ganzen Tag trocken.","ko":"파울: 아마 비는 안 올 거야, 예상대로라면 하루 종일 맑을 거래."},
+{"de":"Sara: Welcher Weg ist besser, der über den Berg oder der durch das Tal?","ko":"사라: 어느 길이 더 좋아, 산 위로 가는 길이야 계곡을 지나는 길이야?"},
+{"de":"Paul: Der über den Berg ist zwar anstrengend, aber die Aussicht ist wirklich schön.","ko":"파울: 산 위로 가는 길이 물론 힘들지만, 전망이 정말 아름다워."},
+{"de":"Sara: Dann nehmen wir zusätzlich Wasser mit, vor allem für dich.","ko":"사라: 그럼 물을 추가로 가져가자, 특히 너를 위해서."},
+{"de":"Paul: Hast du ein paar Äpfel? Wenn nicht, kaufe ich welche.","ko":"파울: 사과 몇 개 있어? 없으면 내가 살게."},
+{"de":"Sara: Ich bringe welche mit. Wir werden einen tollen Tag haben!","ko":"사라: 내가 가져갈게. 우리 멋진 하루를 보내게 될 거야!"}
+]},
+{"title":"Neu in der Stadt","title_ko":"도시에 새로 온 사람","type":"story","lines":[
+{"de":"Seit zwei Monaten wohnt Min-jun in Hamburg, und er mag die Stadt sehr.","ko":"민준은 두 달 전부터 함부르크에 살고 있고 이 도시를 아주 좋아한다."},
+{"de":"Er lernt sowohl Deutsch als auch Englisch, weil er in einer internationalen Firma arbeitet.","ko":"그는 국제적인 회사에서 일하기 때문에 독일어뿐만 아니라 영어도 배운다."},
+{"de":"Statt mit dem Auto fährt er mit dem Fahrrad zur Arbeit.","ko":"그는 자동차 대신 자전거로 출근한다."},
+{"de":"Trotz des Regens ist er gestern gefahren, denn er hat weder Bus noch Bahn genommen.","ko":"그는 비가 오는데도 어제 자전거를 탔는데, 버스도 지하철도 타지 않았다."},
+{"de":"Sobald er ankam, war er völlig nass.","ko":"그는 도착하자마자 완전히 젖어 있었다."},
+{"de":"Seine Kollegin lachte und sagte: „Du solltest dir wirklich eine Regenjacke kaufen.“","ko":"동료가 웃으며 말했다. \"너 정말 비옷을 사야겠다.\""},
+{"de":"Wegen des Wetters trinkt er jetzt öfter Tee, und das tut ihm wohl.","ko":"날씨 때문에 그는 이제 차를 더 자주 마시는데, 그게 몸에 좋다."},
+{"de":"Trotzdem vermisst er manchmal seine Familie, vermutlich am meisten am Abend.","ko":"그래도 그는 가끔 가족이 그립고, 아마 저녁에 가장 그럴 것이다."}
+]},
+{"title":"Beim Arzt","title_ko":"병원에서","type":"dialog","lines":[
+{"de":"Ärztin: Guten Tag, wie geht es Ihnen? Was fehlt Ihnen?","ko":"의사: 안녕하세요, 어떠세요? 어디가 안 좋으세요?"},
+{"de":"Patient: Ich habe schon seit einer Woche Kopfschmerzen, und ich schlafe schlecht.","ko":"환자: 일주일 전부터 벌써 두통이 있고 잠도 잘 못 자요."},
+{"de":"Ärztin: Worüber machen Sie sich Sorgen? Gibt es Stress?","ko":"의사: 무엇에 대해 걱정하시나요? 스트레스가 있나요?"},
+{"de":"Patient: Ja, es geht um meine Arbeit. Ich arbeite ziemlich lange, manchmal ohne Pause.","ko":"환자: 네, 제 일 때문이에요. 꽤 오래 일하고, 가끔은 쉬는 시간도 없어요."},
+{"de":"Ärztin: Das ist ungesund. Sie sollten wenigstens zwei Pausen pro Tag machen.","ko":"의사: 그건 건강에 안 좋아요. 적어도 하루에 두 번은 쉬셔야 해요."},
+{"de":"Patient: Selbstverständlich, aber wann soll ich das schaffen?","ko":"환자: 물론이죠, 하지만 언제 그럴 수 있을까요?"},
+{"de":"Ärztin: Nach dem Mittagessen zum Beispiel. Und Sie sollten möglichst früh schlafen.","ko":"의사: 예를 들어 점심 식사 후에요. 그리고 되도록 일찍 주무세요."},
+{"de":"Patient: Muss ich Tabletten nehmen, oder geht es auch ohne?","ko":"환자: 약을 먹어야 하나요, 아니면 없이도 괜찮나요?"},
+{"de":"Ärztin: Nein, nicht nötig. Kommen Sie in einer Woche wieder, dann sehen wir weiter.","ko":"의사: 아니요, 필요 없어요. 일주일 후에 다시 오세요, 그때 더 보죠."},
+{"de":"Patient: Danke, Frau Doktor. Ich werde es versuchen.","ko":"환자: 감사합니다, 선생님. 노력해 볼게요."}
+]},
+{"title":"Das Fußballspiel","title_ko":"축구 경기","type":"story","lines":[
+{"de":"Das Spiel war nur noch zehn Minuten lang, und es stand unentschieden.","ko":"경기는 이제 10분밖에 남지 않았고 무승부였다."},
+{"de":"Die sogenannten Experten im Fernsehen hatten vorausgesagt, dass die Heimmannschaft verliert.","ko":"텔레비전의 이른바 전문가들은 홈팀이 질 것이라고 미리 예측했었다."},
+{"de":"Aber tatsächlich spielten die Spieler so gut, dass alle im Stadion aufstanden.","ko":"하지만 실제로 선수들이 아주 잘해서 경기장의 모든 사람이 일어섰다."},
+{"de":"Solche Spiele sieht man selten, und überall jubelten die Fans.","ko":"이런 경기는 드물게 볼 수 있고, 곳곳에서 팬들이 환호했다."},
+{"de":"Kurz vor dem Ende schoss der Stürmer sogar selbst das entscheidende Tor.","ko":"종료 직전에 공격수가 직접 결정적인 골을 넣기까지 했다."},
+{"de":"Niemand konnte es glauben, und manche weinten vor Freude.","ko":"아무도 믿을 수 없었고, 몇몇은 기뻐서 울었다."},
+{"de":"Nach dem Spiel feierten alle zusammen auf der Straße, obwohl es spät war.","ko":"경기 후 모두 늦은 시간인데도 거리에서 함께 축하했다."},
+{"de":"Das war ein total schöner Abend, und wir werden ihn nicht vergessen.","ko":"정말 멋진 저녁이었고 우리는 그것을 잊지 못할 것이다."}
+]},
+{"title":"Im Supermarkt","title_ko":"슈퍼마켓에서","type":"dialog","lines":[
+{"de":"Jan: Entschuldigung, wo finde ich Mehl? Ich suche es schon eine Weile.","ko":"얀: 실례합니다, 밀가루는 어디 있나요? 한참 찾고 있어요."},
+{"de":"Verkäuferin: Dort hinten, zwischen dem Zucker und dem Reis.","ko":"점원: 저기 뒤쪽, 설탕과 쌀 사이에 있어요."},
+{"de":"Jan: Danke. Wissen Sie, ob es auch Bio-Mehl gibt?","ko":"얀: 감사합니다. 유기농 밀가루도 있는지 아세요?"},
+{"de":"Verkäuferin: Ja, aber nur noch wenige Packungen. Es ist übrigens im Angebot.","ko":"점원: 네, 하지만 이제 몇 팩밖에 안 남았어요. 참, 할인 중이에요."},
+{"de":"Jan: Dann nehme ich zwei. Ich backe nämlich morgen einen Kuchen für meine Mutter.","ko":"얀: 그럼 두 개 살게요. 사실 내일 어머니께 드릴 케이크를 굽거든요."},
+{"de":"Verkäuferin: Wie schön! Brauchen Sie auch Eier? Die sind ziemlich günstig.","ko":"점원: 좋네요! 달걀도 필요하세요? 꽤 저렴해요."},
+{"de":"Jan: Nein, Eier habe ich schon. Aber vielleicht noch etwas Butter.","ko":"얀: 아니요, 달걀은 이미 있어요. 하지만 버터는 어쩌면 더 필요해요."},
+{"de":"Verkäuferin: Bitte schön. Es kostet drei Euro pro Packung.","ko":"점원: 여기요. 한 팩에 3유로예요."},
+{"de":"Jan: Super. Kann ich auch per Karte zahlen?","ko":"얀: 좋아요. 카드로도 결제할 수 있나요?"},
+{"de":"Verkäuferin: Selbstverständlich. Einen schönen Tag noch!","ko":"점원: 물론이죠. 좋은 하루 보내세요!"}
+]},
+{"title":"Die Prüfung","title_ko":"시험","type":"story","lines":[
+{"de":"Julia hatte seit Wochen gelernt, um die Prüfung zu bestehen.","ko":"율리아는 시험에 합격하기 위해 몇 주 전부터 공부했다."},
+{"de":"Sie hatte zwar viel gelesen, aber sie wusste nicht, welche Themen wichtig waren.","ko":"그녀는 물론 많이 읽었지만 어떤 주제가 중요한지는 몰랐다."},
+{"de":"Am Morgen war sie völlig nervös und konnte nichts essen.","ko":"아침에 그녀는 완전히 긴장해서 아무것도 먹을 수 없었다."},
+{"de":"Während der Prüfung fragte sie sich: Warum habe ich nicht noch mehr geübt?","ko":"시험 중에 그녀는 스스로 물었다. 왜 더 연습하지 않았을까?"},
+{"de":"Aber dann las sie die Aufgabe nochmals ganz ruhig durch.","ko":"하지만 그러고 나서 그녀는 문제를 다시 한번 아주 차분히 읽었다."},
+{"de":"Plötzlich war alles klar, und sie schrieb die Antworten selber auf.","ko":"갑자기 모든 것이 분명해졌고 그녀는 답을 스스로 적었다."},
+{"de":"Nach zwei Stunden war es vorbei, und sie ging zufrieden nach Hause.","ko":"두 시간 후 시험이 끝났고 그녀는 만족해하며 집으로 갔다."},
+{"de":"Voraus wusste sie das Ergebnis nicht, aber sie hatte wirklich ihr Bestes gegeben.","ko":"결과는 미리 알 수 없었지만, 그녀는 정말 최선을 다했다."}
+]},
+{"title":"Eine Reise planen","title_ko":"여행 계획","type":"dialog","lines":[
+{"de":"Marie: Wohin sollen wir im Sommer fahren? Ich habe überhaupt keine Idee.","ko":"마리: 여름에 어디로 갈까? 나는 전혀 아이디어가 없어."},
+{"de":"Ben: Wie wäre es mit Italien? Ich war schon einmal dort, und es war ziemlich billig.","ko":"벤: 이탈리아는 어때? 한 번 가 봤는데 꽤 쌌어."},
+{"de":"Marie: Wieso nicht? Aber ich möchte nicht nur am Strand liegen, sondern auch etwas sehen.","ko":"마리: 왜 안 되겠어? 하지만 해변에만 누워 있고 싶지 않고 뭔가 보고 싶어."},
+{"de":"Ben: Natürlich. In Rom gibt es überall Geschichte, und die Leute sind sehr nett.","ko":"벤: 물론이지. 로마에는 곳곳에 역사가 있고 사람들도 아주 친절해."},
+{"de":"Marie: Worum müssen wir uns zuerst kümmern?","ko":"마리: 무엇부터 신경 써야 할까?"},
+{"de":"Ben: Um die Flüge. Wenn wir früh buchen, sind sie umso billiger.","ko":"벤: 비행기표. 일찍 예약하면 그만큼 더 싸."},
+{"de":"Marie: Stimmt. Weshalb warten wir überhaupt noch? Buchen wir sofort!","ko":"마리: 맞아. 도대체 왜 아직도 기다리는 거야? 바로 예약하자!"},
+{"de":"Ben: Moment, wir wissen nicht, ob Tom und Eva mitkommen wollen.","ko":"벤: 잠깐, 톰과 에바가 같이 가고 싶은지 우리는 몰라."},
+{"de":"Marie: Dann fragen wir sie heute Abend und planen weiter.","ko":"마리: 그럼 오늘 저녁에 물어보고 계속 계획하자."},
+{"de":"Ben: Gut. Ohne sie wäre die Reise sowieso nur halb so lustig.","ko":"벤: 좋아. 그들이 없으면 어차피 여행이 절반만 재미있을 거야."}
+]},
+{"title":"Zwei Nachbarn","title_ko":"두 이웃","type":"story","lines":[
+{"de":"Herr Braun und Frau Keller wohnen unter demselben Dach, aber sie haben jahrelang nichts voneinander gewusst.","ko":"브라운 씨와 켈러 부인은 같은 지붕 아래 살지만 몇 년 동안 서로에 대해 아무것도 몰랐다."},
+{"de":"Er ist ein unordentlicher Mensch, und sie ist ständig am Putzen.","ko":"그는 정돈 안 된 사람이고, 그녀는 끊임없이 청소한다."},
+{"de":"Ihr Streit begann wegen des Mülls im Hof, und er dauerte monatelang.","ko":"그들의 다툼은 마당의 쓰레기 때문에 시작되었고 몇 달 동안 계속됐다."},
+{"de":"Dann wurde Frau Keller krank, und er brachte ihr wochenweise das Essen.","ko":"그러다 켈러 부인이 아프게 되었고 그는 몇 주 동안 그녀에게 음식을 가져다주었다."},
+{"de":"Das war ein Zeichen von Freundschaft, solch eine Geste vergisst man nicht.","ko":"그것은 우정의 표시였고, 그런 행동은 잊을 수 없다."},
+{"de":"Heute trinken sie jeden Samstag Kaffee, und manchmal laden sie sogar ihre Familien ein.","ko":"오늘날 그들은 매주 토요일 커피를 마시고, 가끔은 가족까지 초대한다."},
+{"de":"Dabei unterhalten sie sich viel über den Garten, den sie selbst gepflanzt haben.","ko":"그러면서 그들은 직접 가꾼 정원에 대해 많이 대화한다."},
+{"de":"Sie sind sich einig: Hätten sie früher miteinander gesprochen, wäre alles einfacher gewesen.","ko":"그들은 같은 생각이다. 더 일찍 서로 이야기했더라면 모든 게 더 쉬웠을 것이라고."}
+]},
+{"title":"Ein neuer Job","title_ko":"새 직장","type":"dialog","lines":[
+{"de":"Klara: Hast du schon gehört? Ich habe endlich eine neue Stelle!","ko":"클라라: 들었어? 나 드디어 새 일자리를 구했어!"},
+{"de":"Lukas: Glückwunsch! Bei welcher Firma arbeitest du jetzt?","ko":"루카스: 축하해! 이제 어느 회사에서 일해?"},
+{"de":"Klara: Bei einer Firma, die weltweit Software verkauft. Ich fange nächsten Montag an.","ko":"클라라: 전 세계에 소프트웨어를 파는 회사야. 다음 주 월요일부터 시작해."},
+{"de":"Lukas: Wer ist denn dein Chef? Kennst du ihn schon?","ko":"루카스: 그런데 상사는 누구야? 벌써 알아?"},
+{"de":"Klara: Nein, aber soviel ich weiß, ist er sehr streng. Man sagt, er mag keine Verspätungen.","ko":"클라라: 아니, 하지만 내가 아는 한 아주 엄격해. 지각을 싫어한다고들 해."},
+{"de":"Lukas: Dann komm zumindest pünktlich, sonst gibt es gleich Ärger.","ko":"루카스: 그럼 적어도 정시에는 와, 안 그러면 바로 문제가 생겨."},
+{"de":"Klara: Keine Sorge. Ich stehe sowieso immer früh auf, und ich fahre nur zwanzig Minuten.","ko":"클라라: 걱정 마. 어차피 항상 일찍 일어나고, 가는 데 20분밖에 안 걸려."},
+{"de":"Lukas: Hoffentlich bist du dort nicht allein, sondern findest schnell Freunde.","ko":"루카스: 거기서 혼자가 아니라 금방 친구를 사귀길 바라."},
+{"de":"Klara: Bestimmt! Am ersten Tag gibt es ein Willkommensfrühstück.","ko":"클라라: 분명 그럴 거야! 첫날에 환영 아침 식사가 있대."},
+{"de":"Lukas: Wunderbar. Erzähl mir danach bitte noch mal alles!","ko":"루카스: 멋지다. 그 후에 모든 걸 다시 한번 이야기해 줘!"}
+]}
+]

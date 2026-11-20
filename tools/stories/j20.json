@@ -1,0 +1,90 @@
+[
+{"title":"Der Einbruch","title_ko":"빈집털이","type":"story","lines":[
+{"de":"In der Nacht ging bei Frau Weber plötzlich der Alarm los.","ko":"밤에 베버 부인 집에서 갑자기 경보가 울렸다."},
+{"de":"Ein Einbrecher war durch das Fenster eingestiegen und wollte Schmuck stehlen.","ko":"빈집털이범이 창문으로 들어와 보석을 훔치려 했다."},
+{"de":"Der Einbruch dauerte nur wenige Minuten, dann begann seine Flucht.","ko":"침입은 몇 분밖에 걸리지 않았고, 곧 그의 도주가 시작됐다."},
+{"de":"Ein Zeuge sah einen verdächtigen Mann im Dunkeln wegrennen.","ko":"한 목격자가 어둠 속에서 수상한 남자가 달아나는 것을 보았다."},
+{"de":"Frau Weber, das Opfer, rief sofort die Polizei an.","ko":"피해자인 베버 부인은 곧바로 경찰에 전화했다."},
+{"de":"Ein Polizist kam und nahm eine Anzeige auf.","ko":"경찰관이 와서 신고를 접수했다."},
+{"de":"Auch die Kriminalpolizei war bald da, denn es gab einen starken Verdacht gegen einen alten Bekannten.","ko":"곧 형사경찰도 도착했는데, 오래된 지인에 대한 강한 혐의가 있었기 때문이다."},
+{"de":"Am Morgen konnten sie den Dieb festnehmen.","ko":"아침에 그들은 도둑을 체포할 수 있었다."},
+{"de":"Der Täter hatte den Schmuck noch in der Tasche.","ko":"범인은 아직 주머니에 보석을 가지고 있었다."},
+{"de":"Frau Weber war erleichtert, aber sie konnte lange nicht schlafen.","ko":"베버 부인은 안심했지만 오랫동안 잠들 수 없었다."}
+]},
+{"title":"Vor Gericht","title_ko":"법정에서","type":"story","lines":[
+{"de":"Heute beginnt der Prozess gegen einen bekannten Verbrecher.","ko":"오늘 유명한 범죄자에 대한 재판이 시작된다."},
+{"de":"Die Polizei hatte ihn vor einem Jahr verhaften können.","ko":"경찰은 1년 전에 그를 체포할 수 있었다."},
+{"de":"Sein Anwalt sagt, der Mann sei nicht schuldig.","ko":"그의 변호사는 이 남자가 유죄가 아니라고 말한다."},
+{"de":"Die Schuld liege bei anderen Personen, behauptet er.","ko":"잘못은 다른 사람들에게 있다고 그는 주장한다."},
+{"de":"Der Richter hört viele Stunden lang alle Argumente an.","ko":"판사는 몇 시간 동안 모든 주장을 듣는다."},
+{"de":"Er will ein gerechtes Urteil sprechen.","ko":"그는 공정한 판결을 내리고 싶어 한다."},
+{"de":"Am Ende muss er den Mann wegen Gewalt verurteilen.","ko":"결국 그는 폭력 혐의로 그 남자에게 유죄를 선고해야 한다."},
+{"de":"Die Strafe lautet drei Jahre Gefängnis.","ko":"형량은 징역 3년이다."},
+{"de":"Viele Leute finden, dass man Täter hart bestrafen sollte.","ko":"많은 사람들은 가해자를 엄하게 처벌해야 한다고 생각한다."}
+]},
+{"title":"Der Strafzettel","title_ko":"범칙금 고지서","type":"dialog","lines":[
+{"de":"Tim: Schau mal, ich habe einen Strafzettel bekommen!","ko":"팀: 봐, 나 범칙금 고지서 받았어!"},
+{"de":"Lena: Wofür denn? Hast du falsch geparkt?","ko":"레나: 뭐 때문에? 주차를 잘못했어?"},
+{"de":"Tim: Ja, hier ist Parken verboten, das Schild habe ich nicht gesehen.","ko":"팀: 응, 여기는 주차 금지인데 표지판을 못 봤어."},
+{"de":"Lena: Dieses Verbot gilt hier den ganzen Tag, nicht nur nachts.","ko":"레나: 이 금지는 여기서 하루 종일 유효해, 밤에만이 아니야."},
+{"de":"Tim: Ich dachte, die Regel gilt nur am Wochenende.","ko":"팀: 나는 그 규칙이 주말에만 적용되는 줄 알았어."},
+{"de":"Lena: Nein, die Vorschrift ist klar: Das Parken ist hier untersagt.","ko":"레나: 아니, 규정은 분명해. 여기서 주차는 금지돼 있어."},
+{"de":"Tim: Wenn man kurz hält, ist das auch strafbar?","ko":"팀: 잠깐 서 있는 것도 처벌받아?"},
+{"de":"Lena: Nur mit einer Erlaubnis darfst du dort stehen.","ko":"레나: 허가가 있어야만 거기 서 있을 수 있어."},
+{"de":"Tim: Aber die Stadt kann mir das doch nicht einfach verbieten!","ko":"팀: 그래도 시가 그냥 나한테 그걸 금지할 순 없잖아!"},
+{"de":"Lena: Doch, das ist ein Gesetz, und jeder ist verpflichtet, es zu beachten.","ko":"레나: 아니, 가능해. 그건 법이고 모두가 지킬 의무가 있어."},
+{"de":"Tim: Na gut, dann muss ich eben die Pflicht erfüllen und zahlen.","ko":"팀: 좋아, 그럼 의무를 다해서 내야겠네."},
+{"de":"Lena: Und beim nächsten Mal erlaubst du dir kein Falschparken mehr.","ko":"레나: 그리고 다음엔 불법주차 하지 마."}
+]},
+{"title":"Wahlabend","title_ko":"선거의 밤","type":"dialog","lines":[
+{"de":"Anna: Gehst du morgen zur Wahl?","ko":"안나: 내일 선거하러 가?"},
+{"de":"Paul: Natürlich, ich will wählen, das ist mein Recht.","ko":"파울: 물론이지, 투표하고 싶어. 그건 내 권리야."},
+{"de":"Anna: Welchen Kandidaten findest du am besten?","ko":"안나: 어떤 후보가 제일 좋다고 생각해?"},
+{"de":"Paul: Ich mag die Politikerin der grünen Partei, weil sie die Reform der Schulen verspricht.","ko":"파울: 녹색당 여성 정치인이 좋아. 학교 개혁을 약속하거든."},
+{"de":"Anna: Ich interessiere mich nicht so für Politik.","ko":"안나: 난 정치에 별로 관심이 없어."},
+{"de":"Paul: Aber alle Bürger sollten abstimmen, sonst entscheiden andere für uns.","ko":"파울: 하지만 모든 시민이 투표해야 해. 안 그러면 다른 사람들이 우리 대신 결정하게 돼."},
+{"de":"Anna: In der Umfrage hatte keine Partei die Mehrheit.","ko":"안나: 설문조사에서는 어느 정당도 과반수를 얻지 못했어."},
+{"de":"Paul: Dann hat auch die Minderheit Einfluss auf das Ergebnis.","ko":"파울: 그럼 소수파도 결과에 영향력이 있겠네."},
+{"de":"Anna: Meinst du, die Medien können die Wahl beeinflussen?","ko":"안나: 언론이 선거에 영향을 줄 수 있다고 생각해?"},
+{"de":"Paul: Ja, auch die Meinung der Bevölkerung ändert sich oft durch sie.","ko":"파울: 응, 주민들의 의견도 그것 때문에 자주 바뀌어."},
+{"de":"Anna: Gut, dann gehe ich morgen mit dir.","ko":"안나: 좋아, 그럼 내일 너랑 같이 갈게."}
+]},
+{"title":"Neu im Land","title_ko":"새로 온 나라에서","type":"story","lines":[
+{"de":"Samira ist eine Migrantin aus Syrien, die seit zwei Jahren im Ausland lebt.","ko":"사미라는 시리아 출신 이주민으로 2년째 외국에서 살고 있다."},
+{"de":"Die Migration war für ihre Familie sehr schwer.","ko":"이주는 그녀의 가족에게 매우 힘들었다."},
+{"de":"Zuerst war ihr Aufenthalt illegal, bis sie Asyl beantragen konnte.","ko":"처음에 그녀의 체류는 불법이었으나 결국 망명을 신청할 수 있었다."},
+{"de":"Auf der Botschaft ihres Landes bekam sie wichtige Papiere.","ko":"그녀는 자기 나라 대사관에서 중요한 서류를 받았다."},
+{"de":"Als Ausländerin hat sie Anspruch auf einen Deutschkurs.","ko":"외국인으로서 그녀는 독일어 수업을 받을 권리가 있다."},
+{"de":"Eine Organisation hilft ihr bei der Integration, und die Förderung vom Staat bezahlt den Kurs.","ko":"한 단체가 그녀의 통합을 돕고, 국가의 지원금이 수업료를 낸다."},
+{"de":"Die Bedingung ist, dass sie regelmäßig zum Unterricht kommt.","ko":"조건은 그녀가 수업에 정기적으로 오는 것이다."},
+{"de":"Bei einer interkulturellen Aktion im Stadtteil lernt sie viele Nachbarn kennen.","ko":"동네의 다문화 행사에서 그녀는 많은 이웃을 알게 된다."},
+{"de":"Die Gemeinschaft möchte neue Leute integrieren und fördern.","ko":"공동체는 새로운 사람들을 받아들이고 지원하고 싶어 한다."},
+{"de":"Samira fühlt sich langsam zu Hause.","ko":"사미라는 서서히 집처럼 편안함을 느낀다."}
+]},
+{"title":"Krieg und Frieden","title_ko":"전쟁과 평화","type":"story","lines":[
+{"de":"Vor langer Zeit regierte ein König über ein kleines Land.","ko":"오래전 한 왕이 작은 나라를 다스렸다."},
+{"de":"Die Religion und die alten Traditionen waren den Menschen sehr wichtig.","ko":"종교와 오랜 전통은 사람들에게 매우 중요했다."},
+{"de":"Sie beteten zu Gott und feierten traditionelle Feste.","ko":"그들은 하느님께 기도하고 전통 축제를 열었다."},
+{"de":"Dann kam eine große Krise, und ein Konflikt mit dem Nachbarn wurde zum Krieg.","ko":"그러다 큰 위기가 닥쳤고, 이웃과의 갈등이 전쟁이 되었다."},
+{"de":"Im Kampf starben viele Menschen, und die Gewalt nahm kein Ende.","ko":"전투에서 많은 사람이 죽었고 폭력은 끝나지 않았다."},
+{"de":"Viele Familien mussten in die Flucht gehen und suchten Schutz in anderen Ländern.","ko":"많은 가족이 피난길에 올라 다른 나라에서 보호를 구해야 했다."},
+{"de":"Schließlich fanden beide Seiten einen Kompromiss.","ko":"마침내 양측은 타협점을 찾았다."},
+{"de":"Der Friede wurde offiziell unterschrieben, und internationale Gäste kamen zur Feier.","ko":"평화는 공식적으로 서명되었고 국제 손님들이 기념식에 왔다."},
+{"de":"Der nationale Feiertag erinnert noch heute an die neue Freiheit.","ko":"국경일은 오늘날에도 새로운 자유를 기억하게 한다."}
+]},
+{"title":"Demonstration","title_ko":"시위","type":"dialog","lines":[
+{"de":"Jonas: Kommst du zur Versammlung am Samstag?","ko":"요나스: 토요일 집회에 올 거야?"},
+{"de":"Mia: Ja, wir wollen gegen die hohen Mieten protestieren.","ko":"미아: 응, 우리는 높은 월세에 항의하려고 해."},
+{"de":"Jonas: Unsere Gruppe hat schon fünfzig Mitglieder.","ko":"요나스: 우리 그룹은 벌써 회원이 50명이야."},
+{"de":"Mia: Der Protest ist wichtig für eine soziale und gerechte Gesellschaft.","ko":"미아: 이 항의는 사회적이고 공정한 사회를 위해 중요해."},
+{"de":"Jonas: Alle Menschen sollten gleichberechtigt wohnen können.","ko":"요나스: 모든 사람이 동등한 권리로 살 수 있어야 해."},
+{"de":"Mia: Rechtlich gesehen darf uns niemand behindern, wenn wir friedlich bleiben.","ko":"미아: 법적으로 보면 우리가 평화롭게 있는 한 아무도 우리를 방해할 수 없어."},
+{"de":"Jonas: Wer ist eigentlich bei der Stadt dafür zuständig?","ko":"요나스: 시에서는 대체 누가 그 담당이야?"},
+{"de":"Mia: Das Amt für Wohnen, aber manche Vermieter wollen uns betrügen.","ko":"미아: 주택과인데, 일부 집주인들은 우리를 속이려고 해."},
+{"de":"Jonas: Dann sollten wir sie anzeigen!","ko":"요나스: 그럼 그들을 신고해야지!"},
+{"de":"Mia: Gute Idee, ich schreibe gleich eine Anzeige.","ko":"미아: 좋은 생각이야, 바로 고발장을 쓸게."},
+{"de":"Jonas: Und wir müssen die Aktion noch mit der Polizei abstimmen.","ko":"요나스: 그리고 행사를 경찰과 조율해야 해."},
+{"de":"Mia: Die Öffentlichkeit soll sehen, dass wir nicht aufgeben.","ko":"미아: 대중이 우리가 포기하지 않는다는 걸 보게 해야 해."},
+{"de":"Jonas: Stimmt, ein öffentlicher Protest bringt am meisten.","ko":"요나스: 맞아, 공개적인 항의가 가장 효과가 커."}
+]}
+]

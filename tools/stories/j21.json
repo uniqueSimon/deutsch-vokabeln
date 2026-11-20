@@ -1,0 +1,60 @@
+[
+{"title":"Die erste Nacht","title_ko":"첫날 밤","type":"story","lines":[
+{"de":"Lea ist neu in der Stadt und hat große Angst vor der ersten Nacht.","ko":"레아는 이 도시에 처음 왔고 첫날 밤이 몹시 두렵다."},
+{"de":"Sie ist sonst nicht ängstlich, aber die Wohnung ist so still.","ko":"평소에는 겁이 많지 않지만, 집이 너무 조용하다."},
+{"de":"Plötzlich hört sie ein Geräusch und muss sich wirklich fürchten.","ko":"갑자기 소리가 들리자 정말 무서워진다."},
+{"de":"Sie erschrickt, doch es ist nur der Wind am Fenster.","ko":"그녀는 깜짝 놀라지만, 그저 창문에 부는 바람일 뿐이다."},
+{"de":"Lea setzt sich hin und versucht, sich zu beruhigen.","ko":"레아는 앉아서 마음을 진정시키려 한다."},
+{"de":"Sie hat Heimweh und fühlt sich ein bisschen einsam.","ko":"그녀는 향수병에 걸려 조금 외롭다."},
+{"de":"Dann ruft sie ihre Mutter an, und das Gespräch erleichtert sie sehr.","ko":"그러다 어머니께 전화하고, 그 대화가 그녀를 크게 안심시킨다."},
+{"de":"„Hab Geduld“, sagt die Mutter, „bald findest du Freunde.“","ko":"\"인내심을 가져,\" 어머니가 말한다. \"곧 친구를 사귈 거야.\""},
+{"de":"Lea ist entschlossen, die Stadt zu mögen, und hat wieder Hoffnung.","ko":"레아는 이 도시를 좋아하기로 굳게 결심하고, 다시 희망을 갖는다."},
+{"de":"Mit einem guten Gefühl schläft sie endlich ein.","ko":"좋은 기분으로 그녀는 마침내 잠이 든다."}
+]},
+{"title":"Streit im Büro","title_ko":"사무실에서의 다툼","type":"dialog","lines":[
+{"de":"Tom: Ich ärgere mich schon den ganzen Tag über Marko.","ko":"톰: 나는 하루 종일 마르코 때문에 화가 나 있어."},
+{"de":"Anna: Warum? Was war denn los?","ko":"안나: 왜? 무슨 일이었는데?"},
+{"de":"Tom: Er war in der Besprechung richtig frech und hat mich vor allen beleidigt.","ko":"톰: 회의에서 정말 건방지게 굴면서 모두 앞에서 나를 모욕했어."},
+{"de":"Anna: Das ist wirklich ärgerlich. Reg dich aber nicht zu sehr auf.","ko":"안나: 정말 짜증 나겠다. 그래도 너무 흥분하지는 마."},
+{"de":"Tom: Ich bin nicht nur böse, ich bin auch enttäuscht von ihm.","ko":"톰: 화난 것뿐만 아니라 그에게 실망도 했어."},
+{"de":"Anna: Ich verstehe deine Enttäuschung. Du solltest höflich bleiben und mit ihm reden.","ko":"안나: 네 실망 이해해. 예의를 지키면서 그와 이야기해 봐."},
+{"de":"Tom: Aber wenn er wieder Ärger macht?","ko":"톰: 하지만 그가 또 문제를 일으키면?"},
+{"de":"Anna: Sei ehrlich und sag ihm, was du denkst. Das ist fair.","ko":"안나: 솔직하게 생각하는 걸 말해. 그게 공정한 거야."},
+{"de":"Tom: Du hast recht. Sonst bekomme ich ein schlechtes Gewissen, weil ich nichts gesagt habe.","ko":"톰: 네 말이 맞아. 안 그러면 아무 말도 못 한 게 양심에 걸릴 거야."},
+{"de":"Anna: Genau. Geh gleich zu ihm.","ko":"안나: 맞아. 지금 바로 그에게 가 봐."}
+]},
+{"title":"Ein fauler Sonntag","title_ko":"게으른 일요일","type":"story","lines":[
+{"de":"Ben ist normalerweise fleißig, aber heute ist er richtig faul.","ko":"벤은 보통 부지런하지만, 오늘은 정말 게으르다."},
+{"de":"Er möchte den ganzen Tag auf dem Sofa faulenzen.","ko":"그는 하루 종일 소파에서 빈둥거리고 싶다."},
+{"de":"Nach zwei Stunden kommt die Langeweile, denn der Film ist langweilig.","ko":"두 시간 뒤 지루함이 찾아온다. 영화가 지루하기 때문이다."},
+{"de":"Ben langweilt sich und hat schlechte Laune.","ko":"벤은 지루해하고 기분이 나쁘다."},
+{"de":"Seine Schwester ist klug und kreativ und hat sofort eine Idee.","ko":"그의 여동생은 똑똑하고 창의적이어서 바로 아이디어를 낸다."},
+{"de":"„Du hast so viel Fantasie, Ben! Schreib doch eine Geschichte“, sagt sie.","ko":"\"벤, 너는 상상력이 정말 풍부하잖아! 이야기를 한번 써 봐,\" 그녀가 말한다."},
+{"de":"Er hat nie gedacht, dass das eine Fähigkeit von ihm sein könnte.","ko":"그는 그것이 자신의 재능일 수 있다고는 생각해 본 적이 없다."},
+{"de":"Die Geschichte ist voller Humor, und Ben muss beim Schreiben laut lachen.","ko":"그 이야기는 유머로 가득하고, 벤은 쓰면서 크게 웃는다."},
+{"de":"Seine Schwester liest sie und lächelt.","ko":"그의 여동생은 그것을 읽고 미소 짓는다."}
+]},
+{"title":"Gute Nachrichten","title_ko":"좋은 소식","type":"dialog","lines":[
+{"de":"Mia: Hallo Jonas! Du siehst heute so fröhlich aus.","ko":"미아: 안녕 요나스! 오늘 아주 즐거워 보이네."},
+{"de":"Jonas: Ja, ich bin glücklich! Ich habe die Stelle bekommen.","ko":"요나스: 응, 나 행복해! 그 일자리를 얻었어."},
+{"de":"Mia: Herzlichen Glückwunsch! Das war wirklich Glück, oder?","ko":"미아: 진심으로 축하해! 정말 운이 좋았네, 그렇지?"},
+{"de":"Jonas: Ein bisschen, aber die Chefin war auch sehr freundlich.","ko":"요나스: 조금은. 하지만 사장님도 정말 친절했어."},
+{"de":"Mia: Ich freue mich so für dich. Wann fängst du an?","ko":"미아: 정말 너 때문에 기뻐. 언제 시작해?"},
+{"de":"Jonas: Heute in einem Monat. Ich bin schon sehr gespannt auf die Kollegen.","ko":"요나스: 오늘부터 한 달 뒤야. 동료들이 벌써 많이 궁금해."},
+{"de":"Mia: Bist du auch von der Firma begeistert?","ko":"미아: 회사도 마음에 들어서 열광하고 있어?"},
+{"de":"Jonas: Ja, die Arbeit macht mir Freude. Ich bin dir auch dankbar für deine Tipps.","ko":"요나스: 응, 일이 즐거워. 네 조언에도 고마워."},
+{"de":"Mia: Gern geschehen. Ich bin einfach froh, dass es geklappt hat.","ko":"미아: 천만에. 잘 풀려서 그저 다행이야."},
+{"de":"Jonas: Komm, wir gehen essen und genießen den Abend!","ko":"요나스: 가자, 밥 먹으러 가서 저녁을 즐기자!"}
+]},
+{"title":"Der neue Nachbar","title_ko":"새 이웃","type":"story","lines":[
+{"de":"Der neue Nachbar sieht immer ernst aus, aber Clara ist sehr interessiert an ihm.","ko":"새 이웃은 늘 진지해 보이지만, 클라라는 그에게 관심이 많다."},
+{"de":"Sie beobachtet ihn aufmerksam, wenn er im Garten arbeitet.","ko":"그가 정원에서 일할 때 그녀는 주의 깊게 그를 관찰한다."},
+{"de":"Sein Hobby interessiert sie, denn er baut kleine Boote.","ko":"그의 취미가 그녀의 관심을 끈다. 그는 작은 배를 만들기 때문이다."},
+{"de":"Sie hat großes Interesse an Handwerk und stellt viele Fragen.","ko":"그녀는 수공예에 큰 관심이 있어서 질문을 많이 한다."},
+{"de":"Er antwortet herzlich und zeigt ihr seine Werkstatt, die ihr sehr gefällt.","ko":"그는 따뜻하게 대답하며 작업실을 보여 주고, 그녀는 그곳이 아주 마음에 든다."},
+{"de":"Er sagt, er hasse Lärm, deshalb arbeite er nur am Vormittag.","ko":"그는 소음을 몹시 싫어해서 오전에만 일한다고 말한다."},
+{"de":"Clara fühlt, dass sie bald gute Freunde werden.","ko":"클라라는 곧 좋은 친구가 될 거라고 느낀다."},
+{"de":"Am Abend gibt er ihr zum Abschied einen Kuss auf die Wange, und sie wollte ihn auch küssen, aber sie lacht nur verlegen.","ko":"저녁에 헤어지며 그가 그녀의 뺨에 입을 맞추고, 그녀도 그에게 입맞추고 싶었지만 그저 쑥스럽게 웃는다."},
+{"de":"Sie hofft, dass er sie bald wieder einlädt.","ko":"그녀는 그가 곧 다시 초대해 주기를 바란다."}
+]}
+]

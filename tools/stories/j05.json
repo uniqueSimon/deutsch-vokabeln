@@ -1,0 +1,82 @@
+[
+{"title":"Die möblierte Wohnung","title_ko":"가구가 딸린 집","type":"dialog","lines":[
+{"de":"Mina: Guten Tag, ich möchte die Wohnung ansehen, die Sie vermieten.","ko":"미나: 안녕하세요, 세를 놓으신 집을 보고 싶어요."},
+{"de":"Vermieter: Gern. Die Vermietung beginnt im Mai, und die Wohnung ist möbliert.","ko":"집주인: 좋아요. 임대는 5월에 시작하고 집에는 가구가 딸려 있어요."},
+{"de":"Mina: Wie viele Zimmer gibt es?","ko":"미나: 방이 몇 개 있나요?"},
+{"de":"Vermieter: Es gibt ein Wohnzimmer und ein Schlafzimmer, dazu eine kleine Küche und eine Toilette.","ko":"집주인: 거실과 침실이 있고, 작은 부엌과 화장실도 있어요."},
+{"de":"Mina: Im Wohnzimmer steht ein Sofa, ein Sessel und ein Tisch mit vier Stühlen.","ko":"미나: 거실에 소파, 안락의자, 그리고 의자 네 개가 있는 탁자가 있네요."},
+{"de":"Vermieter: Genau, und an der Wand hängt ein großer Spiegel.","ko":"집주인: 맞아요, 그리고 벽에는 큰 거울이 걸려 있어요."},
+{"de":"Mina: Das Quartier gefällt mir. Ist der Wohnort ruhig?","ko":"미나: 동네가 마음에 들어요. 거주지 주변은 조용한가요?"},
+{"de":"Vermieter: Ja, sehr ruhig. Die Wohnung liegt im dritten Stock.","ko":"집주인: 네, 아주 조용해요. 집은 3층에 있어요."},
+{"de":"Mina: Gibt es auch eine Terrasse?","ko":"미나: 테라스도 있나요?"},
+{"de":"Vermieter: Ja, und hier ist der Schlüssel für die Tür. Ich glaube, hier können Sie gut wohnen.","ko":"집주인: 네, 그리고 여기 문 열쇠예요. 여기서 잘 지내실 수 있을 거예요."}
+]},
+{"title":"Der Umzug","title_ko":"이사","type":"story","lines":[
+{"de":"Am Samstag wollte Jonas umziehen.","ko":"토요일에 요나스는 이사하려고 했다."},
+{"de":"Der Umzug begann früh, weil der Wecker schon um sechs Uhr klingelte.","ko":"알람시계가 여섯 시에 울렸기 때문에 이사는 일찍 시작되었다."},
+{"de":"Zuerst packte er Bücher in eine Schachtel und stellte sie neben das leere Regal.","ko":"먼저 그는 책을 상자에 담아 빈 책장 옆에 놓았다."},
+{"de":"Dann sammelte er sein ganzes Zeug in einem großen Sack.","ko":"그다음 그는 자기 잡동사니를 전부 큰 자루에 모았다."},
+{"de":"Seine Freundin nahm den Schrank auseinander und die Schere half beim Öffnen der Kartons.","ko":"여자친구는 장을 분해했고, 가위는 상자를 여는 데 도움이 되었다."},
+{"de":"Im Treppenhaus war es eng, und sie trugen alles die Treppe hinunter.","ko":"계단통은 좁았고, 그들은 모든 것을 계단 아래로 날랐다."},
+{"de":"Im Stiegenhaus stand schon der Teppich, den niemand mehr wollte.","ko":"계단실에는 아무도 더는 원하지 않는 카펫이 이미 놓여 있었다."},
+{"de":"Am Abend war das neue Zuhause endlich voll mit Kisten.","ko":"저녁에 새 집은 마침내 상자로 가득 찼다."},
+{"de":"Jonas setzte sich auf einen Stuhl und trank eine Tasse Tee.","ko":"요나스는 의자에 앉아 차 한 잔을 마셨다."},
+{"de":"Sein neuer Wohnsitz gefiel ihm schon jetzt.","ko":"그는 벌써 새 주소지가 마음에 들었다."}
+]},
+{"title":"Großputz am Samstag","title_ko":"토요일 대청소","type":"dialog","lines":[
+{"de":"Anna: Heute ist Großputz! Ich möchte jeden Raum putzen.","ko":"안나: 오늘은 대청소야! 모든 방을 청소하고 싶어."},
+{"de":"Ben: Gut, ich fange an und nehme den Staubsauger. Ich will den Teppich staubsaugen.","ko":"벤: 좋아, 내가 먼저 청소기로 카펫을 청소기 돌릴게."},
+{"de":"Anna: Zuerst brauche ich eine Steckdose. Hast du den Stecker gesehen?","ko":"안나: 먼저 콘센트가 필요해. 플러그 봤어?"},
+{"de":"Ben: Er steckt schon, aber der Strom ist ausgefallen.","ko":"벤: 이미 꽂혀 있는데 전기가 나갔어."},
+{"de":"Anna: Dann putze ich zuerst das Regal. Da liegt so viel Staub!","ko":"안나: 그럼 먼저 책장을 닦을게. 먼지가 정말 많아!"},
+{"de":"Ben: Und im Bad ist Schmutz auf dem Spiegel. Hast du Seife?","ko":"벤: 그리고 욕실 거울에 오물이 묻어 있어. 비누 있어?"},
+{"de":"Anna: Ja, und hier ist ein Taschentuch zum Abwischen.","ko":"안나: 응, 닦을 휴지도 여기 있어."},
+{"de":"Ben: Der Backofen ist auch schmutzig. Ich reinige ihn gleich.","ko":"벤: 오븐도 더러워. 내가 바로 청소할게."},
+{"de":"Anna: Dann spüle ich die Schüssel und den Topf.","ko":"안나: 그럼 난 그릇이랑 냄비를 설거지할게."},
+{"de":"Ben: Am Ende trocknen wir alles ab und trinken Kaffee.","ko":"벤: 마지막에 전부 물기를 닦고 커피를 마시자."}
+]},
+{"title":"Waschtag","title_ko":"빨래하는 날","type":"story","lines":[
+{"de":"Lisa hatte viel schmutzige Wäsche.","ko":"리사에게는 더러운 빨래가 많았다."},
+{"de":"Sie gab das Waschmittel in die Maschine und wartete.","ko":"그녀는 세탁기에 세제를 넣고 기다렸다."},
+{"de":"Danach musste die Wäsche trocknen, also hängte sie alles auf die Terrasse.","ko":"그다음 빨래를 말려야 해서 전부 테라스에 널었다."},
+{"de":"Ein Hemd brauchte aber die Reinigung, deshalb brachte sie es zum Laden an der Ecke.","ko":"하지만 셔츠 하나는 세탁소가 필요해서 모퉁이 가게에 가져갔다."},
+{"de":"Zu Hause stellte sie frische Blumen in eine Vase auf den Tisch.","ko":"집에 와서 그녀는 신선한 꽃을 꽃병에 꽂아 탁자 위에 놓았다."},
+{"de":"Dann klopfte jemand an die Tür.","ko":"그때 누군가 문을 두드렸다."},
+{"de":"Es war der Nachbar mit einem Streichholz in der Hand.","ko":"성냥을 손에 든 이웃이었다."},
+{"de":"Er fragte: „Haben Sie noch eine Schachtel Zündhölzer? Mein Zünder ist kaputt.“","ko":"그는 물었다. \"성냥 한 갑 더 있으세요? 제 점화기가 고장 났어요.\""},
+{"de":"Lisa gab ihm ein Zündholz und einen Zünder aus der Küche.","ko":"리사는 그에게 부엌에서 성냥 하나와 점화기를 주었다."}
+]},
+{"title":"Probleme im Haus","title_ko":"집의 문제들","type":"dialog","lines":[
+{"de":"Mieter: Guten Morgen, Herr Weber. Ich wohne im zweiten Stockwerk und habe ein Problem.","ko":"세입자: 안녕하세요, 베버 씨. 저는 3층(2층 위)에 사는데 문제가 있어요."},
+{"de":"Vermieter: Guten Morgen. Was ist passiert?","ko":"집주인: 안녕하세요. 무슨 일이죠?"},
+{"de":"Mieter: Das Schloss an der Haustür klemmt, mein Schlüssel passt nicht mehr.","ko":"세입자: 현관문 자물쇠가 걸려서 제 열쇠가 더는 맞지 않아요."},
+{"de":"Vermieter: Ich schicke jemanden. Noch etwas?","ko":"집주인: 사람을 보낼게요. 또 있나요?"},
+{"de":"Mieter: Ja, die Mülltonne ist voll, und die Müllabfuhr kommt erst am Freitag.","ko":"세입자: 네, 쓰레기통이 가득 찼는데 쓰레기 수거는 금요일에야 와요."},
+{"de":"Vermieter: Stellen Sie den Müll bitte nicht ins Treppenhaus.","ko":"집주인: 쓰레기는 계단통에 두지 마세요."},
+{"de":"Mieter: Das mache ich nicht. Aber auf der Stiege ist es oft sehr schmutzig.","ko":"세입자: 안 그럴게요. 그런데 계단은 자주 아주 더러워요."},
+{"de":"Vermieter: Ich spreche mit den anderen Leuten im Haus.","ko":"집주인: 집의 다른 분들과 이야기해 볼게요."},
+{"de":"Mieter: Danke. Und das Backrohr in meiner Wohnung wird nicht mehr heiß.","ko":"세입자: 감사합니다. 그리고 제 집 오븐이 더는 뜨거워지지 않아요."},
+{"de":"Vermieter: Ich komme morgen und schaue es mir an.","ko":"집주인: 내일 가서 살펴볼게요."}
+]},
+{"title":"Ein Abend im Wohnzimmer","title_ko":"거실에서의 저녁","type":"story","lines":[
+{"de":"Am Abend saß Tom auf dem Sessel im Wohnzimmer.","ko":"저녁에 톰은 거실 안락의자에 앉아 있었다."},
+{"de":"Der Sitz war weich, und neben ihm stand eine Tasse Kaffee.","ko":"좌석은 푹신했고 그 옆에는 커피 한 잔이 놓여 있었다."},
+{"de":"Sein Freund Max kam herein und setzte sich auf das Sofa.","ko":"친구 막스가 들어와 소파에 앉았다."},
+{"de":"„Dein Zimmer ist schön“, sagte Max, „aber da liegt viel Zeug auf dem Boden.“","ko":"\"네 방 예쁘다.\" 막스가 말했다. \"그런데 바닥에 물건이 너무 많아.\""},
+{"de":"Tom lachte und räumte das Zeug in den Schrank.","ko":"톰은 웃으며 잡동사니를 장에 치웠다."},
+{"de":"Dann öffnete er die Tür zur Terrasse, und frische Luft kam herein.","ko":"그다음 테라스 문을 열자 신선한 공기가 들어왔다."},
+{"de":"Tom erzählte: „Mein Wohnort ist klein, aber dieses Zuhause liebe ich.“","ko":"톰이 말했다. \"내 거주지는 작지만 이 집을 사랑해.\""},
+{"de":"Sie sprachen lange, bis der Wecker im Schlafzimmer klingelte, den Tom für den nächsten Tag gestellt hatte.","ko":"그들은 톰이 다음 날을 위해 맞춰 둔 알람시계가 침실에서 울릴 때까지 오래 이야기했다."}
+]},
+{"title":"Frühstück und Küche","title_ko":"아침 식사와 부엌","type":"story","lines":[
+{"de":"Sara wollte ein Frühstück machen.","ko":"사라는 아침을 만들고 싶었다."},
+{"de":"Sie schnitt eine Scheibe Brot ab und legte sie auf den Teller.","ko":"그녀는 빵 한 조각을 잘라 접시에 올렸다."},
+{"de":"Im Topf kochte das Wasser, und sie goss es in die Tasse.","ko":"냄비에서 물이 끓었고, 그녀는 그것을 컵에 부었다."},
+{"de":"Auf dem Stuhl am Fenster lag ein Taschentuch.","ko":"창가 의자 위에는 휴지가 놓여 있었다."},
+{"de":"Sie schaute in den Spiegel an der Wand und lächelte.","ko":"그녀는 벽에 걸린 거울을 보며 미소 지었다."},
+{"de":"Später brachte sie den Müll hinunter, die Treppe hinab, bis zur Mülltonne.","ko":"나중에 그녀는 쓰레기를 들고 계단을 내려가 쓰레기통까지 갔다."},
+{"de":"Die Scheibe der Haustür war sauber, denn jemand hatte sie geputzt.","ko":"현관문 유리창은 누군가 닦아 두어서 깨끗했다."},
+{"de":"Sara ging zurück in ihr Quartier und drehte den Stecker der Lampe in die Steckdose.","ko":"사라는 숙소로 돌아와 램프 플러그를 콘센트에 꽂았다."},
+{"de":"Am Ende nahm sie die Seife und wusch die Hände.","ko":"마지막으로 그녀는 비누로 손을 씻었다."}
+]}
+]

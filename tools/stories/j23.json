@@ -1,0 +1,97 @@
+[
+{"title":"Die Einladung","title_ko":"초대","type":"dialog","lines":[
+{"de":"Anna: Hallo Tom, ich habe eine Bitte an dich.","ko":"안나: 안녕 톰, 너한테 부탁이 하나 있어."},
+{"de":"Tom: Klar, worum geht es?","ko":"톰: 물론이지, 무슨 일이야?"},
+{"de":"Anna: Ich habe keine Ahnung, wie ich Lisas Einladung absagen soll.","ko":"안나: 리사의 초대를 어떻게 취소해야 할지 전혀 모르겠어."},
+{"de":"Tom: Willst du die Einladung wirklich ablehnen?","ko":"톰: 정말 초대를 거절하고 싶어?"},
+{"de":"Anna: Ja, ich habe leider keine Zeit, und es ist nicht meine Absicht, sie zu verletzen.","ko":"안나: 응, 아쉽게도 시간이 없고, 그녀를 상처 주려는 의도는 아니야."},
+{"de":"Tom: Sie wird deine Entscheidung sicher akzeptieren.","ko":"톰: 네 결정을 분명히 받아들일 거야."},
+{"de":"Anna: Vielleicht gibt es eine Alternative, zum Beispiel ein Treffen nächste Woche.","ko":"안나: 어쩌면 대안이 있을 거야, 예를 들어 다음 주에 만나는 거."},
+{"de":"Tom: Gute Idee! Schreib ihr eine Nachricht und sag: Entschuldigung, ich kann nicht kommen.","ko":"톰: 좋은 생각이야! 메시지를 써서 '미안, 못 가'라고 말해."},
+{"de":"Anna: Du musst mich entschuldigen, wenn ich so nervös bin.","ko":"안나: 내가 이렇게 긴장해도 이해해 줘."},
+{"de":"Tom: Kein Problem, ich helfe dir gern.","ko":"톰: 문제없어, 기꺼이 도와줄게."},
+{"de":"Anna: Danke, ich möchte dir wirklich danken. Dein Dank ist mir wichtig!","ko":"안나: 고마워, 정말 감사하고 싶어. 감사하는 마음을 꼭 전하고 싶어!"}
+]},
+{"title":"Der Brief an die Firma","title_ko":"회사에 보낸 편지","type":"story","lines":[
+{"de":"Herr Braun will ein neues Sofa kaufen und schreibt an eine Firma.","ko":"브라운 씨는 새 소파를 사려고 회사에 편지를 쓴다."},
+{"de":"Zuerst muss er die richtige Anrede wählen, zum Beispiel „Sehr geehrte Damen und Herren“.","ko":"먼저 '관계자 여러분께' 같은 적절한 호칭을 골라야 한다."},
+{"de":"Dann soll er seine Angaben machen und seine Adresse angeben.","ko":"그다음 자신의 정보를 적고 주소를 기재해야 한다."},
+{"de":"Die Firma kündigt an, dass sie bald antworten wird.","ko":"회사는 곧 답장하겠다고 예고한다."},
+{"de":"Nach einer Woche kommt die Antwort, und sie enthält eine Aufforderung, ein Formular auszufüllen.","ko":"일주일 후 답장이 오는데, 양식을 작성하라는 요구가 들어 있다."},
+{"de":"Herr Braun analysiert die Preise genau.","ko":"브라운 씨는 가격을 꼼꼼히 분석한다."},
+{"de":"Er muss anerkennen, dass das Sofa sehr gut aussieht.","ko":"그는 소파가 아주 멋져 보인다는 것을 인정할 수밖에 없다."},
+{"de":"Er nimmt an, dass es nicht zu teuer ist, und fordert die Firma schließlich auf, es zu liefern.","ko":"그는 너무 비싸지 않을 거라고 추측하고, 마침내 회사에 배송을 요청한다."},
+{"de":"Am Ende spricht er den Verkäufer noch einmal am Telefon an.","ko":"마지막으로 그는 전화로 판매원에게 다시 말을 건다."}
+]},
+{"title":"Im Deutschkurs","title_ko":"독일어 수업에서","type":"dialog","lines":[
+{"de":"Lehrerin: Guten Morgen, ich begrüße euch alle zum neuen Kurs.","ko":"선생님: 안녕하세요, 여러분 모두 새 수업에 오신 것을 환영합니다."},
+{"de":"Min: Frau Weber, was bedeutet dieser Ausdruck?","ko":"민: 베버 선생님, 이 표현은 무슨 뜻인가요?"},
+{"de":"Lehrerin: Die Bedeutung ist „sehr müde sein“.","ko":"선생님: 뜻은 '매우 피곤하다'예요."},
+{"de":"Min: Wie kann ich dieses Wort richtig aussprechen?","ko":"민: 이 단어는 어떻게 정확히 발음하나요?"},
+{"de":"Lehrerin: Achte auf das lange „ü“ in der Mitte.","ko":"선생님: 가운데의 긴 'ü'에 신경 써 보세요."},
+{"de":"Min: Ich möchte mich bedanken, Ihre Erklärung hilft mir sehr.","ko":"민: 감사 인사를 드리고 싶어요, 설명이 정말 도움이 돼요."},
+{"de":"Lehrerin: Bitte beachtet auch die Hausaufgabe: Ihr sollt die Fragen beantworten.","ko":"선생님: 숙제도 유의하세요. 질문에 답해야 합니다."},
+{"de":"Min: Muss ich jede Antwort begründen?","ko":"민: 모든 답에 이유를 설명해야 하나요?"},
+{"de":"Lehrerin: Ja, die Begründung ist wichtig. Nur einen Fehler darf man nicht ausschließen: Fehler sind normal.","ko":"선생님: 네, 이유가 중요해요. 다만 실수가 있을 수 있다는 건 배제할 수 없어요. 실수는 자연스러운 거예요."},
+{"de":"Min: Kann ich Ihrem Kollegen etwas ausrichten?","ko":"민: 동료 선생님께 뭔가 전해 드릴까요?"},
+{"de":"Lehrerin: Ja, sag ihm bitte einen schönen Gruß.","ko":"선생님: 네, 안부 인사를 전해 주세요."}
+]},
+{"title":"Neuigkeiten im Verein","title_ko":"동호회 소식","type":"story","lines":[
+{"de":"Im Sportverein gibt es Neuigkeiten, und der Trainer will sie bekannt geben.","ko":"스포츠 동호회에 소식이 있어서 코치가 이를 공지하려 한다."},
+{"de":"Er hat gestern bemerkt, dass viele Mitglieder den Beitrag noch nicht bezahlt haben.","ko":"그는 어제 많은 회원이 아직 회비를 내지 않았다는 것을 알아챘다."},
+{"de":"Einige behaupten, sie hätten nie eine Rechnung bekommen.","ko":"몇몇은 청구서를 한 번도 받지 못했다고 주장한다."},
+{"de":"Der Trainer beobachtet die Gruppe und beschließt, alle persönlich zu beraten.","ko":"코치는 그룹을 관찰하다가 모두에게 직접 상담해 주기로 결정한다."},
+{"de":"Die Beratung dauert nur zehn Minuten pro Person.","ko":"상담은 한 사람당 10분밖에 걸리지 않는다."},
+{"de":"Eine Reporterin will über den Verein berichten und schreibt einen Bericht für die Zeitung.","ko":"한 기자가 동호회에 대해 보도하려고 신문에 실을 기사를 쓴다."},
+{"de":"Sie bittet den Trainer, ihr Bescheid zu sagen, wenn das Training beginnt.","ko":"그녀는 코치에게 훈련이 시작되면 알려 달라고 부탁한다."},
+{"de":"Er verspricht, ihr sofort Bescheid zu geben, denn der Bescheid vom Amt ist schon da.","ko":"그는 관청 통지서가 이미 왔으니 즉시 알려 주겠다고 약속한다."},
+{"de":"Der Bericht ist ein gutes Beispiel für freundliche Zusammenarbeit.","ko":"그 기사는 친근한 협력의 좋은 본보기다."}
+]},
+{"title":"Das kaputte Handy","title_ko":"고장 난 휴대폰","type":"dialog","lines":[
+{"de":"Kunde: Guten Tag, ich möchte mich beschweren. Mein Handy ist kaputt.","ko":"고객: 안녕하세요, 항의하고 싶습니다. 제 휴대폰이 고장 났어요."},
+{"de":"Verkäuferin: Können Sie das Problem genau beschreiben?","ko":"판매원: 문제를 정확히 설명해 주시겠어요?"},
+{"de":"Kunde: Die Beschreibung ist einfach: Der Bildschirm bleibt schwarz.","ko":"고객: 설명은 간단해요. 화면이 계속 까맣게 나옵니다."},
+{"de":"Verkäuferin: Ich denke, wir müssen das mit dem Techniker besprechen.","ko":"판매원: 기술자와 상의해야 할 것 같아요."},
+{"de":"Kunde: Der Gedanke, wieder eine Woche zu warten, gefällt mir nicht.","ko":"고객: 또 일주일을 기다려야 한다는 생각은 마음에 안 들어요."},
+{"de":"Verkäuferin: Achten Sie bitte darauf, dass Sie den Kassenzettel behalten.","ko":"판매원: 영수증을 꼭 보관해 주세요."},
+{"de":"Kunde: Ich kann beweisen, dass ich es hier gekauft habe. Hier ist der Beweis.","ko":"고객: 여기서 샀다는 걸 증명할 수 있어요. 여기 증거가 있습니다."},
+{"de":"Verkäuferin: Danke, ich kann Ihnen den Termin bestätigen.","ko":"판매원: 감사합니다, 약속 일정을 확인해 드릴 수 있어요."},
+{"de":"Kunde: Bekomme ich eine schriftliche Bestätigung?","ko":"고객: 서면 확인서를 받을 수 있나요?"},
+{"de":"Verkäuferin: Natürlich, ich schicke sie Ihnen per E-Mail.","ko":"판매원: 물론이죠, 이메일로 보내 드리겠습니다."}
+]},
+{"title":"Der Dialekt","title_ko":"사투리","type":"story","lines":[
+{"de":"Jin zieht von Seoul nach Bayern und hört zum ersten Mal einen starken Dialekt.","ko":"진은 서울에서 바이에른으로 이사해 처음으로 강한 사투리를 듣는다."},
+{"de":"Sie versteht fast nichts, und der erste Eindruck ist nicht gut.","ko":"그녀는 거의 아무것도 이해하지 못하고, 첫인상은 좋지 않다."},
+{"de":"Ihr Nachbar duzt sie sofort, und sie weiß nicht, ob das normal ist.","ko":"이웃은 곧바로 그녀에게 말을 놓는데, 그녀는 그게 평범한 건지 모른다."},
+{"de":"Im Deutschkurs diskutieren die Schüler oft über diese Frage.","ko":"독일어 수업에서 학생들은 자주 이 질문에 대해 토론한다."},
+{"de":"Die Diskussion ist lebendig, und jeder darf seine Meinung sagen.","ko":"토론은 활발하고, 누구나 자기 의견을 말할 수 있다."},
+{"de":"Die Lehrerin soll im Dialog zwei Personen darstellen, und Jin spielt eine davon.","ko":"선생님은 대화 속 두 사람을 연기하게 하고, 진은 그중 한 명을 맡는다."},
+{"de":"Ihre Darstellung ist so lustig, dass alle lachen.","ko":"그녀의 연기는 너무 웃겨서 모두가 웃는다."},
+{"de":"Plötzlich fällt ihr ein, dass sie auch Dialekt sprechen kann, wie in Busan.","ko":"갑자기 그녀는 자신도 부산에서처럼 사투리를 쓸 수 있다는 게 떠오른다."},
+{"de":"Dieser Einfall macht sie selbstbewusster.","ko":"그 아이디어가 그녀를 더 자신감 있게 만든다."}
+]},
+{"title":"Wohin im Urlaub?","title_ko":"휴가는 어디로?","type":"dialog","lines":[
+{"de":"Paul: Wir müssen uns endlich einigen, wohin wir im Sommer fahren.","ko":"파울: 여름에 어디로 갈지 이제 합의해야 해."},
+{"de":"Mia: Ich habe viel Erfahrung mit Reisen nach Italien.","ko":"미아: 나는 이탈리아 여행 경험이 많아."},
+{"de":"Paul: Hast du eine Empfehlung für eine schöne Stadt?","ko":"파울: 예쁜 도시 추천해 줄 만한 곳 있어?"},
+{"de":"Mia: Ich empfehle Verona, die Empfehlung kommt von meiner Schwester.","ko":"미아: 베로나를 추천해. 언니가 추천해 준 곳이야."},
+{"de":"Paul: Was kostet das? Ich möchte jede Einzelheit wissen.","ko":"파울: 비용은 얼마야? 모든 세부 사항을 알고 싶어."},
+{"de":"Mia: Das kann ich erst morgen erfahren, wenn das Reisebüro öffnet.","ko":"미아: 여행사가 문을 여는 내일에야 알 수 있어."},
+{"de":"Paul: Gut. Wer soll die Entscheidung treffen?","ko":"파울: 좋아. 누가 결정을 내릴까?"},
+{"de":"Mia: Wir können zusammen entscheiden.","ko":"미아: 우리 같이 결정하면 돼."},
+{"de":"Paul: Ich habe mich entschlossen, nicht lange zu warten, und buche heute.","ko":"파울: 오래 기다리지 않기로 결심했어, 오늘 예약할게."},
+{"de":"Mia: Bist du damit einverstanden, wenn wir eine Woche bleiben?","ko":"미아: 일주일 머무는 데 동의해?"},
+{"de":"Paul: Ja, einverstanden!","ko":"파울: 응, 좋아!"}
+]},
+{"title":"Das Wiedersehen","title_ko":"재회","type":"story","lines":[
+{"de":"Auf dem Bahnhof sieht Karl eine Frau und erkennt sie sofort.","ko":"역에서 카를은 한 여인을 보고 곧바로 알아본다."},
+{"de":"Sie war seine Lehrerin, und die Erinnerung an die Schulzeit kommt zurück.","ko":"그녀는 그의 선생님이었고, 학창 시절의 기억이 되살아난다."},
+{"de":"Er fragt: „Erinnern Sie sich an mich?“","ko":"그가 묻는다. \"저를 기억하세요?\""},
+{"de":"Sie erwartet ihren Zug und erzählt von ihrem neuen Leben in Wien.","ko":"그녀는 기차를 기다리며 빈에서의 새 생활에 대해 이야기한다."},
+{"de":"Dort hat sie festgestellt, dass sie sich schnell an den Alltag gewöhnt.","ko":"그곳에서 그녀는 일상에 금방 적응한다는 걸 알게 되었다."},
+{"de":"Ihr Deutsch ist fließend, aber sie hatte nie eine Erklärung für den Wiener Dialekt.","ko":"그녀의 독일어는 유창하지만 빈 사투리에 대해서는 설명을 들은 적이 없다."},
+{"de":"Karl erkundigt sich nach ihrer Familie, und sie erklärt, dass alle gesund sind.","ko":"카를은 그녀의 가족에 대해 묻고, 그녀는 모두 건강하다고 설명한다."},
+{"de":"Er möchte noch etwas fragen, aber der Zug kommt.","ko":"그는 더 묻고 싶지만 기차가 온다."},
+{"de":"Sie fordert ihn auf, sie bald zu besuchen, das ist ihre einzige Forderung.","ko":"그녀는 곧 자기를 방문하라고 권하는데, 그것이 그녀의 유일한 요구다."}
+]}
+]

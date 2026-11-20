@@ -1,0 +1,78 @@
+[
+{"title":"Ein Tag auf dem Bauernhof","title_ko":"농장에서의 하루","type":"story","lines":[
+{"de":"Familie Brandt lebt auf dem Land und hat einen kleinen Bauernhof.","ko":"브란트 가족은 시골에 살며 작은 농장을 가지고 있다."},
+{"de":"Jeden Morgen muss Lena die Tiere füttern.","ko":"매일 아침 레나는 동물들에게 먹이를 주어야 한다."},
+{"de":"Die Kühe fressen frisches Gras auf der Wiese.","ko":"소들은 풀밭에서 신선한 풀을 먹는다."},
+{"de":"Ihr Haustier, der Hund Bruno, läuft hinter ihr her.","ko":"그녀의 반려동물인 개 브루노가 그녀 뒤를 따라 달린다."},
+{"de":"Auf dem Feld wachsen Kartoffeln und Mais.","ko":"밭에는 감자와 옥수수가 자란다."},
+{"de":"Im Herbst ist die Ernte, und alle helfen mit.","ko":"가을에는 수확이 있고 모두가 돕는다."},
+{"de":"Mittags machen sie Pause im Schatten eines großen Baums.","ko":"점심에는 큰 나무의 그늘에서 쉰다."},
+{"de":"Von dem Hügel hinter dem Haus sieht man den ganzen Hof in der Sonne liegen.","ko":"집 뒤 언덕에서는 햇볕 아래 놓인 농장 전체가 보인다."}
+]},
+{"title":"Brauche ich heute einen Schirm?","title_ko":"오늘 우산이 필요할까?","type":"dialog","lines":[
+{"de":"Tom: Hast du schon den Wetterbericht gehört?","ko":"톰: 벌써 일기 예보 들었어?"},
+{"de":"Mia: Ja, die Wettervorhersage sagt, dass es am Morgen sonnig ist.","ko":"미아: 응, 일기 예보에서 아침에는 화창하대."},
+{"de":"Tom: Und am Nachmittag?","ko":"톰: 오후에는?"},
+{"de":"Mia: Dann ist es bewölkt, und die ersten Wolken kommen aus dem Westen.","ko":"미아: 그때는 흐리고, 첫 구름이 서쪽에서 온대."},
+{"de":"Tom: Wird es auch windig?","ko":"톰: 바람도 불까?"},
+{"de":"Mia: Ja, der Wind ist ziemlich stark, und die Temperatur sinkt auf 12 Grad.","ko":"미아: 응, 바람이 꽤 세고 기온이 12도로 떨어져."},
+{"de":"Tom: Dann ist es ja richtig kühl.","ko":"톰: 그럼 꽤 쌀쌀하겠네."},
+{"de":"Mia: Am Abend soll es regnen, und der Regen hört erst nachts auf.","ko":"미아: 저녁에는 비가 온대, 그리고 비는 밤이 돼서야 그쳐."},
+{"de":"Tom: Dann nehme ich lieber einen Schirm mit.","ko":"톰: 그럼 우산을 가져가는 게 낫겠다."},
+{"de":"Mia: Und zieh dir auch eine Jacke an!","ko":"미아: 재킷도 입어!"},
+{"de":"Tom: Das Wetter in diesem Monat ist wirklich schwierig.","ko":"톰: 이번 달 날씨는 정말 까다로워."}
+]},
+{"title":"Das Gewitter","title_ko":"뇌우","type":"story","lines":[
+{"de":"Im Sommer war es tagelang sehr heiß, und die Hitze war kaum auszuhalten.","ko":"여름에 며칠 동안 매우 더웠고, 더위는 거의 견딜 수 없었다."},
+{"de":"Wir wanderten auf einen Berg und wollten ein Feuer machen.","ko":"우리는 산에 올라 불을 피우려고 했다."},
+{"de":"Wir sammelten trockenes Holz im Wald.","ko":"우리는 숲에서 마른 나무를 모았다."},
+{"de":"Plötzlich wurde der Himmel dunkel, und ein Sturm zog auf.","ko":"갑자기 하늘이 어두워지고 폭풍이 몰려왔다."},
+{"de":"Es fing an zu blitzen, und gleich danach hörten wir den Donner.","ko":"번개가 치기 시작했고 곧이어 천둥소리가 들렸다."},
+{"de":"Der Blitz schlug nur ein paar Meter neben uns ein.","ko":"번개가 우리 바로 몇 미터 옆에 내리꽂혔다."},
+{"de":"Es donnerte so laut, dass wir Angst bekamen.","ko":"천둥이 너무 크게 쳐서 우리는 겁이 났다."},
+{"de":"Dann begann es auch noch zu hageln, und wir rannten ins Tal zurück.","ko":"그러더니 우박까지 내리기 시작해서 우리는 계곡으로 뛰어 내려왔다."},
+{"de":"Das Gewitter war schlimm, aber zum Glück gab es keine Katastrophe.","ko":"뇌우는 심했지만 다행히 큰 재앙은 없었다."}
+]},
+{"title":"Ein kalter Wintertag","title_ko":"추운 겨울날","type":"dialog","lines":[
+{"de":"Anna: Schau mal, es schneit schon seit heute Morgen!","ko":"안나: 봐, 오늘 아침부터 눈이 오고 있어!"},
+{"de":"Ben: Ja, und die Kälte ist schlimm. Ich friere die ganze Zeit.","ko":"벤: 응, 추위가 심해. 나 계속 추워."},
+{"de":"Anna: Im Gebirge liegt bestimmt schon viel Schnee.","ko":"안나: 산악 지대에는 분명 눈이 벌써 많이 쌓였을 거야."},
+{"de":"Ben: Gestern war es hier im Tal noch sehr neblig.","ko":"벤: 어제는 여기 계곡이 아직 안개가 아주 많이 꼈어."},
+{"de":"Anna: Stimmt, man hat kaum zehn Meter weit gesehen, der Nebel war so dicht.","ko":"안나: 맞아, 안개가 너무 짙어서 10미터도 거의 안 보였어."},
+{"de":"Ben: Wollen wir zum Fluss gehen?","ko":"벤: 강에 가볼까?"},
+{"de":"Anna: Gern, das Wasser fließt dort auch im Winter.","ko":"안나: 좋아, 거기 물은 겨울에도 흘러."},
+{"de":"Ben: Am Ufer liegen große Steine, die sind bestimmt glatt.","ko":"벤: 물가에는 큰 돌들이 있는데, 분명 미끄러울 거야."},
+{"de":"Anna: Dann gehen wir lieber zum See, der ist gefroren, und wir können dort Schlittschuh laufen.","ko":"안나: 그럼 차라리 호수에 가자, 얼어 있어서 스케이트를 탈 수 있어."},
+{"de":"Ben: Gute Idee, nimm aber warme Handschuhe mit!","ko":"벤: 좋은 생각이야, 근데 따뜻한 장갑 챙겨!"}
+]},
+{"title":"Urlaub am Meer","title_ko":"바닷가 휴가","type":"story","lines":[
+{"de":"Im Urlaub fahren wir an die Nordsee, denn die See ist im Sommer ruhig und schön.","ko":"휴가 때 우리는 북해로 간다. 여름의 바다는 잔잔하고 아름답기 때문이다."},
+{"de":"Unser Haus liegt direkt an der Küste.","ko":"우리 집은 바로 해안가에 있다."},
+{"de":"Jeden Tag gehen wir an den Strand und spielen im Sand.","ko":"매일 우리는 해변에 가서 모래 위에서 논다."},
+{"de":"Von dort sieht man eine kleine Insel mitten im Meer.","ko":"거기서는 바다 한가운데 있는 작은 섬이 보인다."},
+{"de":"Mein Vater erzählt vom Ozean, der fast die ganze Welt bedeckt.","ko":"아버지는 거의 온 세상을 덮고 있는 대양에 대해 이야기해 준다."},
+{"de":"Am Strand fand mein Bruder eine tote Schlange, und wir erschraken.","ko":"해변에서 남동생이 죽은 뱀을 발견했고 우리는 깜짝 놀랐다."},
+{"de":"Leider liegt dort auch viel Plastik, das das Wasser verschmutzt.","ko":"안타깝게도 거기에는 물을 오염시키는 플라스틱도 많이 놓여 있다."},
+{"de":"Abends sitzen wir draußen, sehen den Mond und zählen die Sterne.","ko":"저녁에는 밖에 앉아 달을 보며 별을 센다."}
+]},
+{"title":"Wir schützen die Umwelt","title_ko":"우리는 환경을 보호한다","type":"dialog","lines":[
+{"de":"Lehrerin: Heute sprechen wir über die Umwelt. Wer kennt das Wort Umweltschutz?","ko":"선생님: 오늘은 환경에 대해 이야기합니다. 환경 보호라는 말을 아는 사람?"},
+{"de":"Paul: Das bedeutet, dass wir die Natur nicht kaputt machen.","ko":"파울: 자연을 망가뜨리지 않는다는 뜻이에요."},
+{"de":"Lehrerin: Richtig. Was ist ein Problem in unserer Region?","ko":"선생님: 맞아요. 우리 지역의 문제는 무엇일까요?"},
+{"de":"Sara: Die Umweltverschmutzung durch die vielen Autos.","ko":"사라: 많은 자동차로 인한 환경 오염이요."},
+{"de":"Paul: Die Abgase sind schlecht für die Luft, und der Lärm stört auch.","ko":"파울: 배기가스는 공기에 나쁘고 소음도 방해가 돼요."},
+{"de":"Lehrerin: Das stimmt, und das ist auch schlecht für das Klima.","ko":"선생님: 맞아요, 그리고 그건 기후에도 나쁩니다."},
+{"de":"Sara: Wir sollten weniger Energie verbrauchen.","ko":"사라: 우리는 에너지를 덜 써야 해요."},
+{"de":"Paul: Und mehr Öko-Produkte kaufen.","ko":"파울: 그리고 친환경 제품을 더 많이 사야 해요."},
+{"de":"Lehrerin: Genau. Wir haben nur eine Erde, und wir müssen auf sie aufpassen.","ko":"선생님: 정확해요. 우리에게는 지구가 하나뿐이니 잘 돌봐야 합니다."}
+]},
+{"title":"Mein Garten","title_ko":"나의 정원","type":"story","lines":[
+{"de":"Im Frühling pflanze ich in meinem Garten viele Blumen.","ko":"봄에 나는 정원에 많은 꽃을 심는다."},
+{"de":"Die Rose ist meine Lieblingsblume, und sie blüht den ganzen Sommer.","ko":"장미는 내가 가장 좋아하는 꽃이고 여름 내내 핀다."},
+{"de":"Jede Pflanze braucht Wasser und gute Erde.","ko":"모든 식물은 물과 좋은 흙이 필요하다."},
+{"de":"Im Herbst fällt von den Bäumen Blatt für Blatt auf den Rasen.","ko":"가을에는 나무에서 잎이 한 장 한 장 잔디 위로 떨어진다."},
+{"de":"Hinter dem Garten beginnt ein wilder Wald.","ko":"정원 뒤에는 야생의 숲이 시작된다."},
+{"de":"Wenn ich dort spazieren gehe, genieße ich die schöne Landschaft.","ko":"거기서 산책할 때면 아름다운 경치를 즐긴다."},
+{"de":"Das Gras wächst dort hoch, und überall stehen wilde Blumen.","ko":"거기엔 풀이 높이 자라고 곳곳에 야생화가 서 있다."}
+]}
+]

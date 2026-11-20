@@ -1,0 +1,64 @@
+[
+{"title":"Im Verlag","title_ko":"출판사에서","type":"story","lines":[
+{"de":"Anna arbeitet als Reporterin für einen kleinen Verlag.","ko":"안나는 작은 출판사에서 기자로 일한다."},
+{"de":"Der Verlag gibt eine Zeitschrift und ein Magazin für Reisen heraus.","ko":"그 출판사는 여행에 관한 잡지와 매거진을 낸다."},
+{"de":"Für ihre neue Reportage braucht sie viel Recherche.","ko":"새 르포를 위해 그녀는 많은 조사가 필요하다."},
+{"de":"Zuerst schreibt sie den Text auf Papier, dann in den Rechner.","ko":"그녀는 먼저 글을 종이에 쓰고, 그다음 컴퓨터에 입력한다."},
+{"de":"Die Überschrift darf nur eine Zeile lang sein.","ko":"제목은 한 줄 길이여야만 한다."},
+{"de":"Ihr Chef liest alles und findet die Schrift im Heft zu klein.","ko":"상사는 모든 것을 읽고 잡지의 글씨가 너무 작다고 생각한다."},
+{"de":"Die Leser sollen den Artikel gern lesen.","ko":"독자들이 그 기사를 즐겨 읽어야 한다."},
+{"de":"Nächste Woche wollen sie ihn veröffentlichen.","ko":"다음 주에 그들은 그것을 발표할 계획이다."},
+{"de":"Auch die Presse und die Zeitung der Stadt berichten darüber.","ko":"언론과 도시 신문도 그것에 대해 보도한다."}
+]},
+{"title":"Probleme am Computer","title_ko":"컴퓨터 문제","type":"dialog","lines":[
+{"de":"Tom: Mein Rechner funktioniert nicht richtig.","ko":"톰: 내 컴퓨터가 제대로 작동하지 않아."},
+{"de":"Lisa: Ist es eine Störung im System?","ko":"리사: 시스템에 고장이 있는 거야?"},
+{"de":"Tom: Ich glaube nicht, aber der Monitor bleibt schwarz.","ko":"톰: 아닌 것 같은데, 모니터가 계속 까맣게 있어."},
+{"de":"Lisa: Drück mal eine Taste auf der Tastatur.","ko":"리사: 키보드에서 아무 키나 한번 눌러 봐."},
+{"de":"Tom: Jetzt geht es. Ich muss eine Tabelle tippen.","ko":"톰: 이제 돼. 표를 하나 입력해야 해."},
+{"de":"Lisa: Vergiss nicht, die Datei zu speichern!","ko":"리사: 파일 저장하는 거 잊지 마!"},
+{"de":"Tom: Ich will sie auch auf dem Laufwerk sichern.","ko":"톰: 드라이브에도 백업하고 싶어."},
+{"de":"Lisa: Klick auf das Symbol mit dem Pfeil.","ko":"리사: 화살표 아이콘을 클릭해."},
+{"de":"Tom: Danke. Kann ich alte Dateien jetzt löschen?","ko":"톰: 고마워. 이제 오래된 파일은 삭제해도 될까?"},
+{"de":"Lisa: Ja, und starte danach das Programm neu.","ko":"리사: 응, 그리고 그 후에 프로그램을 다시 시작해."}
+]},
+{"title":"Am Telefon","title_ko":"전화 통화","type":"dialog","lines":[
+{"de":"Mia: Hallo, ich möchte mit Herrn Berger telefonieren.","ko":"미아: 안녕하세요, 베르거 씨와 통화하고 싶습니다."},
+{"de":"Frau Koch: Einen Moment, ich verbinde Sie.","ko":"코흐 씨: 잠시만요, 연결해 드리겠습니다."},
+{"de":"Mia: Niemand meldet sich. Nur die Mobilbox läuft.","ko":"미아: 아무도 받지 않아요. 음성 사서함만 나와요."},
+{"de":"Frau Koch: Dann rufen Sie sein Mobiltelefon an.","ko":"코흐 씨: 그럼 그의 휴대전화로 전화하세요."},
+{"de":"Mia: Ich habe seine Rufnummer nicht, nur die Vorwahl.","ko":"미아: 그의 전화번호는 없고 지역 번호만 있어요."},
+{"de":"Frau Koch: Ich suche sie auf dem Telefon in der Vermittlung.","ko":"코흐 씨: 교환실 전화기에서 찾아볼게요."},
+{"de":"Mia: Könnten Sie ihm bitte mitteilen, dass ich angerufen habe?","ko":"미아: 제가 전화했다고 그분께 전해 주시겠어요?"},
+{"de":"Frau Koch: Gern. Haben Sie schon sein Schreiben bekommen?","ko":"코흐 씨: 물론이죠. 그분의 서신은 이미 받으셨나요?"},
+{"de":"Mia: Ja, aber ich muss es am Schalter abgeben.","ko":"미아: 네, 하지만 그것을 창구에 제출해야 해요."},
+{"de":"Frau Koch: Das ist kein Problem, Sie sind ja mobil.","ko":"코흐 씨: 문제없어요, 어차피 이동이 자유로우시잖아요."}
+]},
+{"title":"Ein Abend mit Radio und Fernsehen","title_ko":"라디오와 텔레비전이 있는 저녁","type":"story","lines":[
+{"de":"Opa hört abends gern Radio.","ko":"할아버지는 저녁에 라디오를 즐겨 듣는다."},
+{"de":"Sein alter Lautsprecher knackt, aber der Sender ist gut.","ko":"그의 낡은 스피커는 지직거리지만 방송국은 좋다."},
+{"de":"Die Sendung kommt direkt aus dem Studio in Köln.","ko":"그 방송은 쾰른의 스튜디오에서 바로 나온다."},
+{"de":"Zuerst gibt es eine Nachricht aus der Politik, dann eine Meldung über das Wetter.","ko":"먼저 정치 뉴스가 나오고, 그다음 날씨 보도가 나온다."},
+{"de":"Danach kommt Werbung, und Opa findet jede Reklame zu laut.","ko":"그 후에 광고가 나오고, 할아버지는 모든 광고가 너무 시끄럽다고 생각한다."},
+{"de":"Seine Enkelin sieht lieber eine Serie und ein Video am Abend.","ko":"손녀는 저녁에 드라마와 영상을 보는 것을 더 좋아한다."},
+{"de":"Sie sagt: Die neuen Medien sind einfach spannender.","ko":"그녀는 새로운 미디어가 그냥 더 흥미롭다고 말한다."},
+{"de":"Aber Opa hat die größte Neuigkeit: Der Sender will bald ein neues Programm senden.","ko":"하지만 할아버지에게는 가장 큰 새 소식이 있다. 방송국이 곧 새 프로그램을 방송하려 한다는 것이다."}
+]},
+{"title":"Die Technik im Kraftwerk","title_ko":"발전소의 기술","type":"story","lines":[
+{"de":"Jonas besucht mit seiner Klasse ein Kraftwerk.","ko":"요나스는 반 친구들과 발전소를 견학한다."},
+{"de":"Dort steht eine riesige Maschine, die Strom für das ganze Netz macht.","ko":"그곳에는 전체 전력망을 위해 전기를 만드는 거대한 기계가 있다."},
+{"de":"Der Ingenieur erklärt die moderne Technologie und die technischen Daten.","ko":"엔지니어가 현대 기술과 기술 사양을 설명한다."},
+{"de":"Viele Teile sind aus Kunststoff, weil er leicht ist.","ko":"많은 부품은 가벼워서 플라스틱으로 되어 있다."},
+{"de":"Das neue Modell läuft fast wie ein virtuelles Netzwerk, sagt er.","ko":"새 기종은 거의 가상 네트워크처럼 작동한다고 그는 말한다."},
+{"de":"Wenn man am Schalter dreht, kann man die Anlage schalten.","ko":"스위치를 돌리면 설비를 조작할 수 있다."},
+{"de":"Ein rotes Zeichen warnt vor Gefahr.","ko":"빨간 표시가 위험을 경고한다."},
+{"de":"An der Wand hängt ein Plakat, und am Ausgang liegt ein Prospekt.","ko":"벽에는 포스터가 걸려 있고, 출구에는 안내 책자가 놓여 있다."},
+{"de":"Jonas schreibt seine Fragen auf einen Zettel.","ko":"요나스는 자신의 질문을 쪽지에 적는다."}
+]},
+{"title":"Eine Nachricht senden","title_ko":"메시지 보내기","type":"dialog","lines":[
+{"de":"Paul: Hast du meine Nachricht schon gelesen?","ko":"파울: 내 메시지 벌써 읽었어?"},
+{"de":"Eva: Nein, ich kann sie nicht öffnen. Das Netzwerk ist schlecht.","ko":"에바: 아니, 못 열겠어. 네트워크 상태가 나빠."},
+{"de":"Paul: Ich kann sie noch einmal senden.","ko":"파울: 내가 한 번 더 보낼 수 있어."},
+{"de":"Eva: Gut, danke.","ko":"에바: 좋아, 고마워."}
+]}
+]

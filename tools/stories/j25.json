@@ -1,0 +1,69 @@
+[
+{"title":"Annas Tagesablauf","title_ko":"안나의 하루 일과","type":"story","lines":[
+{"de":"Annas Tagesablauf ist ziemlich streng.","ko":"안나의 하루 일과는 꽤 빡빡하다."},
+{"de":"Normalerweise steht sie früh auf, schon um halb sechs Uhr.","ko":"보통 그녀는 일찍, 이미 5시 반에 일어난다."},
+{"de":"Sie fährt jedes Mal mit dem Bus und ist immer pünktlich im Büro.","ko":"그녀는 매번 버스를 타고 가고 항상 정시에 사무실에 도착한다."},
+{"de":"Manchmal kommt der Bus aber spät.","ko":"하지만 가끔 버스가 늦게 온다."},
+{"de":"Um zwölf macht sie eine Pause von einer Stunde.","ko":"12시에 그녀는 한 시간 동안 휴식을 취한다."},
+{"de":"Nachher arbeitet sie noch bis fünf Uhr.","ko":"그 후에 그녀는 5시까지 더 일한다."},
+{"de":"Zum Schluss schreibt sie ihre Aufgaben für morgen auf.","ko":"마지막으로 그녀는 내일 할 일을 적어 둔다."},
+{"de":"Am Abend hat sie endlich Zeit für sich.","ko":"저녁에는 마침내 자신을 위한 시간이 생긴다."}
+]},
+{"title":"Den Termin verschieben","title_ko":"약속 일정 미루기","type":"dialog","lines":[
+{"de":"Herr Braun: Guten Tag, Frau Keller. Ich schaue gerade in meinen Terminkalender.","ko":"브라운 씨: 안녕하세요, 켈러 씨. 지금 제 일정표를 보고 있어요."},
+{"de":"Frau Keller: Gibt es ein Problem mit unserem Termin?","ko":"켈러 씨: 우리 약속에 문제가 있나요?"},
+{"de":"Herr Braun: Ja, ich muss ihn leider verschieben.","ko":"브라운 씨: 네, 안타깝지만 미뤄야 해요."},
+{"de":"Frau Keller: Kein Problem. Wann passt es Ihnen denn?","ko":"켈러 씨: 문제없어요. 그럼 언제가 괜찮으세요?"},
+{"de":"Herr Braun: Wie wäre es übermorgen um zehn?","ko":"브라운 씨: 모레 10시는 어떠세요?"},
+{"de":"Frau Keller: Einen Moment, ich prüfe das Datum. Ja, der Zeitpunkt passt.","ko":"켈러 씨: 잠시만요, 날짜를 확인해 볼게요. 네, 그 시점 괜찮아요."},
+{"de":"Herr Braun: Sehr gut. Die Frist für den Bericht ist aber spätestens Freitag.","ko":"브라운 씨: 좋아요. 그런데 보고서 기한은 늦어도 금요일이에요."},
+{"de":"Frau Keller: Dann schicke ich Ihnen vorher alle Unterlagen.","ko":"켈러 씨: 그럼 그 전에 모든 서류를 보내 드릴게요."},
+{"de":"Herr Braun: Danke, so haben wir sie rechtzeitig.","ko":"브라운 씨: 감사합니다, 그러면 제때 받을 수 있겠네요."},
+{"de":"Frau Keller: Ich schreibe die E-Mail sofort.","ko":"켈러 씨: 이메일을 바로 쓸게요."}
+]},
+{"title":"Die Ferien am Meer","title_ko":"바닷가에서의 방학","type":"story","lines":[
+{"de":"Zu Beginn der Ferien fährt Familie Wolf ans Meer.","ko":"방학이 시작될 때 볼프 가족은 바다로 간다."},
+{"de":"Dort wollen sie zwei Wochen verbringen.","ko":"그곳에서 그들은 2주를 보내려고 한다."},
+{"de":"Es ist Hochsaison, deshalb ist alles voll.","ko":"성수기라서 모든 곳이 붐빈다."},
+{"de":"Die Fahrt soll nicht lange dauern, aber am Feiertag gibt es viel Stau.","ko":"이동은 오래 걸리지 않아야 하지만 공휴일에는 정체가 심하다."},
+{"de":"Die Dauer der Fahrt beträgt am Ende sechs Stunden.","ko":"결국 이동 시간은 여섯 시간이 된다."},
+{"de":"Anfangs sind die Kinder müde und schlecht gelaunt.","ko":"처음에는 아이들이 피곤하고 기분이 좋지 않다."},
+{"de":"Bald spielen sie aber schon am Strand.","ko":"하지만 곧 아이들은 해변에서 놀고 있다."},
+{"de":"Der Anfang des Urlaubs ist also doch schön.","ko":"그러니 휴가의 시작은 결국 멋지다."}
+]},
+{"title":"Eine Verabredung","title_ko":"약속","type":"dialog","lines":[
+{"de":"Lena: Hast du heute Abend Zeit? Ich möchte mich mit dir verabreden.","ko":"레나: 오늘 저녁에 시간 있어? 너랑 약속을 잡고 싶어."},
+{"de":"Tom: Leider bin ich schon verabredet. Ich treffe Jonas.","ko":"톰: 아쉽게도 이미 약속이 있어. 요나스를 만나."},
+{"de":"Lena: Schade. Gestern hattest du auch keine Zeit.","ko":"레나: 아쉽다. 어제도 너 시간이 없었잖아."},
+{"de":"Tom: Und vorgestern war ich beim Zahnarzt, stimmt.","ko":"톰: 그저께는 치과에 갔었고, 맞아."},
+{"de":"Lena: Vorhin habe ich übrigens Jonas im Café gesehen.","ko":"레나: 그건 그렇고, 아까 카페에서 요나스를 봤어."},
+{"de":"Tom: Neulich hat er mir erzählt, dass er kürzlich umgezogen ist.","ko":"톰: 일전에 그가 얼마 전에 이사했다고 말해 줬어."},
+{"de":"Lena: Zurzeit hat wohl jeder viel zu tun.","ko":"레나: 요즘은 다들 할 일이 많은가 봐."},
+{"de":"Tom: Ich schaue jetzt in meinen Kalender.","ko":"톰: 지금 내 달력을 볼게."},
+{"de":"Tom: Wie wäre es mit Samstag? Diese Verabredung ist mir wichtig.","ko":"톰: 토요일은 어때? 이 약속은 나한테 중요해."},
+{"de":"Lena: Perfekt, Samstag passt mir gut!","ko":"레나: 완벽해, 토요일 좋아!"}
+]},
+{"title":"Früher und heute","title_ko":"예전과 오늘날","type":"story","lines":[
+{"de":"Damals hatte mein Großvater kein Telefon.","ko":"그 당시 우리 할아버지는 전화기가 없었다."},
+{"de":"Früher schrieb man oft Briefe, und die Antwort dauerte Wochen.","ko":"예전에는 자주 편지를 썼고, 답장은 몇 주나 걸렸다."},
+{"de":"Er hat nie ein Handy benutzt und hat längst alles vergessen, was ich ihn fragen wollte.","ko":"그는 한 번도 휴대폰을 쓴 적이 없고, 내가 물으려던 건 이미 오래전에 다 잊어버렸다."},
+{"de":"Die heutige Technik ist für ihn unbegreiflich.","ko":"오늘날의 기술은 그에게 이해할 수 없는 것이다."},
+{"de":"Hast du jemals darüber nachgedacht, wie sich das Leben verändert hat?","ko":"그동안 삶이 어떻게 변했는지 한 번이라도 생각해 본 적 있니?"},
+{"de":"Die Vergangenheit bleibt interessant, aber ich denke auch an die Zukunft.","ko":"과거는 흥미롭지만 나는 미래도 생각한다."},
+{"de":"Irgendwann will ich meinen Enkeln davon erzählen.","ko":"언젠가 나는 손주들에게 그것을 이야기해 주고 싶다."},
+{"de":"Inzwischen lerne ich selbst mit zukünftigen Techniken umzugehen.","ko":"그사이 나는 앞으로의 기술을 다루는 법을 직접 배운다."},
+{"de":"Mittlerweile macht es mir sogar Spaß.","ko":"이제는 그것이 재미있기까지 하다."}
+]},
+{"title":"Im Stress","title_ko":"스트레스 속에서","type":"dialog","lines":[
+{"de":"Mia: Entschuldigung, ich habe es eilig. Hast du einen Augenblick Zeit?","ko":"미아: 미안, 나 급해. 잠깐 시간 있어?"},
+{"de":"Paul: Du bist dauernd in Eile, Mia.","ko":"폴: 미아, 너는 늘 서두르고 있어."},
+{"de":"Mia: Ich muss gleichzeitig lernen und arbeiten.","ko":"미아: 나는 공부와 일을 동시에 해야 해."},
+{"de":"Paul: Du kannst mich jederzeit anrufen, wenn du Hilfe brauchst.","ko":"폴: 도움이 필요하면 언제든지 전화해."},
+{"de":"Mia: Danke. Plötzlich ist alles so viel geworden.","ko":"미아: 고마워. 갑자기 모든 게 너무 많아졌어."},
+{"de":"Paul: Was machst du zuerst?","ko":"폴: 먼저 뭘 할 거야?"},
+{"de":"Mia: Zunächst schreibe ich die Hausarbeit.","ko":"미아: 우선 과제를 쓸 거야."},
+{"de":"Mia: Zuletzt kommt die Prüfung dran, die erst im Juli ist.","ko":"미아: 마지막으로 시험이 오는데, 그건 7월이야."},
+{"de":"Paul: Wenn das Semester endet, kannst du dich erholen.","ko":"폴: 학기가 끝나면 쉴 수 있어."},
+{"de":"Mia: Ja, und dieses Mal mache ich wirklich Urlaub.","ko":"미아: 응, 이번에는 정말 휴가를 갈 거야."}
+]}
+]

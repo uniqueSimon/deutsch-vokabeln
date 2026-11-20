@@ -1,0 +1,373 @@
+[
+ {
+  "title": "Der Ausflug der Klasse",
+  "title_ko": "학급 소풍",
+  "type": "story",
+  "lines": [
+   {
+    "de": "Heute ist Herr Braun abwesend, deshalb ist die Vertretung dringend nötig.",
+    "ko": "오늘은 브라운 선생님이 자리에 없어서 대체 교사가 급히 필요하다."
+   },
+   {
+    "de": "Alle Schüler sind anwesend, nur Lena fehlt.",
+    "ko": "모든 학생이 출석했고 레나만 없다."
+   },
+   {
+    "de": "Der Ausflug hängt vom Wetter ab, sagt die Lehrerin.",
+    "ko": "소풍은 날씨에 달려 있다고 선생님이 말한다."
+   },
+   {
+    "de": "Die aktuelle Vorhersage ist gut, aber der Plan ist noch nicht endgültig.",
+    "ko": "현재 일기예보는 좋지만 계획은 아직 최종 확정이 아니다."
+   },
+   {
+    "de": "Nur eine Sache steht fest: Wir treffen uns um acht Uhr am Bahnhof.",
+    "ko": "한 가지만 확정되어 있다. 우리는 8시에 역에서 만난다."
+   },
+   {
+    "de": "Das Geld reicht aus, aber die Plätze im Bus sind begrenzt.",
+    "ko": "돈은 충분하지만 버스 좌석은 제한되어 있다."
+   },
+   {
+    "de": "Deshalb ist eine Anmeldung erforderlich.",
+    "ko": "그래서 신청이 필수이다."
+   },
+   {
+    "de": "Lena kommt eilig angelaufen, gerade noch rechtzeitig.",
+    "ko": "레나가 서둘러 뛰어와서 아슬아슬하게 제시간에 도착한다."
+   },
+   {
+    "de": "Die Änderung am Treffpunkt hat sie nicht gehört.",
+    "ko": "그녀는 만나는 장소의 변경 사항을 듣지 못했다."
+   }
+  ]
+ },
+ {
+  "title": "Die neue Wohnung",
+  "title_ko": "새 집",
+  "type": "dialog",
+  "lines": [
+   {
+    "de": "Anna: Schau mal, die Wohnung ist eng, aber sehr bequem.",
+    "ko": "안나: 봐, 집이 좁지만 아주 편안해."
+   },
+   {
+    "de": "Tom: Das Wohnzimmer ist mir zu dunkel und die Wand ist feucht.",
+    "ko": "톰: 거실은 내게 너무 어둡고 벽이 축축해."
+   },
+   {
+    "de": "Anna: Stimmt, die Fenster sind nicht dicht.",
+    "ko": "안나: 맞아, 창문이 밀폐가 안 돼."
+   },
+   {
+    "de": "Tom: Wir brauchen dicke Vorhänge und eine neue Farbe für die Wand.",
+    "ko": "톰: 두꺼운 커튼과 벽에 칠할 새 색이 필요해."
+   },
+   {
+    "de": "Anna: Ich möchte eine einheitliche Farbe, zum Beispiel Weiß.",
+    "ko": "안나: 나는 통일된 색, 예를 들어 흰색이 좋아."
+   },
+   {
+    "de": "Tom: Und ein paar bunte Kissen auf dem Sofa?",
+    "ko": "톰: 그리고 소파에 알록달록한 쿠션 몇 개는?"
+   },
+   {
+    "de": "Anna: Gern. Das Sofa ist breit, da passen viele Kissen drauf.",
+    "ko": "안나: 좋아. 소파가 넓어서 쿠션이 많이 들어가."
+   },
+   {
+    "de": "Tom: Der Tisch ist flach und niedrig, das ist auch praktisch.",
+    "ko": "톰: 테이블도 낮고 평평해서 실용적이야."
+   },
+   {
+    "de": "Anna: Mit ein paar Änderungen wird es richtig angenehm hier.",
+    "ko": "안나: 몇 가지만 바꾸면 여기가 정말 쾌적해질 거야."
+   },
+   {
+    "de": "Tom: Dann fangen wir gleich morgen an.",
+    "ko": "톰: 그럼 내일 바로 시작하자."
+   }
+  ]
+ },
+ {
+  "title": "Ein berühmter Gast",
+  "title_ko": "유명한 손님",
+  "type": "story",
+  "lines": [
+   {
+    "de": "Im Restaurant arbeitet Marco in einem besonderen Bereich: Er bedient die VIP-Gäste.",
+    "ko": "식당에서 마르코는 특별한 구역, 즉 VIP 손님을 담당한다."
+   },
+   {
+    "de": "Heute kommt ein berühmter Sänger, der in ganz Deutschland bekannt ist.",
+    "ko": "오늘은 독일 전역에서 알려진 유명한 가수가 온다."
+   },
+   {
+    "de": "Er ist sehr beliebt und trägt einen eleganten Anzug.",
+    "ko": "그는 인기가 아주 많고 우아한 양복을 입고 있다."
+   },
+   {
+    "de": "Marco ist ein bisschen blass vor Aufregung.",
+    "ko": "마르코는 긴장해서 얼굴이 조금 창백하다."
+   },
+   {
+    "de": "Aber das Essen ist ausgezeichnet, und der Sänger ist freundlich.",
+    "ko": "하지만 음식은 훌륭하고 가수도 친절하다."
+   },
+   {
+    "de": "Er sagt: Das ist echt das beste Essen der Stadt!",
+    "ko": "그는 말한다. \"이건 정말 이 도시 최고의 음식이에요!\""
+   },
+   {
+    "de": "Am Ende gibt er Marco ein großes Trinkgeld, was eine Ausnahme ist.",
+    "ko": "마지막에 그는 마르코에게 큰 팁을 주는데, 이건 예외적인 일이다."
+   },
+   {
+    "de": "Marco ist bereit, jeden Tag so zu arbeiten.",
+    "ko": "마르코는 매일 이렇게 일할 준비가 되어 있다."
+   }
+  ]
+ },
+ {
+  "title": "Im Fitnessstudio",
+  "title_ko": "헬스장에서",
+  "type": "dialog",
+  "lines": [
+   {
+    "de": "Jan: Du siehst heute fantastisch aus, Paul!",
+    "ko": "얀: 폴, 너 오늘 환상적으로 보여!"
+   },
+   {
+    "de": "Paul: Danke, ich bin jetzt sehr aktiv und mache jeden Tag Sport. Äußerlich sieht man es schon, aber ich fühle mich auch besser.",
+    "ko": "폴: 고마워, 나 요즘 아주 활동적이고 매일 운동해. 겉으로도 보이지만 기분도 더 좋아졌어."
+   },
+   {
+    "de": "Jan: Früher warst du dick, jetzt bist du eher dünn.",
+    "ko": "얀: 예전엔 뚱뚱했는데 지금은 오히려 말랐네."
+   },
+   {
+    "de": "Paul: Das Training ist extrem anstrengend, aber es macht Spaß.",
+    "ko": "폴: 운동이 극도로 힘들지만 재미있어."
+   },
+   {
+    "de": "Jan: Ich bin schon nach zehn Minuten fertig.",
+    "ko": "얀: 나는 10분 만에 녹초가 돼."
+   },
+   {
+    "de": "Paul: Am Anfang war es bei mir ähnlich.",
+    "ko": "폴: 처음엔 나도 비슷했어."
+   },
+   {
+    "de": "Jan: Was ist das Geheimnis?",
+    "ko": "얀: 비결이 뭐야?"
+   },
+   {
+    "de": "Paul: Du musst ernsthaft dranbleiben und darfst nicht aufgeben.",
+    "ko": "폴: 진지하게 꾸준히 해야 하고 포기하면 안 돼."
+   },
+   {
+    "de": "Jan: Gut, ich habe eine Chance verdient. Morgen komme ich wieder.",
+    "ko": "얀: 좋아, 나도 기회를 가질 만해. 내일 또 올게."
+   },
+   {
+    "de": "Paul: Super! Und danach machen wir etwas Entspannendes in der Sauna.",
+    "ko": "폴: 좋아! 그리고 그 후엔 사우나에서 긴장을 푸는 거야."
+   }
+  ]
+ },
+ {
+  "title": "Ein ganz normaler Tag",
+  "title_ko": "아주 평범한 하루",
+  "type": "story",
+  "lines": [
+   {
+    "de": "Mein Opa ist schon sehr alt, aber er mag sein alltägliches Leben.",
+    "ko": "우리 할아버지는 연세가 아주 많지만 일상생활을 좋아하신다."
+   },
+   {
+    "de": "Er ist nicht von anderen abhängig und kocht allein.",
+    "ko": "그는 다른 사람에게 의존하지 않고 혼자 요리한다."
+   },
+   {
+    "de": "Allgemein gilt er in der Familie als sehr flexibel.",
+    "ko": "가족 안에서 그는 일반적으로 아주 유연한 사람으로 통한다."
+   },
+   {
+    "de": "Morgens geht er mit einem frischen Brötchen in den Park.",
+    "ko": "아침마다 그는 갓 구운 빵을 들고 공원에 간다."
+   },
+   {
+    "de": "Dort ist die Luft angenehm und die Natur ist farbig.",
+    "ko": "그곳은 공기가 쾌적하고 자연이 알록달록하다."
+   },
+   {
+    "de": "Er findet das Ding mit dem Handy aber furchtbar, er benutzt es einfach nicht.",
+    "ko": "하지만 그는 휴대폰이란 물건은 끔찍하다고 생각해서 그냥 쓰지 않는다."
+   },
+   {
+    "de": "Sein einziger Wunsch ist ein ruhiger Abend mit Musik.",
+    "ko": "그의 유일한 소원은 음악과 함께하는 조용한 저녁이다."
+   }
+  ]
+ },
+ {
+  "title": "Auf dem Markt",
+  "title_ko": "시장에서",
+  "type": "dialog",
+  "lines": [
+   {
+    "de": "Verkäufer: Guten Morgen! Das Gemüse ist ganz frisch.",
+    "ko": "판매원: 안녕하세요! 이 채소는 아주 신선해요."
+   },
+   {
+    "de": "Kundin: Ich brauche dringend Tomaten, aber sie sollen fest sein.",
+    "ko": "손님: 토마토가 급히 필요한데 단단해야 해요."
+   },
+   {
+    "de": "Verkäufer: Diese Tomaten sind für Salat genau geeignet.",
+    "ko": "판매원: 이 토마토는 샐러드에 딱 적합해요."
+   },
+   {
+    "de": "Kundin: Kann ich die Tomaten auch einzeln kaufen?",
+    "ko": "손님: 토마토를 낱개로도 살 수 있나요?"
+   },
+   {
+    "de": "Verkäufer: Natürlich, das ist kein Problem.",
+    "ko": "판매원: 물론이죠, 문제없어요."
+   },
+   {
+    "de": "Kundin: Die Paprika hat eine schöne Farbe, aber die Form ist komisch.",
+    "ko": "손님: 파프리카는 색이 예쁜데 모양이 이상하네요."
+   },
+   {
+    "de": "Verkäufer: Echte Bio-Ware hat eben nicht immer die gleiche Art von Form.",
+    "ko": "판매원: 진짜 유기농 제품은 항상 같은 종류의 모양은 아니니까요."
+   },
+   {
+    "de": "Kundin: Stimmt. Ist die Rechnung so richtig? Das scheint mir falsch.",
+    "ko": "손님: 맞아요. 계산이 맞나요? 틀린 것 같아요."
+   },
+   {
+    "de": "Verkäufer: Oh, Entschuldigung, ich habe mich verrechnet.",
+    "ko": "판매원: 아, 죄송해요, 제가 잘못 계산했네요."
+   },
+   {
+    "de": "Kundin: Kein Problem. Das passiert jedem.",
+    "ko": "손님: 괜찮아요. 누구에게나 있는 일이죠."
+   }
+  ]
+ },
+ {
+  "title": "Das Chaos im Büro",
+  "title_ko": "사무실의 혼란",
+  "type": "story",
+  "lines": [
+   {
+    "de": "Im Büro ist heute alles durcheinander.",
+    "ko": "오늘 사무실은 모든 게 뒤죽박죽이다."
+   },
+   {
+    "de": "Auf dem Tisch liegt ein eckiger Karton, daneben ein einzelner Schuh.",
+    "ko": "책상 위에는 각진 상자가 있고 그 옆에 신발 한 짝이 있다."
+   },
+   {
+    "de": "Der Chef sagt deutlich: Wir müssen die Unterlagen automatisch speichern.",
+    "ko": "사장님이 분명하게 말한다. \"서류는 자동으로 저장해야 합니다.\""
+   },
+   {
+    "de": "Das folgende Problem ist eindeutig: Niemand kennt jedes Detail.",
+    "ko": "다음 문제는 분명하다. 아무도 모든 세부 사항을 알지 못한다."
+   },
+   {
+    "de": "Die Arbeit ist absolut wichtig, denn die Frist ist extrem kurz.",
+    "ko": "이 일은 절대적으로 중요한데, 기한이 극도로 짧기 때문이다."
+   },
+   {
+    "de": "Es herrscht ewiger Stress, und das ist fast eine Gefahr für die Gesundheit.",
+    "ko": "끝없는 스트레스가 이어지고, 이는 거의 건강에 위험이 될 정도다."
+   },
+   {
+    "de": "Am Ende ist alles fertig, und niemand war so dumm, die Frist zu vergessen.",
+    "ko": "결국 모든 것이 끝났고, 아무도 기한을 잊을 만큼 어리석지 않았다."
+   }
+  ]
+ },
+ {
+  "title": "Ein Sturm in den Bergen",
+  "title_ko": "산속의 폭풍",
+  "type": "story",
+  "lines": [
+   {
+    "de": "Der Wanderweg ist gefährlich, denn der Pfad ist schmal und der Boden ist feucht.",
+    "ko": "등산로는 길이 좁고 땅이 젖어 있어서 위험하다."
+   },
+   {
+    "de": "Ein fremder Mann steht am Ende der Brücke und winkt.",
+    "ko": "낯선 남자가 다리 끝에 서서 손짓한다."
+   },
+   {
+    "de": "Das Wetter ist schlecht, es ist eng zwischen den Felsen und sehr dunkel.",
+    "ko": "날씨가 나쁘고 바위 사이가 좁으며 매우 어둡다."
+   },
+   {
+    "de": "Wir sind bereit, umzukehren, doch der Rückweg ist das Gegenteil von leicht.",
+    "ko": "우리는 돌아갈 준비가 되어 있지만 돌아가는 길은 결코 쉽지 않다."
+   },
+   {
+    "de": "Die Hütte ist die einzige Möglichkeit, dort ist es trocken und warm.",
+    "ko": "산장이 유일한 방법이고 그곳은 건조하고 따뜻하다."
+   },
+   {
+    "de": "Ein Gegenstand fällt vom Rucksack, aber wir lassen ihn liegen.",
+    "ko": "물건 하나가 배낭에서 떨어지지만 우리는 그냥 둔다."
+   },
+   {
+    "de": "Dort bekommen wir heißen Tee, und das ist wirklich entspannend.",
+    "ko": "그곳에서 따뜻한 차를 받는데 정말 긴장이 풀린다."
+   }
+  ]
+ },
+ {
+  "title": "Die Teamarbeit",
+  "title_ko": "팀 프로젝트",
+  "type": "dialog",
+  "lines": [
+   {
+    "de": "Mia: Wir müssen das Projekt endlich planen. Bist du frei am Freitag?",
+    "ko": "미아: 이제 프로젝트를 계획해야 해. 금요일에 시간 돼?"
+   },
+   {
+    "de": "Ben: Ja, ich helfe freiwillig, das ist kein Problem.",
+    "ko": "벤: 응, 자발적으로 도울게, 문제없어."
+   },
+   {
+    "de": "Mia: Im Gegensatz zu dir bin ich oft unorganisiert.",
+    "ko": "미아: 너와 달리 나는 자주 체계가 없어."
+   },
+   {
+    "de": "Ben: Dann machen wir eine einfache Liste.",
+    "ko": "벤: 그럼 간단한 목록을 만들자."
+   },
+   {
+    "de": "Mia: Das Budget ist leider ausreichend nur für zwei Personen.",
+    "ko": "미아: 예산이 유감스럽게도 두 사람 몫으로만 충분해."
+   },
+   {
+    "de": "Ben: Dann suchen wir eine alternative Lösung.",
+    "ko": "벤: 그럼 대안적인 해결책을 찾아보자."
+   },
+   {
+    "de": "Mia: Es gibt aber einen Gegensatz zwischen Zeit und Qualität.",
+    "ko": "미아: 그런데 시간과 품질은 서로 대립해."
+   },
+   {
+    "de": "Ben: Stimmt, aber wir haben eine echte Chance, wenn wir flexibel bleiben.",
+    "ko": "벤: 맞아, 하지만 유연하게 대처하면 진짜 기회가 있어."
+   },
+   {
+    "de": "Mia: Okay. Dann ist es entschieden.",
+    "ko": "미아: 좋아. 그럼 결정됐네."
+   }
+  ]
+ }
+]

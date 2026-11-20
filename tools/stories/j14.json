@@ -1,0 +1,46 @@
+[
+{"title":"Ein Besuch in der Heimat","title_ko":"고향 방문","type":"story","lines":[
+{"de":"Im Sommer fährt Karl in sein Heimatdorf.","ko":"여름에 카를은 고향 마을로 간다."},
+{"de":"Das Dorf hat nur 300 Einwohner, und jeder kennt jeden.","ko":"그 마을은 주민이 300명밖에 안 되고, 모두가 서로를 안다."},
+{"de":"Sein Freund Tom will mit ihm die Burg in der Umgebung besichtigen.","ko":"그의 친구 톰은 그와 함께 주변에 있는 성을 구경하고 싶어 한다."},
+{"de":"Sie gehen über die alte Brücke und kommen zum großen Tor der Burg.","ko":"그들은 오래된 다리를 건너 성의 큰 문에 다다른다."},
+{"de":"Vom Turm sieht man den ganzen Ort mit seiner kleinen Kirche.","ko":"탑에서는 작은 교회가 있는 마을 전체가 보인다."},
+{"de":"Auf dem Rückweg zeigt Karl Tom ein Denkmal für die Gefallenen.","ko":"돌아오는 길에 카를은 톰에게 전몰자 기념비를 보여 준다."},
+{"de":"Tom findet, dass Karls Heimat sehr schön ist.","ko":"톰은 카를의 고향이 매우 아름답다고 생각한다."},
+{"de":"Am Abend sitzen sie müde, aber glücklich vor dem Haus.","ko":"저녁에 그들은 피곤하지만 행복하게 집 앞에 앉아 있다."}
+]},
+{"title":"Wo ist der Treffpunkt?","title_ko":"만날 장소가 어디예요?","type":"dialog","lines":[
+{"de":"Lena: Hallo Ben, ich bin gerade in der Hauptstadt angekommen.","ko":"레나: 안녕 벤, 나 방금 수도에 도착했어."},
+{"de":"Ben: Willkommen in der Metropole! Wo bist du jetzt?","ko":"벤: 대도시에 온 걸 환영해! 지금 어디야?"},
+{"de":"Lena: Ich stehe auf dem Trottoir vor dem Bahnhof und schaue auf meinen Stadtplan.","ko":"레나: 역 앞 인도에 서서 시내 지도를 보고 있어."},
+{"de":"Ben: Gehe einfach die Straße geradeaus, bis du im Zentrum bist.","ko":"벤: 중심가에 닿을 때까지 이 길을 그냥 쭉 가."},
+{"de":"Lena: Und wo treffen wir uns? Gibt es einen Treffpunkt?","ko":"레나: 그럼 어디서 만나? 만날 장소가 있어?"},
+{"de":"Ben: Am Platz vor dem Rathaus, das liegt mitten in der Fußgängerzone.","ko":"벤: 시청 앞 광장에서, 보행자 전용 구역 한가운데에 있어."},
+{"de":"Lena: Super! Ich kaufe noch schnell eine Zeitung am Kiosk.","ko":"레나: 좋아! 가판대에서 신문 하나 얼른 살게."},
+{"de":"Ben: Gut, und neben der Buchhandlung ist ein nettes Café.","ko":"벤: 좋아, 그리고 서점 옆에 괜찮은 카페가 있어."},
+{"de":"Lena: Dann trinken wir dort einen Kaffee.","ko":"레나: 그럼 거기서 커피 마시자."},
+{"de":"Ben: Perfekt, bis gleich!","ko":"벤: 좋아, 이따 봐!"}
+]},
+{"title":"Das neue Gebäude","title_ko":"새 건물","type":"story","lines":[
+{"de":"In unserer Straße ist seit einem Jahr eine große Baustelle.","ko":"우리 길에는 1년 전부터 큰 공사장이 있다."},
+{"de":"Man will dort eine neue Halle für die Messe bauen.","ko":"사람들은 그곳에 박람회를 위한 새 홀을 지으려고 한다."},
+{"de":"Ein Schild am Zaun zeigt, wann der Bau fertig sein soll.","ko":"울타리의 표지판에는 건축이 언제 끝날 예정인지 나와 있다."},
+{"de":"Gestern war die Feuerwehr zur Übung in dem Gebäude.","ko":"어제 소방대가 그 건물에서 훈련을 했다."},
+{"de":"Sie hat den Eingang, den Ausgang und den Notausgang kontrolliert.","ko":"그들은 입구, 출구, 비상구를 점검했다."},
+{"de":"Auch der Lift wurde getestet.","ko":"엘리베이터도 시험했다."},
+{"de":"Im großen Saal finden bald 500 Gäste Platz.","ko":"큰 강당에는 곧 손님 500명이 앉을 수 있다."},
+{"de":"Ich freue mich schon auf die Eröffnung.","ko":"나는 벌써부터 개관이 기대된다."}
+]},
+{"title":"Ein Sonntag in der Stadt","title_ko":"도시에서의 일요일","type":"dialog","lines":[
+{"de":"Mia: Was machen wir am Sonntag, Opa?","ko":"미아: 할아버지, 일요일에 우리 뭐 해요?"},
+{"de":"Opa: Ich wohne im Altenheim, aber wir können in die Stadt fahren.","ko":"할아버지: 나는 양로원에 살지만, 시내에 갈 수 있단다."},
+{"de":"Mia: Mama sagt Altersheim. Ist das dasselbe?","ko":"미아: 엄마는 노인 요양원이라고 해요. 같은 건가요?"},
+{"de":"Opa: Ja, beide Wörter sind richtig. Ich möchte gern in die Bibliothek.","ko":"할아버지: 그래, 두 말 다 맞단다. 나는 도서관에 가고 싶구나."},
+{"de":"Mia: Danach gehen wir in die Cafeteria, ich habe Hunger.","ko":"미아: 그다음에 구내식당에 가요, 배고파요."},
+{"de":"Opa: Und dann spazieren wir im Park.","ko":"할아버지: 그러고 나서 공원에서 산책하자."},
+{"de":"Mia: Können wir auch in den Tierpark? Das Stadion ist auch in der Nähe.","ko":"미아: 동물원에도 가도 돼요? 경기장도 가까이 있어요."},
+{"de":"Opa: Zuerst muss ich zum Salon, mein Haar ist zu lang.","ko":"할아버지: 먼저 미용실에 가야 해, 머리가 너무 길어."},
+{"de":"Mia: Mit dem städtischen Bus kommen wir vom Vorort schnell hin.","ko":"미아: 시립 버스를 타면 교외에서 금방 가요."},
+{"de":"Opa: Dieses Viertel gefällt mir sehr gut.","ko":"할아버지: 이 동네가 정말 마음에 드는구나."}
+]}
+]

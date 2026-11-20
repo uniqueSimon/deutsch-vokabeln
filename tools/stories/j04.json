@@ -1,0 +1,68 @@
+[
+{"title":"Der Einzug","title_ko":"이사","type":"story","lines":[
+{"de":"Anna hat ein kleines Apartment in der Stadt gefunden.","ko":"안나는 도시에서 작은 아파트를 하나 구했다."},
+{"de":"Sie will es mieten, weil die Miete nicht zu hoch ist.","ko":"월세가 너무 비싸지 않아서 그녀는 그 집을 임차하려고 한다."},
+{"de":"Am Samstag darf sie endlich einziehen.","ko":"토요일에 드디어 입주할 수 있다."},
+{"de":"Die Wohnung liegt in der vierten Etage, und im Haus gibt es zum Glück einen Aufzug.","ko":"집은 4층에 있고, 다행히 건물에 엘리베이터가 있다."},
+{"de":"Im Erdgeschoss wartet schon der Hausmeister auf sie.","ko":"1층에서 벌써 건물 관리인이 그녀를 기다리고 있다."},
+{"de":"In der Schweiz sagt man dazu Abwart, aber Anna kennt nur das deutsche Wort.","ko":"스위스에서는 그것을 Abwart라고 하지만, 안나는 독일어 단어만 안다."},
+{"de":"Er gibt ihr die Schlüssel und zeigt ihr die Klingel.","ko":"그는 그녀에게 열쇠를 주고 초인종을 보여 준다."},
+{"de":"Wenn es klingelt, ist meistens ein anderer Bewohner an der Tür.","ko":"벨이 울리면 대개 다른 주민이 문 앞에 있다."},
+{"de":"Als neue Mieterin ist Anna sehr glücklich.","ko":"새 세입자로서 안나는 아주 행복하다."}
+]},
+{"title":"Die Wohnung einrichten","title_ko":"집 꾸미기","type":"dialog","lines":[
+{"de":"Anna: Wie soll ich die Wohnung einrichten?","ko":"안나: 집을 어떻게 꾸밀까?"},
+{"de":"Ben: Zuerst brauchst du Möbel, zum Beispiel eine Couch.","ko":"벤: 먼저 가구가 필요해, 예를 들면 소파."},
+{"de":"Anna: Ich habe schon einen alten Fauteuil von meiner Oma.","ko":"안나: 할머니께 받은 낡은 안락의자는 이미 있어."},
+{"de":"Ben: Der ist toll! Dazu passen ein paar bunte Kissen.","ko":"벤: 멋지다! 거기에 알록달록한 쿠션 몇 개가 어울리겠어."},
+{"de":"Anna: Im Winter brauche ich auch eine warme Decke.","ko":"안나: 겨울에는 따뜻한 담요도 필요해."},
+{"de":"Ben: Und kauf eine schöne Lampe, das Licht ist sehr wichtig.","ko":"벤: 그리고 예쁜 램프를 사, 조명이 아주 중요해."},
+{"de":"Anna: Abends zünde ich lieber eine Kerze an.","ko":"안나: 저녁에는 양초를 켜는 게 더 좋아."},
+{"de":"Ben: Dann wird es richtig gemütlich.","ko":"벤: 그럼 정말 아늑해지겠다."},
+{"de":"Anna: Ich möchte auch die Wände mit Bildern dekorieren.","ko":"안나: 벽도 그림으로 꾸미고 싶어."},
+{"de":"Ben: Gute Idee. Und wo steht dein Bett?","ko":"벤: 좋은 생각이야. 그런데 네 침대는 어디에 놓을 거야?"},
+{"de":"Anna: Neben dem Fenster. Die Einrichtung ist fast fertig!","ko":"안나: 창문 옆에. 인테리어가 거의 다 됐어!"}
+]},
+{"title":"Großputz im Bad","title_ko":"욕실 대청소","type":"story","lines":[
+{"de":"Am Sonntag macht Anna im Bad sauber.","ko":"일요일에 안나는 욕실을 청소한다."},
+{"de":"Zuerst räumt sie alles auf, was auf dem Boden liegt.","ko":"먼저 바닥에 있는 모든 것을 정리한다."},
+{"de":"Mit einer harten Bürste schrubbt sie die Badewanne.","ko":"그녀는 딱딱한 솔로 욕조를 문지른다."},
+{"de":"In der Dusche sieht sie noch viel Dreck.","ko":"샤워실에는 아직 때가 많이 보인다."},
+{"de":"Auch ein hässlicher Fleck an der Wand muss weg.","ko":"벽에 있는 보기 흉한 얼룩도 없애야 한다."},
+{"de":"Der ganze Abfall landet im Abfalleimer.","ko":"쓰레기는 전부 쓰레기통에 들어간다."},
+{"de":"Alte Flaschen und Batterien muss sie extra entsorgen.","ko":"오래된 병과 건전지는 따로 처리해야 한다."},
+{"de":"Danach will sie sich duschen.","ko":"그런 다음 그녀는 샤워를 하려고 한다."}
+]},
+{"title":"Wer macht den Haushalt?","title_ko":"집안일은 누가 해?","type":"dialog","lines":[
+{"de":"Tom: Die Küche sieht schlimm aus!","ko":"톰: 부엌이 엉망이야!"},
+{"de":"Lisa: Ich weiß, das ganze Geschirr steht noch da. Wir müssen es abwaschen.","ko":"리사: 알아, 식기가 전부 그대로 있어. 설거지해야 해."},
+{"de":"Tom: Ich putze den Herd, und du räumst den Kühlschrank auf.","ko":"톰: 난 레인지를 닦을 테니 넌 냉장고를 정리해."},
+{"de":"Lisa: Okay. Wo ist die Kanne für den Tee?","ko":"리사: 알았어. 차 끓이는 주전자는 어디 있어?"},
+{"de":"Tom: Sie ist im Kasten neben der Spüle.","ko":"톰: 싱크대 옆 수납장에 있어."},
+{"de":"Lisa: Die Kiste mit den Tellern bringe ich in den Keller.","ko":"리사: 접시가 든 상자는 지하실로 가져갈게."},
+{"de":"Tom: Der Haushalt kostet wirklich viel Zeit.","ko":"톰: 살림은 정말 시간이 많이 들어."},
+{"de":"Lisa: Meine Mutter war Hausfrau und hatte nie Pause.","ko":"리사: 우리 엄마는 주부였는데 쉴 틈이 없었어."},
+{"de":"Tom: Vorsicht, das Gas ist noch an!","ko":"톰: 조심해, 가스가 아직 켜져 있어!"},
+{"de":"Lisa: Danke. Wo ist das Feuerzeug? Ich will Kaffee kochen.","ko":"리사: 고마워. 라이터 어디 있어? 커피를 끓이고 싶어."}
+]},
+{"title":"Das Haus am Land","title_ko":"시골의 집","type":"story","lines":[
+{"de":"Opa Karl wohnt in einem alten Haus auf dem Land.","ko":"칼 할아버지는 시골의 낡은 집에 산다."},
+{"de":"Das Grundstück ist groß und hat einen schönen Garten.","ko":"부지는 넓고 아름다운 정원이 있다."},
+{"de":"Neben dem Haus steht eine Garage für sein Auto.","ko":"집 옆에는 그의 자동차를 위한 차고가 있다."},
+{"de":"Im Hof liegt sein Werkzeug, auch ein Hammer und eine lange Leiter.","ko":"마당에는 그의 공구가 놓여 있는데, 망치와 긴 사다리도 있다."},
+{"de":"Heute repariert er das Dach, weil Regen durchkommt.","ko":"오늘 그는 비가 새서 지붕을 수리한다."},
+{"de":"Hinter dem Garten steht eine kleine Mauer und eine Hütte.","ko":"정원 뒤에는 작은 담과 오두막이 있다."},
+{"de":"Auf dem Balkon und auf der Bank vor dem Fenster sitzt er abends gern.","ko":"저녁에 그는 발코니와 창문 앞 벤치에 앉아 있는 것을 좋아한다."}
+]},
+{"title":"Ein kalter Winter","title_ko":"추운 겨울","type":"dialog","lines":[
+{"de":"Max: Es ist eiskalt im Flur. Funktioniert die Heizung nicht?","ko":"맥스: 현관이 얼음장 같아. 난방이 안 되는 거야?"},
+{"de":"Eva: Doch, aber wir müssen mehr heizen.","ko":"에바: 되긴 하는데, 난방을 더 해야 해."},
+{"de":"Max: Im Sommer brauchen wir dafür die Klimaanlage.","ko":"맥스: 여름에는 대신 에어컨이 필요하겠지."},
+{"de":"Eva: Hängst du bitte die Jacke an die Garderobe?","ko":"에바: 재킷을 옷걸이에 걸어 줄래?"},
+{"de":"Max: Klar. Ich gehe durch den Korridor in die Küche.","ko":"맥스: 물론이지. 복도를 지나 부엌으로 갈게."},
+{"de":"Eva: Im Gang steht noch das Fahrrad, pass auf!","ko":"에바: 복도에 아직 자전거가 있어, 조심해!"},
+{"de":"Max: Im Keller ist es zum Glück trocken.","ko":"맥스: 지하실은 다행히 건조해."},
+{"de":"Eva: Mein Bruder ist jetzt Hausmann und bleibt im Heim bei den Kindern.","ko":"에바: 내 오빠는 지금 살림하는 남편이라 아이들과 함께 집에 있어."},
+{"de":"Max: Das ist ein schönes Leben.","ko":"맥스: 멋진 삶이네."}
+]}
+]

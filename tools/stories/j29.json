@@ -1,0 +1,83 @@
+[
+{"title":"Das Geheimnis im Keller","title_ko":"지하실의 비밀","type":"story","lines":[
+{"de":"Anna hat ein großes Geheimnis.","ko":"안나에게는 큰 비밀이 하나 있다."},
+{"de":"Im Keller ihres Großvaters gibt es eine geheime Tür.","ko":"할아버지의 지하실에는 비밀 문이 하나 있다."},
+{"de":"Bis heute hatte sie nie die Gelegenheit, sie zu öffnen.","ko":"오늘까지 그녀는 그 문을 열 기회가 한 번도 없었다."},
+{"de":"Heute gehen Anna und ihr Bruder gemeinsam nach unten.","ko":"오늘 안나와 남동생은 함께 아래로 내려간다."},
+{"de":"Die Treppe ist glatt, deshalb gehen sie sehr vorsichtig.","ko":"계단이 미끄러워서 그들은 아주 조심스럽게 걷는다."},
+{"de":"Der alte Schlüssel ist nicht mehr gültig, aber die Tür geht trotzdem auf.","ko":"낡은 열쇠는 더 이상 유효하지 않지만, 문은 그래도 열린다."},
+{"de":"Auf dem Tisch liegen giftige Pflanzen, so etwas sind sie nicht gewohnt.","ko":"탁자 위에는 독이 있는 식물들이 놓여 있는데, 그들은 이런 것에 익숙하지 않다."},
+{"de":"Der Opa hat den Raum gründlich geputzt, und alles ist in gutem Zustand.","ko":"할아버지가 방을 꼼꼼히 청소해서 모든 것이 좋은 상태이다."},
+{"de":"Anna schaut genau hin und lächelt.","ko":"안나는 정확히 살펴보고는 미소 짓는다."}
+]},
+{"title":"Ein Paket für Lisa","title_ko":"리사에게 온 소포","type":"dialog","lines":[
+{"de":"Lisa: Max, was ist in dem Paket? Ich kenne den Inhalt nicht.","ko":"리사: 막스, 소포 안에 뭐가 들었어? 내용물을 모르겠어."},
+{"de":"Max: Es ist ein Geschenk, das ich heimlich bestellt habe.","ko":"막스: 내가 몰래 주문한 선물이야."},
+{"de":"Lisa: Oh, es ist hübsch! Das Kleid ist so hell.","ko":"리사: 와, 예쁘다! 원피스가 정말 밝은 색이네."},
+{"de":"Max: Ich finde es ideal für den Sommer.","ko":"막스: 여름에 이상적이라고 생각해."},
+{"de":"Lisa: Und was ist das? Der Kuchen sieht hässlich aus.","ko":"리사: 그럼 이건 뭐야? 케이크가 못생겼네."},
+{"de":"Max: Aber er ist haltbar, du kannst ihn lange essen.","ko":"막스: 하지만 오래 보관할 수 있어서 오래 먹을 수 있어."},
+{"de":"Lisa: Der Teig ist ja hart wie ein Stein!","ko":"리사: 반죽이 돌처럼 딱딱한데!"},
+{"de":"Max: Der Bäcker macht jeden Kuchen individuell, nach Wunsch.","ko":"막스: 제빵사가 모든 케이크를 주문에 맞춰 개별적으로 만들어."},
+{"de":"Lisa: Er ist bestimmt sehr intelligent, die Regale sind so hoch gestapelt.","ko":"리사: 분명 아주 똑똑한 사람일 거야, 선반이 저렇게 높이 쌓여 있잖아."},
+{"de":"Max: Seine Intelligenz sieht man auch an seinen Rezepten.","ko":"막스: 그의 지능은 레시피에서도 드러나."},
+{"de":"Lisa: Ich möchte intensiv über das Rezept sprechen, das ist interessant.","ko":"리사: 그 레시피에 대해 집중적으로 이야기해 보고 싶어, 흥미로워."}
+]},
+{"title":"Der kaputte Computer","title_ko":"고장 난 컴퓨터","type":"story","lines":[
+{"de":"Tom ist noch jung und wohnt in einer kleinen Wohnung.","ko":"톰은 아직 젊고 작은 아파트에 산다."},
+{"de":"Draußen ist es kalt, und sein Kaffee ist auch schon kalt.","ko":"밖은 춥고 그의 커피도 벌써 식었다."},
+{"de":"Plötzlich ist sein Computer kaputt.","ko":"갑자기 그의 컴퓨터가 고장 났다."},
+{"de":"Er lässt ihn nicht gern kaputtgehen, denn die Arbeit ist wichtig.","ko":"그는 컴퓨터가 고장 나는 것을 원치 않는다, 일이 중요하니까."},
+{"de":"Das Geld ist diesen Monat knapp, aber ein komplett neuer Computer ist nicht nötig.","ko":"이번 달은 돈이 빠듯하지만, 완전히 새 컴퓨터는 필요 없다."},
+{"de":"Ein Freund sagt: „Klar, ich helfe dir!“","ko":"친구가 말한다. “물론이지, 도와줄게!”"},
+{"de":"Der Fehler ist kompliziert, und der Computer macht komische Geräusche.","ko":"오류가 복잡하고 컴퓨터가 이상한 소리를 낸다."},
+{"de":"Nach einer Stunde ist alles korrekt eingestellt.","ko":"한 시간 뒤 모든 것이 올바르게 설정되었다."},
+{"de":"„Klasse, danke!“, ruft Tom.","ko":"“최고야, 고마워!” 하고 톰이 외친다."}
+]},
+{"title":"Im Café","title_ko":"카페에서","type":"dialog","lines":[
+{"de":"Eva: Das Café ist heute so laut.","ko":"에바: 오늘 카페가 너무 시끄러워."},
+{"de":"Jan: Ja, wir müssen leise sprechen, sonst hört uns jeder.","ko":"얀: 응, 작게 말해야 해, 안 그러면 다 들려."},
+{"de":"Eva: Meine Tasse ist schon leer. Möchtest du noch etwas?","ko":"에바: 내 잔이 벌써 비었어. 뭐 더 마실래?"},
+{"de":"Jan: Ja, einen Kaffee, aber nicht zu lang warten, ich habe nur kurz Zeit.","ko":"얀: 응, 커피 한 잔. 하지만 오래 기다리진 말자, 잠깐밖에 시간이 없어."},
+{"de":"Eva: Die Kellnerin arbeitet langsam, aber sie ist sehr lieb.","ko":"에바: 종업원이 느리게 일하지만 아주 친절해."},
+{"de":"Jan: Das ist mein Lieblingscafé, der Kuchen ist so leicht.","ko":"얀: 여긴 내가 제일 좋아하는 카페야, 케이크가 아주 가벼워."},
+{"de":"Eva: Schau, in deinem Pullover ist ein Loch!","ko":"에바: 봐, 네 스웨터에 구멍이 났어!"},
+{"de":"Jan: Er ist alt, aber so schön locker und bequem.","ko":"얀: 낡았지만 아주 헐렁하고 편해."},
+{"de":"Eva: Der Zucker ist auch künstlich, schmeckt aber gut.","ko":"에바: 설탕도 인공이지만 맛은 좋아."},
+{"de":"Jan: Dann bestellen wir einfach noch zwei Stück Kuchen.","ko":"얀: 그럼 케이크 두 조각 더 주문하자."}
+]},
+{"title":"Ein Winter ohne Schnee","title_ko":"눈 없는 겨울","type":"story","lines":[
+{"de":"In diesem Winter ist das Wetter merkwürdig mild.","ko":"이번 겨울은 날씨가 이상하게 온화하다."},
+{"de":"Es gibt keinen Mangel an Regen, aber kaum Schnee.","ko":"비는 부족하지 않지만 눈은 거의 없다."},
+{"de":"Die Stadt hat eine mittlere Größe, und die Straßen sind oft nass.","ko":"그 도시는 중간 크기이고 길은 자주 젖어 있다."},
+{"de":"Die Häuser sind modern, aber die Heizung ist alt.","ko":"집들은 현대적이지만 난방은 오래되었다."},
+{"de":"Ist es möglich, dass es nie wieder viel Schnee gibt?","ko":"다시는 눈이 많이 오지 않는 것이 가능할까?"},
+{"de":"Jeder hat eine andere Möglichkeit, damit umzugehen.","ko":"사람마다 이에 대처하는 방법이 다르다."},
+{"de":"Der Nachteil ist, dass die Skigebiete schließen müssen.","ko":"단점은 스키장들이 문을 닫아야 한다는 것이다."},
+{"de":"Viele Leute sind negativ gestimmt, weil die Preise für Strom niedrig bleiben sollen.","ko":"많은 사람이 전기 요금이 낮게 유지되길 바라서 부정적인 기분이다."},
+{"de":"Für die Kinder ist das nicht normal, sie wünschen sich ein neues Spielzeug: einen Schlitten.","ko":"아이들에게 이것은 정상이 아니어서, 새 장난감인 썰매를 갖고 싶어 한다."}
+]},
+{"title":"Das Zimmer aufräumen","title_ko":"방 정리하기","type":"dialog","lines":[
+{"de":"Mama: Dein Zimmer muss ordentlich sein. Ordnung ist wichtig.","ko":"엄마: 네 방은 단정해야 해. 정돈은 중요해."},
+{"de":"Paul: Ist das wirklich nötig?","ko":"파울: 그게 정말 필요해요?"},
+{"de":"Mama: Ja, es ist notwendig, sonst findest du nichts.","ko":"엄마: 그래, 꼭 필요해. 안 그러면 아무것도 못 찾아."},
+{"de":"Paul: Schau, das Fenster ist offen, es ist kalt hier.","ko":"파울: 봐요, 창문이 열려 있어서 여기 추워요."},
+{"de":"Mama: Mach es zu. Und das Buch dort, ist das das Original?","ko":"엄마: 닫으렴. 그리고 저기 책은 원본이니?"},
+{"de":"Paul: Ja, das ist ein originales Bild vom Künstler, kein Druck.","ko":"파울: 네, 그건 화가의 진품 그림이고 인쇄본이 아니에요."},
+{"de":"Mama: Leg die Stifte parallel auf den Tisch, das sieht schön aus.","ko":"엄마: 연필을 책상 위에 나란히 놓으렴, 보기 좋아."},
+{"de":"Paul: Warum muss ich alles tun? Du sitzt nur passiv da.","ko":"파울: 왜 제가 다 해야 해요? 엄마는 가만히 앉아만 있잖아요."},
+{"de":"Mama: Gut, ich helfe dir. Das nützt uns beiden.","ko":"엄마: 좋아, 도와줄게. 그건 우리 둘 다에게 도움이 돼."},
+{"de":"Paul: Super, die Kiste ist sehr nützlich für die Spielsachen.","ko":"파울: 좋아요, 이 상자는 장난감에 아주 쓸모 있어요."},
+{"de":"Mama: Jetzt ist es perfekt!","ko":"엄마: 이제 완벽하구나!"}
+]},
+{"title":"Eine Influencerin","title_ko":"인플루언서","type":"story","lines":[
+{"de":"Mia ist persönlich sehr offen und mag Menschen.","ko":"미아는 개인적으로 매우 솔직하고 사람들을 좋아한다."},
+{"de":"Auf ihrem Kanal ist sie populär, viele Leute folgen ihr.","ko":"그녀는 채널에서 인기가 있고 많은 사람이 그녀를 팔로우한다."},
+{"de":"Die Kommentare sind meistens positiv.","ko":"댓글은 대부분 긍정적이다."},
+{"de":"Ihr Handy ist praktisch ihr Büro.","ko":"그녀의 휴대폰은 사실상 사무실이다."},
+{"de":"Eine neue Kamera ist prima für die Qualität der Videos.","ko":"새 카메라는 영상의 품질에 아주 좋다."},
+{"de":"Ihr Privatleben zeigt sie aber nicht, das bleibt privat.","ko":"하지만 그녀는 사생활을 보여 주지 않고, 그것은 사적으로 남는다."},
+{"de":"Manche denken, ihr Leben sei perfekt, doch die Realität sieht anders aus.","ko":"어떤 사람들은 그녀의 삶이 완벽하다고 생각하지만, 현실은 다르다."},
+{"de":"Mia bleibt realistisch und weiß, dass Erfolg nicht ewig dauert.","ko":"미아는 현실적이며 성공이 영원하지 않다는 것을 안다."}
+]}
+]

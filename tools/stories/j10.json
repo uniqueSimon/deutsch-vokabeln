@@ -1,0 +1,63 @@
+[
+{"title":"Das Vorstellungsgespräch","title_ko":"면접","type":"dialog","lines":[
+{"de":"Frau Berger: Guten Tag, Herr Kim. Schön, dass Sie zum Vorstellungsgespräch gekommen sind.","ko":"베르거 씨: 안녕하세요, 김 씨. 면접에 와 주셔서 반갑습니다."},
+{"de":"Herr Kim: Guten Tag. Hier ist mein Lebenslauf.","ko":"김 씨: 안녕하세요. 여기 제 이력서입니다."},
+{"de":"Frau Berger: Danke. Sie haben schon ein Praktikum in einer Werkstatt gemacht?","ko":"베르거 씨: 감사합니다. 이미 수리점에서 실습을 하셨네요?"},
+{"de":"Herr Kim: Ja, drei Monate. Ich möchte Mechaniker werden.","ko":"김 씨: 네, 석 달 동안요. 저는 정비사가 되고 싶습니다."},
+{"de":"Frau Berger: Wir haben eine freie Lehrstelle. Als Lehrling arbeiten Sie mit unserem Meister Huber zusammen.","ko":"베르거 씨: 저희는 빈 견습생 자리가 하나 있습니다. 견습생으로서 마이스터 후버 씨와 함께 일하게 됩니다."},
+{"de":"Herr Kim: Was lerne ich dort zuerst?","ko":"김 씨: 거기서 먼저 무엇을 배우나요?"},
+{"de":"Frau Berger: Sie lernen, jedes Werkzeug richtig zu benutzen, zum Beispiel die Zange.","ko":"베르거 씨: 모든 공구, 예를 들어 펜치를 올바르게 사용하는 법을 배웁니다."},
+{"de":"Herr Kim: Und später darf ich eine Reparatur allein machen?","ko":"김 씨: 그리고 나중에는 수리를 혼자 해도 되나요?"},
+{"de":"Frau Berger: Ja, wenn Ihre Qualifikation dann gut genug ist.","ko":"베르거 씨: 네, 그때 자격이 충분히 갖춰졌다면요."},
+{"de":"Herr Kim: Ich werde mein Bestes geben.","ko":"김 씨: 최선을 다하겠습니다."}
+]},
+{"title":"Der Streik","title_ko":"파업","type":"story","lines":[
+{"de":"In der großen Firma arbeitete das Personal schon lange sehr hart.","ko":"그 큰 회사에서는 직원들이 오래전부터 매우 열심히 일했다."},
+{"de":"Viele Mitarbeiter machten jede Woche Überstunden.","ko":"많은 직원들이 매주 초과 근무를 했다."},
+{"de":"Trotzdem wollte der Leiter ihnen nicht mehr Geld geben, obwohl die Leistung sehr gut war.","ko":"그런데도 성과가 아주 좋았음에도 책임자는 그들에게 더 많은 돈을 주려 하지 않았다."},
+{"de":"Eine Frau in Teilzeit sagte: „Ich verdiene zu wenig.“","ko":"시간제로 일하는 한 여성은 \"저는 너무 적게 벌어요\"라고 말했다."},
+{"de":"Ein Kollege in Vollzeit wollte deshalb sogar kündigen.","ko":"전일제로 일하는 한 동료는 그래서 심지어 사직하려고 했다."},
+{"de":"Aber dann beschlossen alle, zu streiken.","ko":"하지만 결국 모두가 파업하기로 결정했다."},
+{"de":"Der Streik dauerte drei Tage.","ko":"파업은 사흘간 이어졌다."},
+{"de":"Danach nahm die Firma die Kündigung zurück und zahlte mehr.","ko":"그 후 회사는 해고 통보를 철회하고 더 많이 지급했다."}
+]},
+{"title":"Der Abschied","title_ko":"작별","type":"dialog","lines":[
+{"de":"Anna: Hast du gehört? Herr Moser geht in Rente.","ko":"안나: 들었어? 모저 씨가 은퇴한대."},
+{"de":"Paul: Wirklich? Er wird schon nächsten Monat pensioniert.","ko":"파울: 정말? 벌써 다음 달에 정년퇴직하시는구나."},
+{"de":"Anna: In Österreich sagt man, er geht in Pension. Mein Onkel ist auch Pensionist.","ko":"안나: 오스트리아에서는 'in Pension gehen'이라고 해. 우리 삼촌도 연금 수급자야."},
+{"de":"Paul: Und ich bin froh, dass ich als Rentner später viel Zeit haben werde.","ko":"파울: 나는 나중에 은퇴하면 시간이 많을 테니 기뻐."},
+{"de":"Anna: Wer wird ihn vertreten?","ko":"안나: 누가 그분을 대신하지?"},
+{"de":"Paul: Die Vertretung macht Frau Lang. Sie war lange als Sekretär... äh, Sekretärin tätig.","ko":"파울: 대행은 랑 씨가 맡아. 그분은 오랫동안 비서로 일하셨어."},
+{"de":"Anna: Und der Vertreter der Kunden?","ko":"안나: 그럼 고객 대표는?"},
+{"de":"Paul: Der gibt dir bestimmt gleich seine Visitenkarte.","ko":"파울: 그 사람이 분명 바로 너에게 명함을 줄 거야."},
+{"de":"Anna: Gut. Ich suche nur noch den Ordner mit den Verträgen.","ko":"안나: 좋아. 계약서가 든 파일철만 찾으면 돼."}
+]},
+{"title":"Im Werk","title_ko":"공장에서","type":"story","lines":[
+{"de":"Im Werk am Stadtrand produzieren die Arbeiter Maschinenteile.","ko":"도시 외곽의 공장에서는 노동자들이 기계 부품을 생산한다."},
+{"de":"Die Produktion beginnt jeden Morgen um sechs Uhr.","ko":"생산은 매일 아침 여섯 시에 시작된다."},
+{"de":"Das Material, vor allem Metall, liegt im großen Lager.","ko":"자재, 특히 금속은 큰 창고에 쌓여 있다."},
+{"de":"Frau Weber leitet das Projekt für eine neue Maschine.","ko":"베버 씨는 새 기계를 위한 프로젝트를 이끈다."},
+{"de":"Sie ist für die Planung verantwortlich.","ko":"그녀는 기획을 책임지고 있다."},
+{"de":"Diese Verantwortung ist groß, denn jedes Teil muss man genau prüfen.","ko":"이 책임은 막중한데, 모든 부품을 정확히 점검해야 하기 때문이다."},
+{"de":"Die Leitung der Firma lobt ihre Arbeit.","ko":"회사 경영진은 그녀의 일을 칭찬한다."}
+]},
+{"title":"Praktikum bei Profis","title_ko":"전문가들과 함께하는 실습","type":"dialog","lines":[
+{"de":"Lisa: Ich bin Praktikantin in einem Büro. Morgen halte ich meine erste Präsentation.","ko":"리사: 나는 사무실에서 인턴으로 일해. 내일 첫 발표를 해."},
+{"de":"Tom: Toll! In der Praxis lernt man mehr als in der Schule.","ko":"톰: 멋지다! 실제로 해 보면 학교에서보다 더 많이 배우지."},
+{"de":"Lisa: Ja, und ich arbeite mit echten Profis zusammen. Der Spezialist für Computer erklärt mir viel.","ko":"리사: 응, 그리고 진짜 전문가들과 함께 일해. 컴퓨터 전문가가 많이 설명해 줘."},
+{"de":"Tom: Die Zusammenarbeit klappt also gut?","ko":"톰: 그럼 협력이 잘 되는 거네?"},
+{"de":"Lisa: Sehr gut. Meine Tätigkeit macht mir Spaß.","ko":"리사: 아주 좋아. 내 일이 재미있어."},
+{"de":"Tom: Mein Bruder ist Serviceangestellter in einem Hotel. Der Service dort ist berühmt.","ko":"톰: 우리 형은 호텔 서비스 직원이야. 그곳 서비스는 유명해."},
+{"de":"Lisa: Und deine Schwester? Sie ist doch Sozialarbeiterin.","ko":"리사: 네 여동생은? 사회복지사잖아."},
+{"de":"Tom: Ja, aber bald will sie selbstständig sein.","ko":"톰: 응, 그런데 곧 자영업을 하고 싶어 해."},
+{"de":"Lisa: Als Unternehmerin braucht man viel Mut.","ko":"리사: 사업가로서는 용기가 많이 필요하지."}
+]},
+{"title":"Eine Familie mit vielen Berufen","title_ko":"다양한 직업을 가진 가족","type":"story","lines":[
+{"de":"In Annas Familie hat jeder einen anderen Beruf.","ko":"안나의 가족은 모두 직업이 다르다."},
+{"de":"Ihr Vater arbeitet in der Landwirtschaft und hat einen kleinen Bauernhof.","ko":"그녀의 아버지는 농업에 종사하며 작은 농장을 가지고 있다."},
+{"de":"Der Onkel ist Metzger und verkauft das Fleisch vom Hof.","ko":"삼촌은 정육점 주인으로 농장의 고기를 판매한다."},
+{"de":"Ihr Bruder ist Maler und streicht Häuser an.","ko":"그녀의 오빠는 페인트공으로 집을 칠한다."},
+{"de":"Anna selbst ist Übersetzerin und arbeitet am liebsten zu Hause.","ko":"안나 자신은 번역가이고 집에서 일하는 것을 가장 좋아한다."},
+{"de":"Am Sonntag essen alle zusammen und erzählen von ihrer Arbeit.","ko":"일요일에는 모두 함께 식사하며 자기 일에 대해 이야기한다."}
+]}
+]

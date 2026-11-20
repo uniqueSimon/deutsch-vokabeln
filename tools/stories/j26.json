@@ -1,0 +1,40 @@
+[
+{"title":"Der neue Schrank","title_ko":"새 옷장","type":"story","lines":[
+{"de":"Anna und Ben brauchen einen neuen Schrank für das Schlafzimmer.","ko":"안나와 벤은 침실에 둘 새 옷장이 필요하다."},
+{"de":"Zuerst messen sie die Länge, die Breite und die Höhe der Wand.","ko":"먼저 그들은 벽의 길이, 너비, 높이를 잰다."},
+{"de":"Ben muss die Fläche berechnen, denn er möchte auch neue Farbe kaufen.","ko":"벤은 새 페인트도 사고 싶어서 면적을 계산해야 한다."},
+{"de":"Im Möbelhaus fragt Anna nach der Größe des Schranks mit der Nummer 47.","ko":"가구점에서 안나는 47번 옷장의 크기를 묻는다."},
+{"de":"Er hat zwei Türen und ein Doppel-Regal, also ist er doppelt so breit wie der alte.","ko":"그 옷장은 문이 두 개고 2단 선반이 있어서 옛것보다 두 배 넓다."},
+{"de":"Der Verkäufer sagt, dass der Schrank nur in Teilen geliefert wird.","ko":"판매원은 옷장이 부분별로 나뉘어 배송된다고 말한다."},
+{"de":"Jedes Teil wiegt viel, deshalb genügen zwei Personen nicht.","ko":"각 부품이 무거워서 두 사람으로는 충분하지 않다."},
+{"de":"Das Gewicht steht auf der Verpackung, dazu kommt eine Menge Schrauben.","ko":"무게는 포장에 적혀 있고, 거기에 많은 양의 나사가 들어 있다."},
+{"de":"Zu Hause bauen sie den Schrank auf, aber die Reihenfolge der Schritte ist nicht klar.","ko":"집에서 그들은 옷장을 조립하지만 단계의 순서가 분명하지 않다."},
+{"de":"Nach einer halben Stunde ist die Hälfte fertig, und der Rest geht schneller.","ko":"30분 뒤 절반이 완성되고 나머지는 더 빨리 된다."},
+{"de":"Am Ende bleibt ein Stück übrig, aber der Schrank steht stabil und es ist genug Platz da.","ko":"결국 부품 하나가 남았지만 옷장은 튼튼하게 서 있고 공간도 충분하다."}
+]},
+{"title":"Eine Runde im Park","title_ko":"공원에서 한 바퀴","type":"dialog","lines":[
+{"de":"Lisa: Hast du Lust auf eine Runde im Park?","ko":"리사: 공원에서 한 바퀴 돌래?"},
+{"de":"Tom: Gern, aber ich bin ein bisschen müde.","ko":"톰: 좋아, 근데 나 좀 피곤해."},
+{"de":"Lisa: Kein Problem, die Distanz ist nicht groß. Wir laufen ungefähr drei Kilometer.","ko":"리사: 문제없어, 거리가 길지 않아. 대략 3킬로미터 뛸 거야."},
+{"de":"Tom: Wie ist dein Tempo? Ich bin höchstens so schnell wie ein Spaziergänger.","ko":"톰: 네 속도는 어때? 나는 기껏해야 산책하는 사람만큼 빨라."},
+{"de":"Lisa: Im Durchschnitt laufe ich zehn Kilometer pro Stunde, also durchschnittlich schnell.","ko":"리사: 나는 평균 시속 10킬로미터로 뛰니까 평균적인 속도야."},
+{"de":"Tom: Das ist mir maximal möglich, mehr schaffe ich nicht.","ko":"톰: 그게 내가 낼 수 있는 최대야, 더는 못 해."},
+{"de":"Lisa: Wir zählen die Runden. Mindestens zwei sollten wir schaffen.","ko":"리사: 바퀴 수를 세자. 적어도 두 바퀴는 해야지."},
+{"de":"Tom: Siehst du den Punkt dort hinten? Da beginnt ein Kreis um den See.","ko":"톰: 저기 뒤쪽 점 보여? 저기서 호수를 도는 원형 길이 시작돼."},
+{"de":"Lisa: Genau. Die Pause machen wir an der ersten Bank in der Reihe.","ko":"리사: 맞아. 줄지어 있는 첫 번째 벤치에서 쉬자."},
+{"de":"Tom: Gut, dann ist der Stress minimal. Los geht's!","ko":"톰: 좋아, 그럼 스트레스는 최소겠네. 가자!"}
+]},
+{"title":"Die Umfrage","title_ko":"설문조사","type":"story","lines":[
+{"de":"In der Schule macht Klara eine Umfrage über Taschengeld.","ko":"학교에서 클라라는 용돈에 관한 설문조사를 한다."},
+{"de":"Sie fragt mehrere Klassen, und zahlreiche Schüler machen mit.","ko":"그녀는 여러 반에 묻고 많은 학생들이 참여한다."},
+{"de":"Die Anzahl der Antworten ist groß, die Zahl liegt bei 200.","ko":"답변 수가 많아서 숫자는 200에 이른다."},
+{"de":"Sie muss die Summe aller Beträge rechnen und den Durchschnitt finden.","ko":"그녀는 모든 금액의 합계를 계산하고 평균을 찾아야 한다."},
+{"de":"In der Statistik sieht man, dass die meisten Schüler wenig Geld haben.","ko":"통계를 보면 대부분의 학생이 돈이 적다는 것을 알 수 있다."},
+{"de":"Nur wenige bekommen so viel wie ihre Freunde, und viele bekommen weniger.","ko":"소수만이 친구들만큼 받고 많은 학생은 더 적게 받는다."},
+{"de":"Ein wichtiger Faktor ist das Alter, denn ältere Schüler bekommen mehr.","ko":"중요한 요인은 나이인데, 나이 많은 학생이 더 많이 받기 때문이다."},
+{"de":"Klara fragt sich: Wie viel Geld ist eigentlich genug?","ko":"클라라는 스스로 묻는다. 도대체 얼마나 많은 돈이 충분한 걸까?"},
+{"de":"Sie schreibt: Die Gesamtsumme ist hoch, aber der statistische Unterschied ist gering.","ko":"그녀는 쓴다. 총액은 높지만 통계적 차이는 작다."},
+{"de":"Ihr Lehrer möchte sämtliche Ergebnisse sehen, und eine Erhöhung des Taschengelds wäre für alle schön.","ko":"선생님은 모든 결과를 보고 싶어 하고, 용돈 인상은 모두에게 좋을 것이다."},
+{"de":"Klara hofft, dass die Eltern es erhöhen, und sie wartet auf den Rest der Antworten.","ko":"클라라는 부모님이 용돈을 올려 주기를 바라며 나머지 답변을 기다린다."}
+]}
+]

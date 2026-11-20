@@ -1,0 +1,64 @@
+[
+{"title":"Annas neue Arbeit","title_ko":"안나의 새 일자리","type":"story","lines":[
+{"de":"Anna war ein Jahr lang arbeitslos.","ko":"안나는 1년 동안 실직 상태였다."},
+{"de":"Die Arbeitslosigkeit machte ihr große Sorgen.","ko":"실업은 그녀에게 큰 걱정거리였다."},
+{"de":"Sie suchte jeden Tag eine neue Arbeitsstelle im Internet.","ko":"그녀는 매일 인터넷에서 새 일자리를 찾았다."},
+{"de":"Als Anna aus dem Ausland kam, brauchte sie zuerst eine Arbeitserlaubnis.","ko":"안나는 외국에서 왔기 때문에 먼저 노동 허가가 필요했다."},
+{"de":"Sie hatte eine gute Ausbildung gemacht und war als Sekretärin gut ausgebildet.","ko":"그녀는 좋은 직업 교육을 받았고 비서로서 숙련되어 있었다."},
+{"de":"Dieser Beruf gefiel ihr sehr.","ko":"그녀는 이 직업이 매우 마음에 들었다."},
+{"de":"Deshalb wollte sie sich bei einer Firma in der Stadt bewerben.","ko":"그래서 그녀는 시내의 한 회사에 지원하고 싶었다."},
+{"de":"Ihre Bewerbung schrieb sie ganz sorgfältig.","ko":"그녀는 지원서를 아주 꼼꼼하게 썼다."},
+{"de":"Der Chef lud sie in sein Büro ein und sagte: „Wir wollen Sie anstellen.“","ko":"사장은 그녀를 사무실로 초대해 말했다. “저희는 당신을 고용하고 싶습니다.”"},
+{"de":"Nächste Woche fängt Anna mit der Arbeit an, und sie ist glücklich über ihren neuen Arbeitsplatz.","ko":"다음 주에 안나는 일을 시작하며, 새 직장이 있어서 행복하다."},
+{"de":"Die Firma wird noch zwei weitere Leute einstellen.","ko":"그 회사는 두 명을 더 채용할 것이다."}
+]},
+{"title":"Im Büro","title_ko":"사무실에서","type":"dialog","lines":[
+{"de":"Tom: Guten Morgen, Lisa! Hast du schon von der Besprechung heute gehört?","ko":"톰: 좋은 아침, 리사! 오늘 회의에 대해 들었어?"},
+{"de":"Lisa: Ja, um zehn Uhr. Die ganze Abteilung muss kommen.","ko":"리사: 응, 10시에. 부서 전체가 와야 해."},
+{"de":"Tom: Der Direktor spricht auch auf der Konferenz am Freitag.","ko":"톰: 이사님은 금요일 학회에서도 발표하셔."},
+{"de":"Lisa: Stimmt, er hat einen großen Auftrag bekommen.","ko":"리사: 맞아, 큰 주문을 받으셨대."},
+{"de":"Tom: Das ist ein Erfolg für unsere ganze Firma.","ko":"톰: 우리 회사 전체의 성공이네."},
+{"de":"Lisa: Aber es ist auch eine große Herausforderung für uns.","ko":"리사: 하지만 우리에게는 큰 도전이기도 해."},
+{"de":"Tom: Unser Kollege Max sagt, wir können nur erfolgreich sein, wenn wir zusammenarbeiten.","ko":"톰: 동료 막스는 우리가 함께 일해야만 성공할 수 있다고 해."},
+{"de":"Lisa: Da hat er recht. Ich arbeite heute bis spät.","ko":"리사: 맞는 말이야. 나는 오늘 늦게까지 일할 거야."},
+{"de":"Tom: Ich habe heute Dienst bis sechs, danach habe ich Feierabend.","ko":"톰: 나는 오늘 6시까지 근무하고, 그다음엔 퇴근이야."},
+{"de":"Lisa: Dann trinken wir nach der Arbeit noch einen Kaffee zusammen?","ko":"리사: 그럼 일 끝나고 같이 커피 한잔할까?"},
+{"de":"Tom: Gern! Das ist eine gute Idee.","ko":"톰: 좋아! 좋은 생각이야."}
+]},
+{"title":"Die Fabrik schließt","title_ko":"공장이 문을 닫는다","type":"story","lines":[
+{"de":"In der Fabrik am Stadtrand arbeiten viele Arbeiter.","ko":"도시 외곽의 공장에서는 많은 노동자가 일한다."},
+{"de":"Der Hersteller will dort Autoteile herstellen.","ko":"제조사는 그곳에서 자동차 부품을 생산하려 한다."},
+{"de":"Der Ingenieur Peter plant die neuen Maschinen.","ko":"엔지니어 페터가 새 기계를 계획한다."},
+{"de":"Eines Tages kam schlechte Nachricht: Der Betrieb muss sparen.","ko":"어느 날 나쁜 소식이 왔다. 사업장이 비용을 줄여야 한다는 것이었다."},
+{"de":"Die Firma wollte hundert Leute entlassen, und viele hatten Angst vor der Entlassung.","ko":"회사는 백 명을 해고하려 했고, 많은 사람이 해고를 두려워했다."},
+{"de":"Der Betriebsrat sprach mit der Gewerkschaft über das Problem.","ko":"사업장 평의회는 노동조합과 이 문제를 논의했다."},
+{"de":"Die Arbeiter wollten ihr Gehalt behalten und ihre Arbeitsplätze retten.","ko":"노동자들은 월급과 일자리를 지키고 싶었다."},
+{"de":"Ein Experte für Wirtschaft kam in die Fabrik, und auch andere Fachleute halfen.","ko":"경제 전문가가 공장에 왔고, 다른 전문가들도 도왔다."},
+{"de":"Man wollte die Mitarbeiter in neuen Abteilungen einsetzen.","ko":"직원들을 새 부서에 투입하기로 했다."},
+{"de":"So musste am Ende niemand gehen.","ko":"그래서 결국 아무도 떠날 필요가 없었다."}
+]},
+{"title":"Mutter, Kind und Beruf","title_ko":"엄마, 아이 그리고 직업","type":"dialog","lines":[
+{"de":"Julia: Ich bin jetzt wieder berufstätig, aber nur halbtags.","ko":"율리아: 나 이제 다시 일하는데, 반일제로만 해."},
+{"de":"Nina: Wer betreut denn deinen Sohn?","ko":"니나: 그럼 아들은 누가 돌봐?"},
+{"de":"Julia: Im Kindergarten gibt es eine gute Betreuung am Nachmittag.","ko":"율리아: 유치원에 오후 보육이 잘 되어 있어."},
+{"de":"Nina: Und der Betreuer dort ist nett?","ko":"니나: 거기 보육 선생님은 친절하셔?"},
+{"de":"Julia: Ja, er beschäftigt die Kinder mit Spielen und Musik.","ko":"율리아: 응, 아이들과 놀이와 음악으로 시간을 보내주셔."},
+{"de":"Nina: Was ist denn deine neue Beschäftigung?","ko":"니나: 그런데 새로 하는 일이 뭐야?"},
+{"de":"Julia: Ich bin Aushilfe in einer Bank, aber ich möchte bald Angestellte werden.","ko":"율리아: 은행에서 임시 직원으로 일해, 하지만 곧 정규 직원이 되고 싶어."},
+{"de":"Nina: Dann machst du bestimmt auch eine Fortbildung?","ko":"니나: 그럼 연수도 받겠네?"},
+{"de":"Julia: Ja, beruflich möchte ich weiterkommen.","ko":"율리아: 응, 직업적으로 더 발전하고 싶어."},
+{"de":"Nina: Ich wünsche dir viel Glück für deine Karriere!","ko":"니나: 네 경력에 행운이 있기를 바라!"}
+]},
+{"title":"Viele Berufe in einer Stadt","title_ko":"한 도시의 다양한 직업","type":"story","lines":[
+{"de":"In unserer Stadt gibt es viele verschiedene Berufe.","ko":"우리 도시에는 다양한 직업이 있다."},
+{"de":"Der Architekt zeichnet Häuser, und der Handwerker baut sie mit seinen Kollegen.","ko":"건축가는 집을 설계하고, 기능공은 동료들과 그것을 짓는다."},
+{"de":"Der Bauer vom Land bringt jeden Morgen frisches Gemüse auf den Markt.","ko":"시골 농부는 매일 아침 신선한 채소를 시장에 가져온다."},
+{"de":"Der Koch im Restaurant macht daraus ein leckeres Essen.","ko":"식당의 요리사는 그것으로 맛있는 음식을 만든다."},
+{"de":"Der Friseur schneidet den Gästen die Haare.","ko":"미용사는 손님들의 머리를 자른다."},
+{"de":"Der Journalist schreibt über alles, was in der Stadt passiert.","ko":"기자는 도시에서 일어나는 모든 일에 대해 쓴다."},
+{"de":"Meine Tante ist Fachfrau für Computer, und mein Onkel ist ein Fachmann für Autos.","ko":"이모는 컴퓨터 전문가이고, 삼촌은 자동차 전문가이다."},
+{"de":"Letzte Woche wollte mein Freund ein Café gründen.","ko":"지난주에 내 친구는 카페를 설립하려고 했다."},
+{"de":"Die Eröffnung ist im Mai, und er will pünktlich eröffnen.","ko":"개업은 5월이며, 그는 제때 문을 열고 싶어 한다."},
+{"de":"Der alte Tisch aus dem Keller soll dort als Theke dienen.","ko":"지하실의 낡은 탁자는 그곳에서 카운터로 쓰일 것이다."}
+]}
+]

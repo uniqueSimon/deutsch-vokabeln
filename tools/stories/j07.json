@@ -1,0 +1,55 @@
+[
+{"title":"Abend im Restaurant","title_ko":"레스토랑에서의 저녁","type":"dialog","lines":[
+{"de":"Ober: Guten Abend! Hier ist die Speisekarte. Heute gibt es auch ein Menü.","ko":"웨이터: 안녕하세요! 여기 메뉴판입니다. 오늘은 세트 메뉴도 있어요."},
+{"de":"Anna: Danke. Was ist denn im Menü?","ko":"안나: 감사합니다. 세트 메뉴에는 뭐가 있나요?"},
+{"de":"Ober: Zuerst eine Suppe, dann ein Schnitzel mit Pommes frites und Salat.","ko":"웨이터: 먼저 수프, 그다음 슈니첼에 감자튀김과 샐러드가 나옵니다."},
+{"de":"Anna: Ich esse kein Fleisch. Haben Sie eine vegetarische Speise?","ko":"안나: 저는 고기를 안 먹어요. 채식 요리가 있나요?"},
+{"de":"Ober: Ja, die Pizza mit Pilz ist sehr beliebt. Die Portion ist groß.","ko":"웨이터: 네, 버섯 피자가 인기가 많아요. 1인분 양이 많습니다."},
+{"de":"Tom: Ich nehme das Schnitzel und ein Mineralwasser. Und für Anna bitte ein Glas Wein.","ko":"톰: 저는 슈니첼과 탄산수로 할게요. 안나에게는 와인 한 잔 주세요."},
+{"de":"Anna: Prost, Tom! Das Lokal ist wirklich schön.","ko":"안나: 건배, 톰! 이 식당 정말 멋지다."},
+{"de":"Tom: Ja, der Wirt kocht selbst, und jedes Restaurant in der Stadt ist teurer.","ko":"톰: 응, 주인이 직접 요리하고, 도시의 다른 레스토랑은 다 더 비싸."},
+{"de":"Ober: Möchten Sie eine Nachspeise? Wir haben frische Torte.","ko":"웨이터: 디저트 드시겠어요? 신선한 토르테가 있습니다."},
+{"de":"Anna: Gern. Und das Trinkgeld lassen wir auf dem Tisch.","ko":"안나: 좋아요. 팁은 테이블에 두고 갈게요."}
+]},
+{"title":"Ein Kuchen für Oma","title_ko":"할머니를 위한 케이크","type":"story","lines":[
+{"de":"Am Sonntag hat Oma Geburtstag, und Lena will einen Kuchen backen.","ko":"일요일은 할머니 생신이라 레나는 케이크를 굽고 싶어 한다."},
+{"de":"Sie sucht ein Rezept im Internet und schreibt alle Zutaten auf.","ko":"그녀는 인터넷에서 조리법을 찾아 모든 재료를 적는다."},
+{"de":"Sie braucht Mehl, Zucker, Margarine, Milch und eine Zitrone.","ko":"밀가루, 설탕, 마가린, 우유, 레몬이 필요하다."},
+{"de":"Für die Füllung nimmt sie eine Marille und eine Pflaume, und dazu Schokolade.","ko":"속에는 살구와 자두를 넣고, 거기에 초콜릿도 넣는다."},
+{"de":"Mit einem Löffel mischt sie den Teig, und mit dem Messer schneidet sie das Obst.","ko":"숟가락으로 반죽을 섞고, 칼로 과일을 자른다."},
+{"de":"Zum Schluss schlägt sie Sahne, denn Oma liebt Schlagrahm.","ko":"마지막으로 생크림을 휘젓는다. 할머니가 휘핑크림을 아주 좋아하시기 때문이다."},
+{"de":"In Österreich sagt man dazu auch Schlagobers, aber Lena kennt beide Wörter.","ko":"오스트리아에서는 이것을 슐라크오버스라고도 부르는데, 레나는 두 단어를 다 안다."},
+{"de":"Der Kuchen ist fertig, und er ist wirklich lecker!","ko":"케이크가 완성되었고, 정말 맛있다!"}
+]},
+{"title":"Einkaufen im Supermarkt","title_ko":"슈퍼마켓에서 장보기","type":"dialog","lines":[
+{"de":"Paul: Wir brauchen Lebensmittel für die ganze Woche.","ko":"파울: 우리 일주일치 식료품이 필요해."},
+{"de":"Mia: Ja, aber kaufen wir nur gesunde Nahrungsmittel. Zuerst das Obst!","ko":"미아: 응, 그런데 건강한 식품만 사자. 먼저 과일부터!"},
+{"de":"Paul: Ich nehme Orangen und Pflaumen. Für den Saft brauche ich auch Zitronen.","ko":"파울: 나는 오렌지랑 자두를 살게. 주스 만들려면 레몬도 필요해."},
+{"de":"Mia: Bei dem Gemüse liegen Möhren. In der Schweiz sagt man Rüebli.","ko":"미아: 채소 코너에 당근이 있어. 스위스에서는 뤼에블리라고 해."},
+{"de":"Paul: Und Tomaten! In Österreich heißen sie Paradeiser.","ko":"파울: 그리고 토마토! 오스트리아에서는 파라다이저라고 해."},
+{"de":"Mia: Wir brauchen auch Zwiebeln, Schinken und Wurst.","ko":"미아: 양파, 햄, 소시지도 필요해."},
+{"de":"Paul: Zum Frühstück kaufe ich Müsli, Semmeln und Marmelade.","ko":"파울: 아침으로 먹을 뮤즐리, 빵, 잼을 살게."},
+{"de":"Mia: Und zu trinken? Limonade oder lieber Wasser?","ko":"미아: 마실 것은? 레모네이드 아니면 물?"},
+{"de":"Paul: Ich nehme Wasser. Limonade ist mir zu süß.","ko":"파울: 난 물로 할래. 레모네이드는 너무 달아."}
+]},
+{"title":"Das Mittagessen","title_ko":"점심 식사","type":"story","lines":[
+{"de":"Jonas will heute eine richtige Mahlzeit zubereiten.","ko":"요나스는 오늘 제대로 된 식사를 만들고 싶다."},
+{"de":"Er stellt die Pfanne auf den Herd und gibt etwas Öl hinein.","ko":"그는 프라이팬을 가스레인지에 올리고 기름을 조금 붓는다."},
+{"de":"Dann brät er mageres Rind und Poulet, denn rohes Fleisch darf man nicht essen.","ko":"그다음 기름기 없는 소고기와 닭고기를 굽는다. 날고기는 먹으면 안 되기 때문이다."},
+{"de":"Dazu kommen Schwammerl, die er im Wald gefunden hat, und ein paar Nudeln.","ko":"거기에 숲에서 찾은 버섯과 파스타를 몇 가닥 넣는다."},
+{"de":"Er macht eine Soße mit Salz und Pfeffer, aber sie ist zu salzig.","ko":"그는 소금과 후추로 소스를 만들지만 너무 짜다."},
+{"de":"Also gibt er Reis dazu, und die Soße wird besser, doch ein wenig scharf bleibt sie.","ko":"그래서 밥을 곁들이자 소스가 나아지지만, 약간 매운맛은 남는다."},
+{"de":"Er will probieren, und es schmeckt ihm gut.","ko":"그는 맛을 보고, 맛있다고 느낀다."},
+{"de":"Nach dem Essen ist er satt und sehr zufrieden.","ko":"식사 후 그는 배가 부르고 매우 만족스럽다."}
+]},
+{"title":"Teezeit","title_ko":"차 마시는 시간","type":"dialog","lines":[
+{"de":"Eva: Hast du Lust auf eine Tasse Tee?","ko":"에바: 차 한 잔 마실래?"},
+{"de":"Max: Gern. Aber du musst den Tee fünf Minuten ziehen lassen.","ko":"막스: 좋아. 하지만 차는 5분 동안 우려야 해."},
+{"de":"Eva: Stimmt. Der Zitronensaft macht ihn etwas sauer, oder?","ko":"에바: 맞아. 레몬즙 때문에 좀 시큼해지겠지?"},
+{"de":"Max: Dann nehme ich Zucker. Ich mag es süß.","ko":"막스: 그럼 난 설탕을 넣을래. 나는 달게 마시는 게 좋아."},
+{"de":"Eva: In der Schweiz essen viele Leute um vier Uhr ein Zvieri, am Morgen ein Znüni.","ko":"에바: 스위스에서는 많은 사람이 4시에 즈비에리를, 아침에는 즈뉘니를 먹어."},
+{"de":"Max: Das ist eine nette Idee. Wer verpflegt uns heute?","ko":"막스: 좋은 생각이야. 오늘은 누가 우리에게 먹을 걸 챙겨 줘?"},
+{"de":"Eva: Ich! Ich habe Torte mit Obers und eine kleine Speise aus Reis gemacht.","ko":"에바: 나야! 오버스를 얹은 토르테와 쌀로 만든 작은 요리를 만들었어."},
+{"de":"Max: Wunderbar. Aber bitte nicht zu viel Margarine im Teig!","ko":"막스: 훌륭해. 하지만 반죽에 마가린은 너무 많이 넣지 마!"}
+]}
+]

@@ -1,0 +1,61 @@
+[
+{"title":"Ein Paket nach Korea","title_ko":"한국으로 보내는 소포","type":"story","lines":[
+{"de":"Anna will ihrer Freundin in Seoul ein Paket schicken.","ko":"안나는 서울에 있는 친구에게 소포를 보내고 싶어 한다."},
+{"de":"Auf der Post legt sie zuerst den Brief in ein Kuvert und klebt eine Marke darauf.","ko":"우체국에서 그녀는 먼저 편지를 봉투에 넣고 우표를 붙인다."},
+{"de":"Die Postleitzahl schreibt sie ganz deutlich auf das Paket.","ko":"우편번호는 소포에 아주 또렷하게 적는다."},
+{"de":"Wegen des Zolls muss sie ein Formular ausfüllen und alle Gegenstände nennen.","ko":"세관 때문에 그녀는 양식을 작성하고 모든 물건을 적어야 한다."},
+{"de":"An der Kasse sagt die Angestellte: „Das Paket kostet dreißig Euro, dazu kommt ein Zuschlag für Übersee.“","ko":"계산대에서 직원이 말한다. \"소포는 30유로이고, 해외 할증료가 추가됩니다.\""},
+{"de":"Anna gibt einen Schein und ein paar Münzen.","ko":"안나는 지폐 한 장과 동전 몇 개를 낸다."},
+{"de":"Dann bekommt sie eine Quittung mit einem Stempel.","ko":"그러고 나서 그녀는 도장이 찍힌 영수증을 받는다."},
+{"de":"Draußen sieht sie den Pöstler mit seinem gelben Fahrrad vorbeifahren.","ko":"밖에서 그녀는 집배원이 노란 자전거를 타고 지나가는 것을 본다."},
+{"de":"Die Lieferung dauert nur eine Woche, und Anna freut sich schon auf die Antwort.","ko":"배송은 일주일밖에 걸리지 않고, 안나는 벌써 답장이 기대된다."}
+]},
+{"title":"Auf der Bank","title_ko":"은행에서","type":"dialog","lines":[
+{"de":"Tom: Guten Tag, ich möchte ein Girokonto eröffnen.","ko":"톰: 안녕하세요, 입출금 계좌를 열고 싶습니다."},
+{"de":"Beraterin: Gerne. Haben Sie Ihre Unterlagen dabei?","ko":"상담원: 네. 서류는 가져오셨나요?"},
+{"de":"Tom: Ja, hier sind mein Pass und die Urkunde von meiner Hochzeit.","ko":"톰: 네, 여기 제 여권과 결혼 증서가 있습니다."},
+{"de":"Beraterin: Gut. Ich brauche noch Ihre Personalien und Ihren Zivilstand.","ko":"상담원: 좋습니다. 인적 사항과 혼인 상태도 필요합니다."},
+{"de":"Tom: Ich bin verheiratet und wohne in Bern.","ko":"톰: 저는 결혼했고 베른에 살아요."},
+{"de":"Beraterin: Bitte unterschreiben Sie hier. Ohne Unterschrift geht es nicht.","ko":"상담원: 여기에 서명해 주세요. 서명이 없으면 안 됩니다."},
+{"de":"Tom: Bekomme ich auch eine Kreditkarte?","ko":"톰: 신용카드도 받을 수 있나요?"},
+{"de":"Beraterin: Ja, und falls Sie einen Kredit brauchen, müssen Sie Zinsen zahlen.","ko":"상담원: 네, 그리고 대출이 필요하시면 이자를 내셔야 합니다."},
+{"de":"Tom: Ich habe zum Glück keine Schulden.","ko":"톰: 다행히 저는 빚이 없어요."},
+{"de":"Beraterin: Dann können Sie Ihr Geld einfach auf das neue Konto überweisen.","ko":"상담원: 그럼 돈을 새 계좌로 그냥 송금하시면 됩니다."},
+{"de":"Tom: Und wie funktioniert die Überweisung ins Ausland?","ko":"톰: 그럼 해외 송금은 어떻게 하나요?"},
+{"de":"Beraterin: Für Visa-Fragen fragen Sie am besten das Konsulat.","ko":"상담원: 비자 문제는 영사관에 문의하시는 게 가장 좋습니다."}
+]},
+{"title":"Warum die Preise steigen","title_ko":"왜 가격이 오를까","type":"story","lines":[
+{"de":"Herr Keller arbeitet in der Industrie und stellt Fahrräder her.","ko":"켈러 씨는 산업 분야에서 일하며 자전거를 만든다."},
+{"de":"Die Konkurrenz ist groß, deshalb muss die Firma ein gutes Produkt zu einem fairen Preis anbieten.","ko":"경쟁이 치열해서 회사는 좋은 제품을 적정한 가격에 내놓아야 한다."},
+{"de":"Wenn die Nachfrage steigt, kann sie mehr verkaufen.","ko":"수요가 늘면 더 많이 팔 수 있다."},
+{"de":"Im Winter will niemand viel konsumieren, darum reduziert die Firma die Preise.","ko":"겨울에는 아무도 소비를 많이 하려 하지 않아서 회사는 가격을 낮춘다."},
+{"de":"So sind die Räder preiswert, und der Konsum bleibt stabil.","ko":"그래서 자전거는 값이 싸고 소비도 안정적으로 유지된다."},
+{"de":"Der Lohn der Arbeiter hängt auch von der Wirtschaft ab.","ko":"노동자들의 임금도 경제 상황에 달려 있다."},
+{"de":"Auf jedes Rad kommt die Mehrwertsteuer, und die Firma zahlt außerdem andere Steuern.","ko":"자전거마다 부가가치세가 붙고, 회사는 그 밖의 세금도 낸다."},
+{"de":"Ein großer Händler will tausend Räder haben, und die Lieferung soll im Mai kommen.","ko":"한 대형 상인이 자전거 천 대를 원하고, 배달은 5월에 와야 한다."},
+{"de":"Herr Keller muss jetzt schnell liefern, sonst geht der Kunde zur Konkurrenz.","ko":"켈러 씨는 이제 빨리 납품해야 하고, 그렇지 않으면 고객이 경쟁사로 간다."}
+]},
+{"title":"Versicherung und Rechnungen","title_ko":"보험과 청구서","type":"dialog","lines":[
+{"de":"Lisa: Schau mal, ich habe eine Mahnung bekommen!","ko":"리사: 이것 봐, 독촉장을 받았어!"},
+{"de":"Max: Hast du die Rechnung nicht bezahlt?","ko":"막스: 청구서를 안 냈어?"},
+{"de":"Lisa: Doch, aber die Zahlung ist wohl nicht angekommen.","ko":"리사: 냈지, 근데 결제가 안 들어간 모양이야."},
+{"de":"Max: Dann geh zur Verwaltung und frag nach.","ko":"막스: 그럼 관리사무소에 가서 물어봐."},
+{"de":"Lisa: Gute Idee. Die Beratung dort ist zum Glück kostenlos.","ko":"리사: 좋은 생각이야. 거기 상담은 다행히 무료거든."},
+{"de":"Max: Ich muss auch noch den Vertrag für meine neue Versicherung lesen.","ko":"막스: 나도 새 보험 계약서를 읽어야 해."},
+{"de":"Lisa: Willst du dich gegen Unfälle versichern?","ko":"리사: 사고에 대비해서 보험에 들려는 거야?"},
+{"de":"Max: Ja, und ich denke auch an meine Rente.","ko":"막스: 응, 그리고 내 연금도 생각하고 있어."},
+{"de":"Lisa: Mein Opa lebt von seiner Pension und sagt, das reicht gut.","ko":"리사: 우리 할아버지는 연금으로 사시는데, 충분하다고 하시더라."},
+{"de":"Max: Wie hoch sind die Kosten pro Monat?","ko":"막스: 한 달에 비용이 얼마야?"},
+{"de":"Lisa: Der Vertreter hat mir versichert, dass es günstig ist.","ko":"리사: 담당자가 저렴하다고 장담했어."}
+]},
+{"title":"Das Taschengeld","title_ko":"용돈","type":"story","lines":[
+{"de":"Jonas bekommt jede Woche zehn Euro Taschengeld.","ko":"요나스는 매주 용돈으로 10유로를 받는다."},
+{"de":"Er ist sehr sparsam und will für ein neues Handy sparen.","ko":"그는 매우 절약하는 편이고 새 휴대폰을 사려고 저축한다."},
+{"de":"Im Laden ist alles so teuer, dass er lange überlegt.","ko":"가게에서는 모든 것이 너무 비싸서 그는 오래 고민한다."},
+{"de":"Sein Freund bietet ihm eine alte Sammlung Karten an, aber sie ist wertlos.","ko":"친구가 오래된 카드 수집품을 주겠다고 하지만 그것은 가치가 없다."},
+{"de":"Dagegen ist die alte Uhr seines Opas wirklich wertvoll.","ko":"반면에 할아버지의 오래된 시계는 정말 값지다."},
+{"de":"Der Wert der Uhr ist hoch, aber für Jonas zählt vor allem die Erinnerung.","ko":"시계의 가치는 높지만 요나스에게는 무엇보다 추억이 중요하다."},
+{"de":"Im Internet bekommt er manchmal etwas umsonst, aber meistens ist es den Aufwand nicht wert.","ko":"인터넷에서 가끔 공짜로 뭔가를 얻지만 대개는 수고할 만한 가치가 없다."},
+{"de":"Seine Eltern buchen die Ferien pauschal, deshalb braucht er dort kaum Geld.","ko":"부모님은 휴가를 패키지로 예약해서 그는 거기서 돈이 거의 필요 없다."}
+]}
+]

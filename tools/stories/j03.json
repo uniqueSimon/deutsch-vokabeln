@@ -1,0 +1,61 @@
+[
+{"title":"Beim Arzt","title_ko":"병원에서","type":"dialog","lines":[
+{"de":"Ärztin: Guten Tag, Frau Kim. Bitte geben Sie mir Ihre Versichertenkarte.","ko":"의사: 안녕하세요, 김 씨. 건강보험증을 주세요."},
+{"de":"Frau Kim: Hier ist sie. Ich habe seit drei Tagen Schnupfen und bin immer müde.","ko":"김 씨: 여기 있습니다. 사흘 전부터 코감기에 걸렸고 계속 피곤해요."},
+{"de":"Ärztin: Haben Sie auch Schmerzen im Ohr?","ko":"의사: 귀도 아프세요?"},
+{"de":"Frau Kim: Ja, ein bisschen. Nachts schwitze ich und kann kaum Schlaf finden.","ko":"김 씨: 네, 조금요. 밤에 땀을 흘리고 잠을 거의 잘 수 없어요."},
+{"de":"Ärztin: Machen Sie bitte den Mund auf. Ich muss Sie kurz untersuchen.","ko":"의사: 입을 벌려 주세요. 잠깐 진찰해야 합니다."},
+{"de":"Frau Kim: Ist das eine schwere Krankheit?","ko":"김 씨: 심각한 병인가요?"},
+{"de":"Ärztin: Nein, die Untersuchung zeigt nur einen Virus. Das geht vorbei.","ko":"의사: 아니요, 검사 결과 바이러스일 뿐입니다. 곧 나을 거예요."},
+{"de":"Ärztin: Ich verschreibe Ihnen Tropfen für die Nase und eine Tablette gegen die Schmerzen.","ko":"의사: 코에 넣는 물약과 통증을 위한 알약을 처방해 드릴게요."},
+{"de":"Frau Kim: Muss ich noch ein anderes Medikament nehmen?","ko":"김 씨: 다른 약도 먹어야 하나요?"},
+{"de":"Ärztin: Nehmen Sie lieber ein Vitamin, das ist auch gute Medizin.","ko":"의사: 비타민을 드세요. 그것도 좋은 약입니다."},
+{"de":"Frau Kim: Wann ist Ihre Sprechstunde nächste Woche?","ko":"김 씨: 다음 주 진료 시간은 언제인가요?"},
+{"de":"Ärztin: Die Ordination ist ab Montag um acht Uhr wieder offen. Kommen Sie dann in meine Praxis.","ko":"의사: 진료소는 월요일 8시부터 다시 엽니다. 그때 제 병원으로 오세요."}
+]},
+{"title":"Ein Unfall in der Küche","title_ko":"부엌에서의 사고","type":"story","lines":[
+{"de":"Tom kocht und will schnell das Essen fertig machen.","ko":"톰은 요리를 하며 음식을 빨리 끝내려고 한다."},
+{"de":"Dabei verbrennt er sich die Hand am heißen Topf.","ko":"그러다가 뜨거운 냄비에 손을 덴다."},
+{"de":"Er wäscht die Wunde mit kaltem Wasser und legt eine Salbe darauf.","ko":"그는 상처를 찬물로 씻고 연고를 바른다."},
+{"de":"Dann will er ein Pflaster kleben, aber er verletzt sich noch einmal.","ko":"그다음 반창고를 붙이려다가 또 다친다."},
+{"de":"Ein Nagel im Regal sticht ihn in den Finger.","ko":"선반의 못이 그의 손가락을 찌른다."},
+{"de":"Die Verletzung blutet stark, und Tom hat Angst.","ko":"부상 부위에서 피가 많이 나서 톰은 겁이 난다."},
+{"de":"Das ist ein Notfall, deshalb wählt seine Frau den Notruf.","ko":"응급 상황이라서 아내가 긴급 전화를 건다."},
+{"de":"Im Krankenhaus bringt man ihn in die Notaufnahme.","ko":"병원에서 그를 응급실로 데려간다."},
+{"de":"Dort bekommt er eine Spritze gegen den Schmerz.","ko":"거기서 그는 통증을 막는 주사를 맞는다."},
+{"de":"Danach geht es ihm schon viel besser.","ko":"그 후 그는 훨씬 나아졌다."}
+]},
+{"title":"Schmerzen im Rücken","title_ko":"등의 통증","type":"dialog","lines":[
+{"de":"Paul: Mein Rücken tut so weh!","ko":"파울: 등이 너무 아파!"},
+{"de":"Lena: Wo genau? Auch in der Schulter?","ko":"레나: 정확히 어디? 어깨도?"},
+{"de":"Paul: Ja, ich glaube, ein Muskel ist verspannt.","ko":"파울: 응, 근육이 뭉친 것 같아."},
+{"de":"Lena: Vielleicht ist es auch ein Nerv. Spürst du den Arm noch?","ko":"레나: 신경일 수도 있어. 팔은 아직 느껴져?"},
+{"de":"Paul: Die Hand ist manchmal taub.","ko":"파울: 손이 가끔 감각이 없어."},
+{"de":"Lena: Dann geh bitte zum Arzt. Ein Schmerzmittel ist keine Lösung.","ko":"레나: 그럼 병원에 가 봐. 진통제는 해결책이 아니야."},
+{"de":"Paul: Ich habe schon ein Mittel aus der Apotheke genommen, aber es hilft nicht.","ko":"파울: 약국에서 산 약을 이미 먹었는데 소용없어."},
+{"de":"Lena: Der Arzt macht vielleicht eine Therapie mit dir.","ko":"레나: 의사가 너에게 치료를 해 줄지도 몰라."},
+{"de":"Paul: Hoffentlich brauche ich keine Operation.","ko":"파울: 수술은 필요 없으면 좋겠다."},
+{"de":"Lena: Keine Sorge. Und iss etwas, dein Magen knurrt schon.","ko":"레나: 걱정 마. 그리고 뭐 좀 먹어, 배에서 벌써 소리가 나."}
+]},
+{"title":"Das Ende der Zigarette","title_ko":"담배의 끝","type":"story","lines":[
+{"de":"Max war lange ein starker Raucher und rauchte jeden Tag eine Schachtel Zigaretten.","ko":"막스는 오랫동안 애연가였고 매일 담배를 한 갑씩 피웠다."},
+{"de":"Er wusste, dass er süchtig war, aber die Sucht war stärker.","ko":"그는 자신이 중독됐다는 것을 알았지만 중독이 더 강했다."},
+{"de":"Sein Arzt sagte: „Dieses Suchtmittel kann tödlich sein.“","ko":"의사는 말했다. “이 중독 물질은 치명적일 수 있습니다.”"},
+{"de":"Max dachte an den Tod seines Vaters, der früh sterben musste.","ko":"막스는 일찍 세상을 떠나야 했던 아버지의 죽음을 떠올렸다."},
+{"de":"Da hörte er auf, und seine Zähne wurden wieder weißer.","ko":"그래서 그는 담배를 끊었고 치아가 다시 하얘졌다."},
+{"de":"Er kaufte neue Zahncreme und putzte sich nach dem Essen die Zähne.","ko":"그는 새 치약을 사서 식사 후에 이를 닦았다."},
+{"de":"Leider nahm er in den ersten Monaten ein wenig zu.","ko":"안타깝게도 처음 몇 달 동안은 살이 조금 쪘다."},
+{"de":"Heute ist er stolz, ein Nichtraucher zu sein.","ko":"오늘 그는 비흡연자라는 것이 자랑스럽다."}
+]},
+{"title":"Im Krankenhaus","title_ko":"병원에서","type":"story","lines":[
+{"de":"Der Patient liegt schon seit einer Woche im Krankenhaus.","ko":"환자는 일주일째 병원에 입원해 있다."},
+{"de":"Die Ärzte müssen ihn am Montag operieren.","ko":"의사들은 월요일에 그를 수술해야 한다."},
+{"de":"Vor der Operation muss ihn der Pfleger rasieren.","ko":"수술 전에 간병인이 그를 면도해 주어야 한다."},
+{"de":"Der Pfleger pflegt die Patienten mit viel Geduld.","ko":"간병인은 환자들을 인내심을 갖고 돌본다."},
+{"de":"Im Nachbarzimmer liegt eine Frau mit einer Schwangerschaft, die Probleme macht.","ko":"옆방에는 문제가 있는 임신부가 누워 있다."},
+{"de":"Gestern war die Aufregung groß, weil man einen Toten in die Klinik brachte.","ko":"어제는 사망자가 병원으로 옮겨져 와서 소란이 컸다."},
+{"de":"Der Mann war schon tot, als der Krankenwagen ankam.","ko":"구급차가 도착했을 때 남자는 이미 죽어 있었다."},
+{"de":"Der Patient am Fenster sieht das und wird still.","ko":"창가의 환자는 그것을 보고 조용해진다."},
+{"de":"Aber die Schwester sagt ihm: „Sie sind bald wieder gesund.“","ko":"하지만 간호사가 그에게 말한다. “곧 다시 건강해지실 거예요.”"}
+]}
+]

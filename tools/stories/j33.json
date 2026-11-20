@@ -1,0 +1,72 @@
+[
+{"title":"Der Umzug","title_ko":"이사","type":"story","lines":[
+{"de":"Am Samstag wollen Mia und Tom in eine neue Wohnung ziehen.","ko":"토요일에 미아와 톰은 새 집으로 이사하려고 한다."},
+{"de":"Die Vorbereitung hat schon eine Woche vorher begonnen.","ko":"준비는 일주일 전부터 이미 시작되었다."},
+{"de":"Mia hat alle Gläser in Kartons verpackt und auf jeden Karton geschrieben, was darin ist.","ko":"미아는 모든 유리잔을 상자에 포장하고 각 상자에 안에 든 것을 적어 두었다."},
+{"de":"Tom wollte die Liste der Möbel aufschreiben, damit nichts verloren geht.","ko":"톰은 아무것도 잃어버리지 않도록 가구 목록을 적어 두려고 했다."},
+{"de":"Ein Verlust wäre besonders schlimm, weil das alte Sofa ein Geschenk von Oma ist.","ko":"그 낡은 소파는 할머니의 선물이라서 분실하면 특히 안 좋았을 것이다."},
+{"de":"Zum Glück haben viele Freunde ihre Unterstützung angeboten und die schweren Kisten getragen.","ko":"다행히 많은 친구들이 도움을 주겠다고 하며 무거운 상자를 날라 주었다."},
+{"de":"Tom hat das Auto gefahren und Mia hat die Schlüsselübergabe übernommen.","ko":"톰은 차를 운전했고 미아는 열쇠 인수를 맡았다."},
+{"de":"Danach hat Mia überprüft, ob die Heizung funktioniert.","ko":"그 후 미아는 난방이 작동하는지 확인했다."},
+{"de":"Ihr Bruder hat für Pizza und Getränke gesorgt.","ko":"그녀의 오빠는 피자와 음료를 마련해 주었다."},
+{"de":"Am Abend sind sie müde, aber glücklich, und sie stellen die Lampe neben das Sofa, das schon im Wohnzimmer steht.","ko":"저녁에 그들은 피곤하지만 행복했고, 이미 거실에 놓여 있는 소파 옆에 램프를 세웠다."},
+{"de":"Nur die Zange haben sie noch nicht gefunden und suchen sie überall.","ko":"펜치만 아직 못 찾아서 사방으로 찾고 있다."}
+]},
+{"title":"Am Bahnhof","title_ko":"기차역에서","type":"dialog","lines":[
+{"de":"Lena: Hallo Jan, ich habe dich schon lange nicht mehr gesehen!","ko":"레나: 안녕 얀, 너를 오랫동안 못 봤네!"},
+{"de":"Jan: Hallo Lena! Ich warte auf den Zug nach Berlin.","ko":"얀: 안녕 레나! 나는 베를린행 기차를 기다리고 있어."},
+{"de":"Lena: Was hast du in Berlin vor?","ko":"레나: 베를린에서 뭘 할 계획이야?"},
+{"de":"Jan: Dort soll am Wochenende ein großes Konzert stattfinden, und ich habe zugesagt.","ko":"얀: 거기서 주말에 큰 콘서트가 열리는데, 내가 간다고 답했어."},
+{"de":"Lena: Setz dich doch einen Moment zu mir, ich sitze schon eine Weile hier.","ko":"레나: 잠깐 내 옆에 앉아, 나는 벌써 한참 여기 앉아 있어."},
+{"de":"Jan: Gern, ich möchte dich aber nicht stören.","ko":"얀: 좋아, 그런데 너를 방해하고 싶지는 않아."},
+{"de":"Lena: Du störst nicht. Wann ist der Start deiner Reise?","ko":"레나: 방해 안 돼. 여행 출발은 언제야?"},
+{"de":"Jan: Der Zug startet in zehn Minuten. Ich will ihn nicht versäumen!","ko":"얀: 기차는 10분 후에 출발해. 놓치고 싶지 않아!"},
+{"de":"Lena: Schau, dort bleibt dein Zug schon stehen.","ko":"레나: 봐, 저기 네 기차가 벌써 멈춰 서 있어."},
+{"de":"Jan: Stimmt! Tschüss Lena, ich winke dir aus dem Fenster!","ko":"얀: 맞아! 안녕 레나, 창문에서 손 흔들게!"}
+]},
+{"title":"Der Unfall","title_ko":"사고","type":"story","lines":[
+{"de":"Paul fährt jeden Morgen mit dem Fahrrad zur Arbeit.","ko":"파울은 매일 아침 자전거로 출근한다."},
+{"de":"Heute springt plötzlich ein Hund auf die Straße.","ko":"오늘 갑자기 개 한 마리가 도로로 뛰어든다."},
+{"de":"Paul tritt fest auf die Bremse und will stoppen, aber er stürzt.","ko":"파울은 브레이크를 세게 밟아 멈추려 하지만 넘어진다."},
+{"de":"Dabei stößt er sich den Kopf am Bordstein.","ko":"그러면서 그는 연석에 머리를 부딪힌다."},
+{"de":"Sein Helm hat ihn geschützt und Schlimmeres verhindert.","ko":"헬멧이 그를 보호해 주어 더 큰 일을 막았다."},
+{"de":"Der Hund hat den Unfall verursacht, aber er läuft schon weg.","ko":"개가 사고를 일으켰지만 벌써 도망간다."},
+{"de":"Paul macht ein paar Schritte und dreht sich um, doch der Hund ist weg.","ko":"파울은 몇 걸음 걷다가 뒤를 돌아보지만 개는 이미 사라졌다."},
+{"de":"Ein Passant fragt: „Tut Ihnen etwas weh?“ und Paul schüttelt den Kopf.","ko":"행인이 “어디 아프세요?” 하고 묻고, 파울은 고개를 젓는다."},
+{"de":"Der Mann sagt: „Das war wirklich eine mutige Tat von Ihnen, so schnell zu bremsen.“","ko":"남자는 “그렇게 빨리 브레이크를 밟다니 정말 용감한 행동이었어요.”라고 말한다."}
+]},
+{"title":"Energie sparen","title_ko":"에너지 절약","type":"dialog","lines":[
+{"de":"Anna: Unsere Wohnung verbraucht viel zu viel Strom.","ko":"안나: 우리 집은 전기를 너무 많이 써."},
+{"de":"Ben: Wir sollten etwas verändern. Die Preise steigen jeden Monat.","ko":"벤: 뭔가 바꿔야 해. 가격이 매달 오르고 있어."},
+{"de":"Anna: Ich möchte unnötige Kosten vermeiden und verwende deshalb nur noch Energiesparlampen.","ko":"안나: 불필요한 비용을 피하고 싶어서 이제 절전 전구만 써."},
+{"de":"Ben: Gute Idee. Auf den Trockner können wir auch verzichten.","ko":"벤: 좋은 생각이야. 건조기도 포기할 수 있어."},
+{"de":"Anna: Mach bitte das Fenster zu, es zieht.","ko":"안나: 창문 좀 닫아 줘, 바람이 들어와."},
+{"de":"Ben: Die Tür geht nicht zu, sie klemmt. Und im Keller stinkt es nach Feuchtigkeit.","ko":"벤: 문이 안 닫혀, 끼어 있어. 그리고 지하실에서는 습기 냄새가 고약해."},
+{"de":"Anna: Dann soll der Vermieter das reparieren, damit sich alles verbessert.","ko":"안나: 그럼 집주인이 수리해야지, 그래야 모든 게 나아져."},
+{"de":"Ben: Wir könnten auch den Mietvertrag verlängern und den Balkon vergrößern lassen.","ko":"벤: 임대 계약을 연장하고 발코니를 넓히게 할 수도 있어."},
+{"de":"Anna: Vielleicht. Hauptsache, unsere Rechnung sinkt endlich.","ko":"안나: 아마도. 어쨌든 청구서 금액이 드디어 내려가야 해."}
+]},
+{"title":"Eine Reise mit Folgen","title_ko":"결과가 있었던 여행","type":"story","lines":[
+{"de":"Nora stammt aus Hamburg und besucht zum ersten Mal Rom.","ko":"노라는 함부르크 출신이고 처음으로 로마를 방문한다."},
+{"de":"Am Flughafen wechselt sie Geld und steckt es in die Tasche.","ko":"공항에서 그녀는 환전하고 돈을 가방에 넣는다."},
+{"de":"Im Hotel trifft sie eine Frau, die ihr Zimmer mit ihr teilen muss.","ko":"호텔에서 그녀는 방을 함께 써야 하는 한 여자를 만난다."},
+{"de":"Die beiden tauschen ihre Telefonnummern und verlassen zusammen das Hotel.","ko":"두 사람은 전화번호를 교환하고 함께 호텔을 나선다."},
+{"de":"Auf der Straße verteilt ein Mann Flyer und zeigt ihnen den Weg zum Museum.","ko":"거리에서 한 남자가 전단지를 나눠 주며 그들에게 박물관 가는 길을 알려 준다."},
+{"de":"Im Park wirft Nora Brot für die Tauben, und die Vögel verschwinden erst, als es dunkel wird.","ko":"공원에서 노라는 비둘기에게 빵을 던져 주고, 새들은 어두워져서야 사라진다."},
+{"de":"Plötzlich beginnt es zu regnen, und sie verstecken sich unter einem Baum.","ko":"갑자기 비가 오기 시작해서 그들은 나무 아래에 숨는다."},
+{"de":"Der Sturm hat leider viele Blumen im Park zerstört.","ko":"폭풍이 안타깝게도 공원의 많은 꽃을 망가뜨렸다."}
+]},
+{"title":"Im Büro","title_ko":"사무실에서","type":"dialog","lines":[
+{"de":"Chefin: Herr Weber, hören Sie mir bitte zu, es ist wichtig.","ko":"상사: 베버 씨, 제 말 좀 들어 보세요, 중요한 일이에요."},
+{"de":"Weber: Natürlich. Ich wollte Sie nicht unterbrechen.","ko":"베버: 물론이죠. 말씀을 끊으려던 건 아니었어요."},
+{"de":"Chefin: Sie sind ab morgen für das neue Projekt verantwortlich. Schaffen Sie das?","ko":"상사: 내일부터 새 프로젝트 담당이세요. 해낼 수 있겠어요?"},
+{"de":"Weber: Ich glaube, ich komme gut zurecht, aber ich muss den Plan noch überprüfen.","ko":"베버: 잘 해낼 것 같지만 계획을 아직 확인해야 해요."},
+{"de":"Chefin: Versuchen Sie, den Kunden freundlich zu behandeln. Ich weiß, dass Sie gut mit Menschen umgehen.","ko":"상사: 고객에게 친절하게 대하도록 노력하세요. 사람들을 잘 대하신다는 걸 알아요."},
+{"de":"Weber: Der letzte Versuch war leider nicht erfolgreich.","ko":"베버: 지난번 시도는 안타깝게도 성공적이지 않았어요."},
+{"de":"Chefin: So etwas kann vorkommen. Bitte unterlassen Sie es nur, Kritik vor dem Team zu äußern.","ko":"상사: 그런 일은 일어날 수 있어요. 다만 팀 앞에서 비판하는 것은 삼가 주세요."},
+{"de":"Weber: Gut. Ich werde nichts Unüberlegtes unternehmen und niemanden zwingen.","ko":"베버: 알겠습니다. 경솔한 행동은 하지 않고 아무도 강요하지 않겠습니다."},
+{"de":"Chefin: Und wenn Sie morgen früh Hilfe brauchen, kann Sie die Sekretärin wecken, sollte sie schon da sein.","ko":"상사: 그리고 내일 아침 일찍 도움이 필요하면 비서가 이미 와 있을 경우 깨워 드릴 수 있어요."},
+{"de":"Weber: Danke. Ich muss nur noch die Strategie wenden, dann sind wir bereit.","ko":"베버: 감사합니다. 전략만 방향을 바꾸면 준비 완료입니다."},
+{"de":"Chefin: Wunderbar. Es ist schön, dass Sie dabei sind.","ko":"상사: 훌륭해요. 함께해 주셔서 기쁘네요."}
+]}
+]

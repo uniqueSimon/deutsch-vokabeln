@@ -1,0 +1,74 @@
+[
+{"title":"Opas Geburtstag","title_ko":"할아버지의 생신","type":"story","lines":[
+{"de":"Am Samstag feiert unsere ganze Familie Opas Geburtstag.","ko":"토요일에 우리 온 가족이 할아버지의 생신을 축하한다."},
+{"de":"Er wird 80, und für sein Alter ist er noch sehr fit.","ko":"할아버지는 80세가 되시는데, 연세에 비해 아직 매우 정정하시다."},
+{"de":"Oma hat alle Verwandten per Einladung zum Essen gebeten.","ko":"할머니는 초대장으로 모든 친척을 식사에 초대하셨다."},
+{"de":"Auch mein Onkel und meine Tante kommen mit ihrem Sohn, meinem Cousin.","ko":"삼촌과 이모도 아들, 즉 내 사촌과 함께 오신다."},
+{"de":"Es ist schön, dass wir uns als Angehörige aus drei Generationen treffen.","ko":"우리가 세 세대에 걸친 가족으로서 모일 수 있다니 좋다."},
+{"de":"Der kleinste Enkel will unbedingt ein Lied singen.","ko":"가장 어린 손주는 꼭 노래를 부르고 싶어 한다."},
+{"de":"Opa lacht und sagt, er habe noch nie so ein schönes Fest gehabt.","ko":"할아버지는 웃으며 이렇게 멋진 잔치는 처음이라고 말씀하신다."},
+{"de":"Am Abend gehen alle müde, aber glücklich nach Hause.","ko":"저녁에 모두 피곤하지만 행복하게 집으로 돌아간다."}
+]},
+{"title":"Die Hochzeit","title_ko":"결혼식","type":"dialog","lines":[
+{"de":"Lena: Hast du schon gehört? Meine Schwester will nächsten Monat heiraten!","ko":"레나: 들었어? 우리 언니가 다음 달에 결혼하려고 해!"},
+{"de":"Tim: Wirklich? Dann ist ihre Hochzeit bald. Ist ihr Partner nett?","ko":"팀: 정말? 그럼 결혼식이 곧이네. 그녀의 파트너는 좋은 사람이야?"},
+{"de":"Lena: Ja, sie haben sich vor drei Jahren beim Studium kennengelernt.","ko":"레나: 응, 3년 전에 대학에서 알게 됐어."},
+{"de":"Tim: Dann ist die Beziehung schon lange stabil. Waren sie nicht lange ein Paar?","ko":"팀: 그럼 관계가 이미 오래 안정적이었겠네. 오래 사귀지 않았어?"},
+{"de":"Lena: Doch. Bis jetzt war sie ledig, aber bald ist sie verheiratet.","ko":"레나: 맞아. 지금까지는 미혼이었지만 곧 기혼이 될 거야."},
+{"de":"Tim: Und wie ist es bei deinen Eltern? Sie sind ja schon ein altes Ehepaar.","ko":"팀: 너희 부모님은 어때? 벌써 오래된 부부시잖아."},
+{"de":"Lena: Ja, ihre Ehe dauert seit 30 Jahren, und sie sind immer noch glücklich.","ko":"레나: 응, 결혼 생활이 30년째인데 아직도 행복해하셔."},
+{"de":"Tim: Mein Vater sagt immer: Eine gute Ehefrau und ein guter Mann müssen viel reden.","ko":"팀: 우리 아버지는 늘 좋은 아내와 좋은 남편은 대화를 많이 해야 한다고 하셔."},
+{"de":"Lena: Da hat er recht. Kommst du zur Feier?","ko":"레나: 맞는 말씀이야. 너 잔치에 올 거야?"},
+{"de":"Tim: Gern, danke für die Einladung!","ko":"팀: 기꺼이, 초대해 줘서 고마워!"}
+]},
+{"title":"Nach der Scheidung","title_ko":"이혼 후","type":"story","lines":[
+{"de":"Anna und Jonas haben nach zehn Jahren beschlossen, sich scheiden zu lassen.","ko":"안나와 요나스는 10년 후 이혼하기로 결정했다."},
+{"de":"Schon vor der Trennung gab es oft Streit zwischen den beiden.","ko":"헤어지기 전부터 두 사람 사이에는 자주 다툼이 있었다."},
+{"de":"Sie wollten nicht mehr streiten, deshalb haben sie lange getrennt gelebt.","ko":"그들은 더 이상 싸우고 싶지 않아서 오랫동안 따로 살았다."},
+{"de":"Jetzt sind sie geschieden, aber ihr Verhältnis ist ganz ruhig.","ko":"이제 그들은 이혼했지만 관계는 아주 차분하다."},
+{"de":"Wegen ihres Kindes halten sie weiter Kontakt.","ko":"아이 때문에 그들은 계속 연락을 유지한다."},
+{"de":"Die Mutter will das Kind gut erziehen, und der Vater hilft dabei.","ko":"어머니는 아이를 잘 키우고 싶어 하고, 아버지가 이를 돕는다."},
+{"de":"Am Wochenende holt er seine Tochter ab, und sie gehen zusammen ins Kino.","ko":"주말에 그는 딸을 데리러 가서 함께 영화관에 간다."},
+{"de":"Wenn sie sich trennen, muss das nicht das Ende der Familie sein.","ko":"헤어진다고 해서 가족의 끝일 필요는 없다."}
+]},
+{"title":"Am Schalter","title_ko":"창구에서","type":"dialog","lines":[
+{"de":"Beamtin: Guten Tag, Herr Kim. Bitte füllen Sie das Formular aus.","ko":"직원: 안녕하세요, 김 선생님. 이 양식을 작성해 주세요."},
+{"de":"Herr Kim: Guten Tag. Was muss ich bei Name eintragen?","ko":"김 씨: 안녕하세요. 이름 칸에는 무엇을 써야 하나요?"},
+{"de":"Beamtin: Zuerst den Vornamen, dann den Familiennamen.","ko":"직원: 먼저 이름(Vorname), 그다음 성을 쓰세요."},
+{"de":"Herr Kim: Und hier steht Geschlecht. Ich bin männlich, richtig?","ko":"김 씨: 여기 성별이라고 되어 있네요. 저는 남성이니까 맞죠?"},
+{"de":"Beamtin: Genau. Meine Kollegin, die Dame dort, wäre weiblich.","ko":"직원: 맞아요. 저기 있는 제 동료 부인은 여성이겠지요."},
+{"de":"Herr Kim: Wo schreibe ich mein Alter hin? Und die Herkunft?","ko":"김 씨: 나이는 어디에 쓰나요? 그리고 출신은요?"},
+{"de":"Beamtin: Schreiben Sie das Datum Ihrer Geburt und das Land, wo Sie geboren wurden.","ko":"직원: 출생 일자와 태어난 나라를 쓰세요."},
+{"de":"Herr Kim: Und der Familienstand? Ich bin verheiratet.","ko":"김 씨: 그리고 혼인 상태는요? 저는 기혼입니다."},
+{"de":"Beamtin: Dann schreiben Sie das bitte beim Personenstand. Ist Ihre Frau auch hier?","ko":"직원: 그럼 신분(혼인 상태) 칸에 써 주세요. 부인도 여기 계신가요?"},
+{"de":"Herr Kim: Nein, nur eine Person kommt heute. Danke!","ko":"김 씨: 아니요, 오늘은 한 사람만 왔어요. 감사합니다!"}
+]},
+{"title":"Meine Kindheit","title_ko":"나의 어린 시절","type":"story","lines":[
+{"de":"Meine Kindheit war sehr schön, weil ich viele Geschwister hatte.","ko":"나는 형제자매가 많아서 어린 시절이 매우 행복했다."},
+{"de":"Mein Bruder war ein wilder Bub mit blonden Haaren.","ko":"내 남동생은 금발 머리의 개구쟁이 사내아이였다."},
+{"de":"Meine Schwester war ein ruhiges Mädchen und las viel.","ko":"내 여동생은 조용한 소녀였고 책을 많이 읽었다."},
+{"de":"Unsere Eltern arbeiteten viel, deshalb passte der Nachbar manchmal auf uns auf.","ko":"부모님이 일을 많이 하셔서 이웃이 가끔 우리를 돌봐주셨다."},
+{"de":"Der Junge von nebenan wurde mein bester Freund, und unsere Freundschaft hält bis heute.","ko":"옆집 남자아이가 내 가장 친한 친구가 되었고, 우리의 우정은 지금까지 이어진다."},
+{"de":"In der Jugend waren wir als Jugendliche oft im Park.","ko":"청소년기에 우리는 청소년으로서 자주 공원에 있었다."},
+{"de":"Heute ist unser Nachwuchs schon groß, und das Leben geht schnell vorbei.","ko":"오늘날 우리의 아이들은 벌써 컸고, 삶은 빠르게 지나간다."}
+]},
+{"title":"Das ist mein Freund","title_ko":"이쪽은 제 친구예요","type":"dialog","lines":[
+{"de":"Mia: Hallo Oskar! Ich möchte dir meinen Freund vorstellen. Er heißt Paul.","ko":"미아: 안녕 오스카! 내 친구를 소개할게. 이름은 파울이야."},
+{"de":"Oskar: Freut mich! Bist du ein Bekannter von Mia aus der Schule?","ko":"오스카: 반가워! 미아의 학교 지인이야?"},
+{"de":"Paul: Nein, wir sind uns vor einem Jahr im Zug begegnet.","ko":"파울: 아니, 우린 1년 전에 기차에서 우연히 만났어."},
+{"de":"Mia: Er ist ein netter Typ, und er ist schon erwachsen, nicht mehr jung wie wir.","ko":"미아: 좋은 녀석이고, 우리처럼 어리지 않고 이미 어른이야."},
+{"de":"Oskar: Ich finde, ein Erwachsener hat es nicht leicht im Leben.","ko":"오스카: 어른이 삶에서 쉽지는 않다고 생각해."},
+{"de":"Paul: Stimmt. Aber ich arbeite mit Senioren, das macht mir Spaß.","ko":"파울: 맞아. 하지만 나는 어르신들과 일하는데 즐거워."},
+{"de":"Oskar: Toll! Es gibt zu wenige Leute, die das gern machen.","ko":"오스카: 대단하다! 그걸 좋아하는 사람이 너무 적어."},
+{"de":"Mia: Jeder Mensch braucht manchmal Hilfe.","ko":"미아: 사람은 누구나 가끔 도움이 필요하지."},
+{"de":"Oskar: Ich muss leider gehen. Ich will mich kurz verabschieden.","ko":"오스카: 아쉽지만 가야 해. 잠깐 인사하고 갈게."},
+{"de":"Paul: Schade, der Abschied kommt schnell. Bis bald!","ko":"파울: 아쉽네, 작별이 빨리 오네. 또 보자!"}
+]},
+{"title":"Die große Familie","title_ko":"대가족","type":"story","lines":[
+{"de":"Herr Weber hat einen Sohn und eine Tochter.","ko":"베버 씨에게는 아들과 딸이 있다."},
+{"de":"Die Frau seines Sohnes ist seine Schwiegertochter, und ihre Eltern sind die Schwiegereltern.","ko":"아들의 아내는 그의 며느리이고, 그녀의 부모는 사돈이다."},
+{"de":"Seine Schwester hat einen Neffen und eine Nichte.","ko":"그의 여동생에게는 남자 조카와 여자 조카가 있다."},
+{"de":"Sie sind alle miteinander verwandt, aber manche sehen sich nur selten.","ko":"그들은 모두 서로 친척이지만 일부는 서로 드물게 만난다."},
+{"de":"Zu Weihnachten treffen sich die Verwandten bei Herrn Weber.","ko":"크리스마스에 친척들이 베버 씨 집에서 모인다."}
+]}
+]

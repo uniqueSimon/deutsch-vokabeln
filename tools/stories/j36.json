@@ -1,0 +1,104 @@
+[
+{"title":"Am Empfang","title_ko":"접수처에서","type":"dialog","lines":[
+{"de":"Anna: Hallo! Ich habe ein Einzelzimmer gebucht, einschließlich Frühstück.","ko":"안나: 안녕하세요! 아침 식사 포함 1인실을 예약했어요."},
+{"de":"Rezeption: Sehr geehrte Frau Weber, Ihr Zimmer ist bereits fertig.","ko":"접수처: 존경하는 베버 님, 객실은 이미 준비되어 있습니다."},
+{"de":"Anna: Super! Gibt es hier auch einen Parkplatz?","ko":"안나: 좋네요! 여기 주차장도 있나요?"},
+{"de":"Rezeption: Ja, direkt hinter dem Hotel. Er ist im Preis inklusive.","ko":"접수처: 네, 호텔 바로 뒤에 있어요. 가격에 포함되어 있습니다."},
+{"de":"Anna: Ab wann gibt es Frühstück?","ko":"안나: 아침 식사는 몇 시부터인가요?"},
+{"de":"Rezeption: Ab sieben Uhr, gewöhnlich bis zehn Uhr.","ko":"접수처: 7시부터이고, 보통 10시까지입니다."},
+{"de":"Anna: Und das Café gegenüber? Ist es ebenfalls gut?","ko":"안나: 맞은편 카페는요? 거기도 좋은가요?"},
+{"de":"Rezeption: Ja, aber unser Frühstück bei uns im Haus ist besonders gut.","ko":"접수처: 네, 하지만 저희 호텔 안의 아침 식사가 특히 훌륭합니다."},
+{"de":"Rezeption: Achtung, die Tür zum Garten ist schwer. Bitte drücken Sie fest.","ko":"접수처: 주의하세요, 정원으로 가는 문이 무겁습니다. 힘껏 밀어 주세요."},
+{"de":"Anna: Danke! Ich komme gleich mit meinem Koffer hinterher.","ko":"안나: 감사합니다! 곧 짐가방을 들고 따라갈게요."}
+]},
+{"title":"Ein verregneter Samstag","title_ko":"비 오는 토요일","type":"story","lines":[
+{"de":"Als ich am Samstag aufwachte, regnete es stark.","ko":"토요일에 잠에서 깼을 때 비가 세차게 내리고 있었다."},
+{"de":"Das Wetter war ganz anders als in der Vorhersage.","ko":"날씨는 일기예보와 완전히 달랐다."},
+{"de":"Es sah aus, als ob die Wolken nie weggehen würden.","ko":"구름이 영영 사라지지 않을 것처럼 보였다."},
+{"de":"Einerseits wollte ich zu Hause bleiben, andererseits brauchte ich dringend Brot.","ko":"한편으로는 집에 있고 싶었지만, 다른 한편으로는 빵이 꼭 필요했다."},
+{"de":"Also nahm ich den Schirm und ging los.","ko":"그래서 우산을 들고 출발했다."},
+{"de":"Außer mir war kaum jemand auf der Straße.","ko":"나 말고는 거리에 사람이 거의 없었다."},
+{"de":"Der Wind war so stark, dass der Schirm beinahe auseinanderbrach.","ko":"바람이 너무 세서 우산이 하마터면 부서질 뻔했다."},
+{"de":"Außerdem hatte ich Schuhe an, die ausschließlich für den Sommer gedacht sind.","ko":"게다가 오직 여름용으로 만든 신발을 신고 있었다."},
+{"de":"Bevor ich beim Bäcker ankam, waren beide Socken nass.","ko":"빵집에 도착하기 전에 양쪽 양말이 모두 젖었다."},
+{"de":"Die anderen Kunden lachten, aber das war mir egal.","ko":"다른 손님들은 웃었지만 나는 상관없었다."}
+]},
+{"title":"Ein Ausflug","title_ko":"소풍","type":"dialog","lines":[
+{"de":"Max: Hast du Lust auf einen Ausflug? Bis Sonntag bleibt das Wetter schön.","ko":"막스: 소풍 갈래? 일요일까지 날씨가 좋대."},
+{"de":"Lena: Bisher hatten wir nie Zeit. Ich bin dafür!","ko":"레나: 지금까지는 시간이 없었잖아. 나는 찬성이야!"},
+{"de":"Max: Bitte vergiss bloß deine Jacke nicht.","ko":"막스: 제발 재킷만은 잊지 마."},
+{"de":"Lena: Warum? Es ist doch warm.","ko":"레나: 왜? 따뜻하잖아."},
+{"de":"Max: Da oben auf dem Berg ist es kalt, denn dort weht immer Wind.","ko":"막스: 저 위 산에는 항상 바람이 불어서 춥거든."},
+{"de":"Lena: Ich bin nicht dagegen, daher nehme ich sie mit. Wie kommen wir dahin?","ko":"레나: 반대하지 않아, 그러니까 가져갈게. 거기까지 어떻게 가?"},
+{"de":"Max: Mit dem Zug, danach gehen wir zu Fuß. Der Bahnhof ist gleich daneben.","ko":"막스: 기차로 가고, 그다음엔 걸어서. 역은 바로 그 옆이야."},
+{"de":"Lena: Dann nehme ich Wasser mit, damit wir nicht durstig werden.","ko":"레나: 그럼 목마르지 않도록 물을 챙길게."},
+{"de":"Max: Hast du auch die Kamera dabei?","ko":"막스: 카메라도 가져왔어?"},
+{"de":"Lena: Ja, die habe ich schon dabei.","ko":"레나: 응, 이미 챙겼어."}
+]},
+{"title":"Das Weihnachtsgeschenk","title_ko":"크리스마스 선물","type":"story","lines":[
+{"de":"Jedes Jahr kaufe ich meinem Vater denselben Pullover.","ko":"해마다 나는 아버지께 똑같은 스웨터를 사 드린다."},
+{"de":"Diesmal wollte ich etwas anderes finden.","ko":"이번에는 다른 것을 찾고 싶었다."},
+{"de":"Deshalb ging ich direkt nach der Arbeit in die Stadt.","ko":"그래서 퇴근 후 곧장 시내로 갔다."},
+{"de":"Ich lief durch viele Geschäfte, aber nichts gefiel mir.","ko":"여러 가게를 돌아다녔지만 마음에 드는 것이 없었다."},
+{"de":"Eben hatte ich aufgegeben, doch dann sah ich eine schöne Mütze.","ko":"막 포기하려던 참에 예쁜 모자를 발견했다."},
+{"de":"Diese Mütze war ebenso warm wie weich.","ko":"이 모자는 부드러운 만큼 따뜻하기도 했다."},
+{"de":"Der Preis war mir egal, deswegen kaufte ich sie sofort.","ko":"가격은 상관없었기 때문에 바로 샀다."},
+{"de":"Ich durfte sie sogar anprobieren, obwohl das Geschäft eher klein war.","ko":"가게가 오히려 작았는데도 입어 볼 수 있었다."},
+{"de":"Meine Schwester kaufte dieses Jahr ebenfalls ein Geschenk für Papa.","ko":"내 여동생도 올해 아빠께 드릴 선물을 샀다."}
+]},
+{"title":"Die eigene Wohnung","title_ko":"나만의 집","type":"dialog","lines":[
+{"de":"Paul: Endlich habe ich eine eigene Wohnung!","ko":"파울: 드디어 내 집이 생겼어!"},
+{"de":"Mia: Wirklich? Wie groß ist sie eigentlich?","ko":"미아: 정말? 원래 얼마나 커?"},
+{"de":"Paul: Etwa fünfzig Quadratmeter. Es ist die erste Wohnung, die ich selbst bezahle.","ko":"파울: 약 50제곱미터야. 내가 직접 돈을 내는 첫 집이야."},
+{"de":"Mia: Wo liegt sie?","ko":"미아: 어디에 있어?"},
+{"de":"Paul: Wenn du den Fluss entlang gehst, siehst du das Haus.","ko":"파울: 강을 따라 걸으면 그 집이 보여."},
+{"de":"Mia: Ich komme einmal vorbei. Ich bringe extra einen Kuchen mit.","ko":"미아: 한번 들를게. 일부러 케이크도 가져갈게."},
+{"de":"Paul: Gern, aber ich ziehe erst nächste Woche ein.","ko":"파울: 좋아, 하지만 이사는 다음 주에야 해."},
+{"de":"Mia: Dann helfe ich dir. Wir brauchen entweder einen Transporter oder drei Autos.","ko":"미아: 그럼 내가 도와줄게. 트럭 한 대나 차 세 대가 필요해."},
+{"de":"Paul: Ich frage einige Freunde, eventuell haben sie Zeit.","ko":"파울: 친구 몇 명에게 물어볼게, 어쩌면 시간이 될 거야."},
+{"de":"Mia: Ein Freund von mir hat einen Transporter.","ko":"미아: 내 친구 한 명이 트럭이 있어."}
+]},
+{"title":"Das misslungene Essen","title_ko":"망친 요리","type":"story","lines":[
+{"de":"Ich koche sehr gern, aber gestern ging fast alles schief.","ko":"나는 요리를 아주 좋아하지만 어제는 거의 모든 것이 잘못됐다."},
+{"de":"Die Kartoffeln waren noch gar nicht gar.","ko":"감자가 아직 전혀 익지 않았다."},
+{"de":"Gerade als ich die Soße probierte, klingelte das Telefon.","ko":"소스를 막 맛보려는데 전화가 울렸다."},
+{"de":"Meine Mutter fragte, ob ich gegen sechs Uhr zum Essen komme.","ko":"어머니는 6시쯤 저녁 먹으러 오겠냐고 물으셨다."},
+{"de":"Ich sagte: „Ich komme gleich, falls mein Essen fertig wird.“","ko":"나는 “내 음식이 다 되면 곧 갈게요.”라고 말했다."},
+{"de":"Sie lachte: „Das passiert dir häufig.“","ko":"어머니는 웃으셨다. “너 자주 그러더라.”"},
+{"de":"Ich war ganz müde und hatte keine Lust mehr.","ko":"나는 완전히 지쳐서 더 이상 의욕이 없었다."},
+{"de":"Meine Kollegin kocht genauso schlecht wie ich.","ko":"내 동료도 나만큼 요리를 못한다."},
+{"de":"Am Ende sagte ich: „Schönen Abend!“ – „Gleichfalls!“","ko":"마지막에 나는 “좋은 저녁 보내세요!”라고 했고, 어머니는 “너도!”라고 답하셨다."},
+{"de":"Es ist halt nicht immer einfach.","ko":"어쩔 수 없이 늘 쉬운 것만은 아니다."}
+]},
+{"title":"Im Büro","title_ko":"사무실에서","type":"dialog","lines":[
+{"de":"Chef: Hallo Sara, komm bitte herein!","ko":"사장: 안녕 사라, 어서 들어와!"},
+{"de":"Sara: Guten Morgen. Ich bin extra früh hierher gekommen.","ko":"사라: 좋은 아침입니다. 일부러 일찍 여기로 왔어요."},
+{"de":"Chef: Wir müssen herausfinden, wer den Fehler gemacht hat.","ko":"사장: 누가 실수를 했는지 알아내야 해."},
+{"de":"Sara: Hoffentlich war es nicht irgendjemand aus meinem Team.","ko":"사라: 부디 우리 팀의 누군가가 아니었으면 좋겠어요."},
+{"de":"Chef: Je früher wir ihn finden, desto besser.","ko":"사장: 빨리 찾을수록 더 좋지."},
+{"de":"Sara: Wir können das innerhalb einer Woche lösen, indem wir alle Daten prüfen.","ko":"사라: 모든 데이터를 확인하면 일주일 안에 해결할 수 있어요."},
+{"de":"Chef: Insgesamt haben wir dreihundert Dateien.","ko":"사장: 파일이 전부 합쳐서 삼백 개야."},
+{"de":"Sara: Ja, das schaffen wir. Hinterher können wir alles in Ruhe erklären.","ko":"사라: 네, 해낼 수 있어요. 나중에 차분히 다 설명할 수 있고요."},
+{"de":"Chef: Wie lange arbeitest du schon in der Firma?","ko":"사장: 회사에서 일한 지 얼마나 됐지?"},
+{"de":"Sara: Das ist schon drei Jahre her, und ich komme immer gern.","ko":"사라: 벌써 3년 전이네요, 그리고 저는 늘 즐겁게 출근해요."}
+]},
+{"title":"Die Reise nach Italien","title_ko":"이탈리아 여행","type":"story","lines":[
+{"de":"Letzten Sommer fuhren wir mit vier Freunden nach Italien.","ko":"지난여름 우리는 친구 네 명과 이탈리아에 갔다."},
+{"de":"Wir zahlten je Person zwanzig Euro pro Tag.","ko":"우리는 한 사람당 하루 20유로를 냈다."},
+{"de":"Jeder bekam jeweils ein eigenes Bett.","ko":"각자 자기 침대를 하나씩 받았다."},
+{"de":"Wir wollten früh losfahren, jedoch war jemand zu spät.","ko":"일찍 출발하려 했지만 누군가가 늦었다."},
+{"de":"Im Zug gab es leider keinen freien Platz.","ko":"기차에는 안타깝게도 빈자리가 없었다."},
+{"de":"Kaum waren wir angekommen, regnete es.","ko":"도착하자마자 비가 왔다."},
+{"de":"Trotzdem war es die schönste Reise unseres Lebens.","ko":"그래도 우리 인생에서 가장 멋진 여행이었다."}
+]},
+{"title":"Der Sprachkurs","title_ko":"어학 수업","type":"dialog","lines":[
+{"de":"Jan: Hast du schon alle Hausaufgaben gemacht?","ko":"얀: 숙제 다 했어?"},
+{"de":"Eva: Allein für die Grammatik brauche ich zwei Stunden. Allerdings macht es mir Spaß.","ko":"에바: 문법만 해도 두 시간 걸려. 하지만 재미있어."},
+{"de":"Jan: Das ist aller Ehren wert! Du lernst bestimmt schnell.","ko":"얀: 정말 대단하다! 넌 분명 빨리 배울 거야."},
+{"de":"Eva: Ich bin schon in der Mitte vom Buch. Wie weit bist du?","ko":"에바: 난 벌써 책 중간까지 왔어. 너는 어디까지 했어?"},
+{"de":"Jan: Ich habe etwas Angst vor der Prüfung.","ko":"얀: 시험이 좀 걱정돼."},
+{"de":"Eva: Wir können zusammen auf Deutsch üben.","ko":"에바: 같이 독일어로 연습하면 돼."},
+{"de":"Jan: Gute Idee. Ich komme heute Abend vorbei, ab sieben Uhr.","ko":"얀: 좋은 생각이야. 오늘 저녁 7시부터 들를게."},
+{"de":"Eva: Gut. Ich mache einen Tee aus frischer Minze.","ko":"에바: 좋아. 신선한 민트로 차를 만들게."}
+]}
+]

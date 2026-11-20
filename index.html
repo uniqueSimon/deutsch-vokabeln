@@ -60,8 +60,9 @@
 </header>
 <main id="main"></main>
 <script src="data.js"></script>
+<script src="stories.js"></script>
 <script>
-const TABS = [["list","📖 단어"],["quiz","✏️ 퀴즈"]];
+const TABS = [["list","📖 단어"],["story","📚 이야기"],["quiz","✏️ 퀴즈"]];
 const LESSONS = [];
 Object.keys(TOPICS).forEach(t => {
   const ws = WORDS.filter(w => String(w.t) === t);
@@ -114,7 +115,7 @@ function render() {
   [...tabsEl.children].forEach(b => b.classList.toggle("active", b.dataset.k === P.tab));
   const cur = nav.children[P.cur]; if (cur) cur.scrollIntoView({ block: "nearest", inline: "nearest" });
   speechSynthesis?.cancel();
-  ({ list: renderList, quiz: renderQuiz })[P.tab]();
+  ({ list: renderList, story: renderStory, quiz: renderQuiz })[P.tab]();
   window.scrollTo(0, 0);
 }
 
@@ -129,6 +130,17 @@ function renderList() {
       ${w.note ? `<div class="note">${esc(w.note)}</div>` : ""}
       ${w.ex.map(([d, k]) => `<div class="ex"><div class="row"><button class="play" onclick="say('${esc(d).replace(/'/g, "\\'")}')">🔊</button><div class="grow"><div class="reveal open">${esc(d)}</div><div class="exko">${esc(k)}</div></div></div></div>`).join("")}
     </div>`).join("");
+  main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
+  document.getElementById("hideKo").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.remove("open"));
+  document.getElementById("showAll").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.add("open"));
+}
+
+// --- tab: stories & dialogs ---
+function renderStory() {
+  const L = LESSONS[P.cur], texts = (typeof STORIES !== "undefined" && STORIES[L.topic]) || [];
+  main.innerHTML = `<div class="tools"><button class="btn alt" id="hideKo">한국어 가리기</button><button class="btn alt" id="showAll">모두 보기</button><span class="muted">${esc(L.name)} · ${texts.length}개 · 블러 처리된 번역을 눌러 확인</span></div>` +
+    (texts.map(t => `<div class="card"><h3 style="margin:0 0 4px">${t.type === "dialog" ? "💬" : "📜"} ${esc(t.title)}</h3><div class="muted" style="margin-bottom:8px">${esc(t.title_ko || "")}</div>` +
+      t.lines.map(l => `<div class="ex"><div class="row"><button class="play" onclick="say('${esc(l.de.replace(/^[^:]{1,20}:\s*/, "")).replace(/'/g, "\\'")}')">🔊</button><div class="grow">${esc(l.de)}<div class="exko reveal">${esc(l.ko)}</div></div></div></div>`).join("") + `</div>`).join("") || `<div class="card muted">이야기가 없습니다.</div>`);
   main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
   document.getElementById("hideKo").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.remove("open"));
   document.getElementById("showAll").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.add("open"));

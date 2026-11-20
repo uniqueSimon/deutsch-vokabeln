@@ -1,0 +1,74 @@
+[
+{"title":"Mein Alltag","title_ko":"나의 일상","type":"story","lines":[
+{"de":"Mein Wecker klingt um sechs Uhr, aber ich wache meistens schon früher auf.","ko":"알람은 여섯 시에 울리지만 나는 대개 더 일찍 잠에서 깬다."},
+{"de":"Ich stehe sofort auf, denn mein Alltag beginnt früh.","ko":"나는 바로 일어난다. 내 일상은 일찍 시작되기 때문이다."},
+{"de":"Um sieben Uhr fängt die Arbeit an, deshalb muss ich mich beeilen.","ko":"일곱 시에 일이 시작되어서 나는 서둘러야 한다."},
+{"de":"Mein Kollege holt mich mit dem Auto ab und bringt mich zur Firma.","ko":"동료가 차로 나를 데리러 와서 회사까지 데려다 준다."},
+{"de":"Manchmal begleitet er mich auch am Abend nach Hause.","ko":"가끔은 저녁에 집까지 바래다주기도 한다."},
+{"de":"Im Büro muss ich mich oft sehr anstrengen.","ko":"사무실에서 나는 자주 정말 애써야 한다."},
+{"de":"Wenn der Regen aufhört, eile ich in die Mittagspause.","ko":"비가 그치면 나는 서둘러 점심시간을 갖는다."},
+{"de":"Am Wochenende ruhe ich mich aus und tue nichts.","ko":"주말에는 쉬면서 아무것도 하지 않는다."},
+{"de":"Ich möchte manches in meinem Leben ändern, aber zuerst muss ich diese Woche beenden.","ko":"내 삶에서 몇 가지를 바꾸고 싶지만, 먼저 이번 주를 끝내야 한다."}
+]},
+{"title":"Das Paket","title_ko":"소포","type":"dialog","lines":[
+{"de":"Anna: Hallo Tom, ich habe heute ein Paket für dich bei der Post abgegeben.","ko":"안나: 안녕 톰, 오늘 우체국에 너 줄 소포를 맡겼어."},
+{"de":"Tom: Danke! Ich wollte dich anrufen, aber deine Nummer war besetzt.","ko":"톰: 고마워! 전화하려 했는데 네 번호가 통화 중이었어."},
+{"de":"Anna: Ich habe lange mit meiner Mutter gesprochen. Wann kannst du es abholen?","ko":"안나: 어머니와 오래 통화했어. 언제 가지러 갈 수 있어?"},
+{"de":"Tom: Wir müssen einen Termin abmachen. Ich brauche etwas Zeit.","ko":"톰: 약속을 정해야 해. 나는 시간이 좀 필요해."},
+{"de":"Anna: Wie wäre es mit Freitag? Das legen wir gleich fest.","ko":"안나: 금요일 어때? 바로 확정하자."},
+{"de":"Tom: Gut, dann setzen wir Freitag um vier Uhr fest.","ko":"톰: 좋아, 그럼 금요일 네 시로 정하자."},
+{"de":"Anna: Ich benötige aber deinen Ausweis, sonst bekomme ich nichts.","ko":"안나: 그런데 네 신분증이 필요해, 아니면 나는 아무것도 못 받아."},
+{"de":"Tom: Kein Problem. Hast du Erfolg gehabt und eine Bestätigung erhalten?","ko":"톰: 문제없어. 성공했어? 확인서는 받았어?"},
+{"de":"Anna: Ja, und die Post bietet sogar eine Lieferung nach Hause an.","ko":"안나: 응, 그리고 우체국은 집 배송도 제공해."},
+{"de":"Tom: Super, dann kommen sie mir entgegen. Macht es dir etwas aus, wenn ich das nehme?","ko":"톰: 좋아, 그럼 우체국이 나한테 양보해 주는 거네. 내가 그렇게 해도 괜찮아?"},
+{"de":"Anna: Nein, überhaupt nicht. Ich kann dich morgen erreichen, wenn etwas ist.","ko":"안나: 아니, 전혀. 무슨 일 있으면 내일 연락할 수 있어."}
+]},
+{"title":"Der Einbruch","title_ko":"침입 사건","type":"story","lines":[
+{"de":"In unserer Straße ereignete sich letzte Nacht ein seltsames Ereignis.","ko":"어젯밤 우리 거리에서 이상한 사건이 일어났다."},
+{"de":"Ein Mann brach in das kleine Geschäft ein und beschädigte die Tür.","ko":"한 남자가 작은 가게에 침입해 문을 파손했다."},
+{"de":"Der Besitzer entdeckte den Schaden am Morgen.","ko":"주인은 아침에 피해를 발견했다."},
+{"de":"Dem Nachbarn war schon vorher ein fremdes Auto aufgefallen.","ko":"이웃은 그 전에 이미 낯선 차를 알아차렸었다."},
+{"de":"Der Dieb floh durch den Park, aber ein Polizist folgte ihm.","ko":"도둑은 공원을 가로질러 도망쳤지만 경찰이 뒤쫓았다."},
+{"de":"Ein Passant wollte den Mann aufhalten, doch er rannte weiter.","ko":"행인이 남자를 붙잡아 두려 했지만 그는 계속 달렸다."},
+{"de":"Schließlich fing die Polizei ihn und fasste ihn am Bahnhof.","ko":"결국 경찰은 그를 잡아 역에서 체포했다."},
+{"de":"Er musste die Polizisten ansehen und hielt den Blick gesenkt.","ko":"그는 경찰을 바라보아야 했고 시선을 아래로 떨구었다."},
+{"de":"Der Polizist hielt seinen Arm fest, damit er nicht wieder wegläuft.","ko":"경찰은 그가 다시 도망치지 못하게 팔을 붙잡았다."},
+{"de":"Dieser Fall ist nun gelöst, und alle in der Straße sind erleichtert.","ko":"이 사건은 이제 해결되었고, 거리의 모두가 안도했다."}
+]},
+{"title":"Probleme am Computer","title_ko":"컴퓨터 문제","type":"dialog","lines":[
+{"de":"Lena: Kannst du mir helfen? Ich kann den neuen Drucker nicht bedienen.","ko":"레나: 도와줄 수 있어? 새 프린터를 조작할 줄 몰라."},
+{"de":"Max: Klar. Du musst zuerst die Sprache auswählen und dann den Knopf drücken.","ko":"막스: 물론이지. 먼저 언어를 고르고 그다음 버튼을 눌러야 해."},
+{"de":"Lena: Es geht trotzdem nicht. Mir fehlt vielleicht ein Kabel.","ko":"레나: 그래도 안 돼. 케이블이 하나 없는 것 같아."},
+{"de":"Max: Ich benutze den gleichen Drucker, das Kabel ist bei mir dabei.","ko":"막스: 나도 같은 프린터를 써. 케이블은 나한테 있어."},
+{"de":"Lena: Heute ist auch noch das Internet ausgefallen!","ko":"레나: 오늘은 인터넷까지 끊겼어!"},
+{"de":"Max: Dann musst du die Datei später erstellen. Wende doch diesen Trick an.","ko":"막스: 그럼 파일은 나중에 만들어야 해. 이 요령을 써 봐."},
+{"de":"Lena: Ich sehe einen Fehler im Text. Dreh bitte den Bildschirm ein bisschen.","ko":"레나: 텍스트에 오류가 보여. 화면을 조금만 돌려 줘."},
+{"de":"Max: Das Dokument enthält zu viele Bilder, entferne ein paar.","ko":"막스: 문서에 그림이 너무 많아. 몇 개 지워."},
+{"de":"Lena: Ich muss sie ersetzen und den Text noch ergänzen.","ko":"레나: 그림을 바꾸고 글도 더 보충해야 해."},
+{"de":"Max: Mach dir keinen Druck, wir schaffen das heute Abend.","ko":"막스: 부담 갖지 마, 오늘 저녁에 해낼 수 있어."}
+]},
+{"title":"Besuch aus Berlin","title_ko":"베를린에서 온 손님","type":"story","lines":[
+{"de":"Morgen bekomme ich Besuch von meiner Tante aus Berlin.","ko":"내일 베를린에서 이모가 방문한다."},
+{"de":"Ich muss noch Essen und Getränke besorgen.","ko":"나는 아직 음식과 음료를 구해 와야 한다."},
+{"de":"Alte Fotos habe ich gut aufgehoben, und die will sie behalten.","ko":"오래된 사진들은 잘 보관해 두었고, 이모는 그것을 간직하고 싶어 한다."},
+{"de":"Am Nachmittag besuchen wir zusammen ein Museum und bleiben bis abends.","ko":"오후에 우리는 함께 박물관에 가서 저녁까지 머문다."},
+{"de":"Ich packe schnell Kuchen und Tee ein, weil der Weg lang ist.","ko":"길이 멀어서 나는 서둘러 케이크와 차를 싼다."},
+{"de":"Die Kerze brennt auf dem Tisch, und der Zucker löst sich im heißen Tee auf.","ko":"탁자 위에는 초가 타고 있고, 설탕은 뜨거운 차에 녹는다."},
+{"de":"Plötzlich fällt ein Glas vom Regal und bricht.","ko":"갑자기 유리잔이 선반에서 떨어져 깨진다."},
+{"de":"Ich sage: „Pass auf, dass du dich nicht schneidest!“","ko":"나는 말한다. “베이지 않게 조심해!”"},
+{"de":"Danach gebe ich den Brief für meine Mutter bei der Post auf.","ko":"그다음 어머니께 보내는 편지를 우체국에 부친다."},
+{"de":"Ich gebe nie auf, auch wenn der Tag stressig ist.","ko":"하루가 바빠도 나는 절대 포기하지 않는다."}
+]},
+{"title":"Im Sprachkurs","title_ko":"어학 수업에서","type":"dialog","lines":[
+{"de":"Jin: Ich möchte in den Verein eintreten und mich an der Gruppe beteiligen.","ko":"진: 나는 동아리에 가입하고 그룹 활동에 참여하고 싶어."},
+{"de":"Paul: Das erfordert viel Zeit, aber du kannst dich bemühen.","ko":"파울: 시간이 많이 필요하지만 노력해 볼 수 있어."},
+{"de":"Jin: Ich finde, ein Sprachkurs eignet sich dafür sehr gut.","ko":"진: 어학 수업이 그것에 아주 적합하다고 생각해."},
+{"de":"Paul: Hier entstehen oft neue Freundschaften.","ko":"파울: 여기서는 새로운 우정이 자주 생겨."},
+{"de":"Jin: Die Teilnehmerzahl wurde auf zwanzig beschränkt.","ko":"진: 참가 인원이 스무 명으로 제한됐어."},
+{"de":"Paul: Wir sollten die Anmeldung heute erledigen.","ko":"파울: 오늘 신청을 처리해야 해."},
+{"de":"Jin: Ich will jede Stunde erfüllen, die der Lehrer plant.","ko":"진: 선생님이 계획한 수업은 전부 충족하고 싶어."},
+{"de":"Paul: Der Ausflug letzte Woche war ein tolles Erlebnis für mich.","ko":"파울: 지난주 소풍은 나에게 멋진 경험이었어."},
+{"de":"Jin: Ich möchte in Deutschland viel erleben und mich dabei viel bewegen.","ko":"진: 나는 독일에서 많은 걸 겪고 많이 움직이고 싶어."},
+{"de":"Paul: Dann komm, wir gehen gleich zur Anmeldung.","ko":"파울: 그럼 와, 바로 등록하러 가자."}
+]}
+]
