@@ -67,7 +67,7 @@ const LESSONS = [];
 Object.keys(TOPICS).forEach(t => {
   const ws = WORDS.filter(w => String(w.t) === t);
   const [de, ko] = TOPICS[t].split(" (");
-  if (ws.length) LESSONS.push({ name: de, ws, note: ko ? ko.replace(")", "") : "" });
+  if (ws.length) LESSONS.push({ topic: t, name: de, ws, note: ko ? ko.replace(")", "") : "" });
 });
 function bare(w) { return w.de.replace(/^sich /, ""); }
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c])); }
