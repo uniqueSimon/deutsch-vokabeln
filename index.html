@@ -61,14 +61,12 @@
 <main id="main"></main>
 <script src="data.js"></script>
 <script>
-const LESSON_SIZE = 40;
 const TABS = [["list","📖 단어"],["quiz","✏️ 퀴즈"]];
 const LESSONS = [];
 Object.keys(TOPICS).forEach(t => {
   const ws = WORDS.filter(w => String(w.t) === t);
-  const n = Math.ceil(ws.length / LESSON_SIZE) || 0, size = Math.ceil(ws.length / n);
   const [de, ko] = TOPICS[t].split(" (");
-  for (let i = 0; i < n; i++) LESSONS.push({ name: de, ws: ws.slice(i * size, (i + 1) * size), note: (ko ? ko.replace(")", "") : "") + (n > 1 ? ` · ${i + 1}/${n}` : "") });
+  if (ws.length) LESSONS.push({ name: de, ws, note: ko ? ko.replace(")", "") : "" });
 });
 function bare(w) { return w.de.replace(/^sich /, ""); }
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c])); }
