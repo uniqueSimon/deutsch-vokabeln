@@ -12,12 +12,10 @@
   header { position:sticky; top:0; z-index:5; background:var(--dark); color:#fff; }
   .top { display:flex; align-items:center; gap:10px; padding:8px 16px 0; }
   .top h1 { font-size:17px; margin:0; flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .top .stat { font-size:12px; opacity:.8; white-space:nowrap; }
   #lessons { display:flex; gap:6px; overflow-x:auto; padding:8px 16px; -webkit-overflow-scrolling:touch; }
   #lessons button { flex:none; white-space:nowrap; border:none; border-radius:8px; padding:5px 10px; cursor:pointer; background:#ffffff22; color:#fff; text-align:left; font-size:14px; font-weight:600; position:relative; overflow:hidden; }
   #lessons button small { display:block; font-size:10px; font-weight:400; opacity:.85; }
   #lessons button.active { background:#fff; color:var(--accent); }
-  #lessons button i { position:absolute; left:0; bottom:0; height:3px; background:#4cd08a; }
   .tabs { display:flex; background:#fff; border-bottom:1px solid #e4e0d8; }
   .tabs button { flex:1; border:none; background:none; padding:11px 4px; font-size:15px; cursor:pointer; color:#555; border-bottom:3px solid transparent; }
   .tabs button.active { color:var(--accent); border-bottom-color:var(--accent); font-weight:700; }
@@ -40,7 +38,6 @@
   .ex .exko { font-size:14px; color:#666; margin-top:2px; }
   .ex .row { align-items:flex-start; }
   .note { font-size:12px; color:var(--muted); margin-top:4px; }
-  .known { width:20px; height:20px; accent-color:var(--ok); cursor:pointer; }
   .tools { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; align-items:center; }
   .tools select { padding:7px; border-radius:8px; border:1px solid #ccc; font-size:14px; }
   .big { text-align:center; padding:28px 16px; }
@@ -57,7 +54,7 @@
 </head>
 <body>
 <header>
-  <div class="top"><h1>🇩🇪 독일어 단어 · Goethe B1</h1><span class="stat" id="stat"></span></div>
+  <div class="top"><h1>🇩🇪 독일어 단어 · Goethe B1</h1></div>
   <nav id="lessons"></nav>
   <div class="tabs" id="tabs"></div>
 </header>
@@ -65,7 +62,7 @@
 <script src="data.js"></script>
 <script>
 const LESSON_SIZE = 40;
-const TABS = [["list","📖 단어"],["quiz","✏️ 퀴즈"],["review","🔁 복습"]];
+const TABS = [["list","📖 단어"],["quiz","✏️ 퀴즈"]];
 const LESSONS = [];
 Object.keys(TOPICS).forEach(t => {
   const ws = WORDS.filter(w => String(w.t) === t);
@@ -79,19 +76,10 @@ function full(w) { return (w.art ? w.art + " " : "") + w.de; }
 function artHtml(w) { return w.art ? w.art.split("/").map(a => `<span class="art ${a}">${a}</span>`).join("") : ""; }
 function shuffle(a) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; }
 
-// --- progress (localStorage) ---
+// --- remembers last lesson/tab only ---
 const KEY = "deutsch-vokabeln-v1";
-let P = JSON.parse(localStorage.getItem(KEY) || '{"s":{},"cur":0,"tab":"list"}');
-const save = () => localStorage.setItem(KEY, JSON.stringify(P));
-const st = id => P.s[id] || (P.s[id] = { box: 0, ok: 0, bad: 0, due: 0 });
-const DAY = 864e5, GAPS = [0, 1, 3, 7, 14, 30];
-function grade(id, ok) {
-  const s = st(id);
-  if (ok) { s.ok++; s.box = Math.min(5, s.box + 1); } else { s.bad++; s.box = 0; }
-  s.due = Date.now() + GAPS[s.box] * DAY;
-  save(); updateStat();
-}
-const known = id => (P.s[id]?.box || 0) >= 3;
+let P = JSON.parse(localStorage.getItem(KEY) || '{"cur":0,"tab":"list"}');
+const save = () => localStorage.setItem(KEY, JSON.stringify({ cur: P.cur, tab: P.tab }));
 
 // --- speech ---
 let voice = null;
@@ -108,18 +96,10 @@ window.say = say;
 
 // --- layout ---
 const nav = document.getElementById("lessons"), tabsEl = document.getElementById("tabs"), main = document.getElementById("main");
-function updateStat() {
-  const n = WORDS.filter(w => known(w.id)).length;
-  document.getElementById("stat").textContent = `${n} / ${WORDS.length} 암기`;
-  LESSONS.forEach((l, i) => {
-    const b = nav.children[i]; if (!b) return;
-    b.querySelector("i").style.width = (l.ws.filter(w => known(w.id)).length / l.ws.length * 100) + "%";
-  });
-}
 LESSONS.forEach((l, i) => {
   const b = document.createElement("button");
-  b.innerHTML = `${l.name}<small>${esc(l.note)}</small><i></i>`;
-  b.onclick = () => { P.cur = i; if (P.tab === "review") P.tab = "list"; save(); render(); };
+  b.innerHTML = `${l.name}<small>${esc(l.note)}</small>`;
+  b.onclick = () => { P.cur = i; save(); render(); };
   nav.appendChild(b);
 });
 TABS.forEach(([k, label]) => {
@@ -132,13 +112,12 @@ TABS.forEach(([k, label]) => {
 function render() {
   if (!TABS.some(t => t[0] === P.tab)) P.tab = "list";
   if (P.cur >= LESSONS.length) P.cur = 0;
-  [...nav.children].forEach((b, i) => b.classList.toggle("active", P.tab !== "review" && i === P.cur));
+  [...nav.children].forEach((b, i) => b.classList.toggle("active", i === P.cur));
   [...tabsEl.children].forEach(b => b.classList.toggle("active", b.dataset.k === P.tab));
-  const cur = nav.children[P.cur]; if (cur && P.tab !== "review") cur.scrollIntoView({ block: "nearest", inline: "nearest" });
+  const cur = nav.children[P.cur]; if (cur) cur.scrollIntoView({ block: "nearest", inline: "nearest" });
   speechSynthesis?.cancel();
-  ({ list: renderList, quiz: renderQuiz, review: renderReview })[P.tab]();
+  ({ list: renderList, quiz: renderQuiz })[P.tab]();
   window.scrollTo(0, 0);
-  updateStat();
 }
 
 // --- tab: word list ---
@@ -155,34 +134,6 @@ function renderList() {
   main.querySelectorAll(".reveal").forEach(e => e.onclick = () => e.classList.toggle("open"));
   document.getElementById("hideKo").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.remove("open"));
   document.getElementById("showAll").onclick = () => main.querySelectorAll(".reveal").forEach(e => e.classList.add("open"));
-}
-
-// --- tab: flashcards ---
-function renderCards(pool = LESSONS[P.cur].ws, title = LESSONS[P.cur].name) {
-  let deck = shuffle(pool), i = 0, flipped = false, again = 0;
-  const wrap = () => {
-    if (i >= deck.length) {
-      main.innerHTML = `<div class="card center"><h2>🎉 ${esc(title)} 완료!</h2><p>다시 본 카드: ${again}</p><button class="btn" id="re">다시 하기</button></div>`;
-      document.getElementById("re").onclick = () => renderCards(pool, title); return;
-    }
-    const w = deck[i];
-    main.innerHTML = `<div class="prog"><i style="width:${i / deck.length * 100}%"></i></div>
-      <div class="muted center">${i + 1} / ${deck.length} · ${esc(title)}</div>
-      <div class="card big" id="face">
-        <div class="w">${artHtml(w)}${esc(w.de)}</div><div class="extra">${esc(w.extra)}</div>
-        <div style="margin-top:10px"><button class="play" id="sp">🔊</button></div>
-        ${flipped ? `<div class="ko">${esc(w.ko)}</div>${w.ex[0] ? `<div class="ex" style="text-align:left">${esc(w.ex[0][0])}<div class="exko">${esc(w.ex[0][1])}</div></div>` : ""}` : `<p class="muted">카드를 눌러 뜻 보기</p>`}
-      </div>
-      ${flipped ? `<div class="row"><button class="btn bad grow" id="no">❌ 몰라요</button><button class="btn ok grow" id="yes">✅ 알아요</button></div>` : ""}`;
-    document.getElementById("sp").onclick = e => { e.stopPropagation(); say(full(w)); };
-    document.getElementById("face").onclick = () => { if (!flipped) { flipped = true; wrap(); say(full(w)); } };
-    if (flipped) {
-      const next = ok => { grade(w.id, ok); if (!ok) { again++; deck.push(w); } i++; flipped = false; wrap(); };
-      document.getElementById("yes").onclick = () => next(true);
-      document.getElementById("no").onclick = () => next(false);
-    }
-  };
-  wrap();
 }
 
 // --- tab: quiz ---
@@ -206,7 +157,7 @@ function runQuiz(mode, pool, title) {
     }
     const w = qs[i], head = `<div class="prog"><i style="width:${i / qs.length * 100}%"></i></div><div class="muted center">${i + 1} / ${qs.length}</div>`;
     const done = (ok, shown) => {
-      grade(w.id, ok); if (ok) score++;
+      if (ok) score++;
       const n = document.createElement("div"); n.className = "card center";
       n.innerHTML = `<div class="${ok ? "" : "ko"}">${ok ? "✅ 정답!" : "❌ " + esc(shown)}</div><div class="w">${artHtml(w)}${esc(w.de)}</div><div class="ko">${esc(w.ko)}</div><p><button class="btn" id="nx">다음 ▶</button></p>`;
       main.appendChild(n); say(full(w));
@@ -236,24 +187,6 @@ function runQuiz(mode, pool, title) {
     });
   };
   q();
-}
-
-// --- tab: review (spaced repetition over all words) ---
-function renderReview() {
-  const now = Date.now();
-  const seen = WORDS.filter(w => P.s[w.id]);
-  const due = seen.filter(w => P.s[w.id].due <= now);
-  const weak = seen.filter(w => P.s[w.id].bad > P.s[w.id].ok);
-  const pool = d => `<button class="btn" data-a="${d}" style="margin-right:8px">카드</button><button class="btn alt" data-q="${d}">퀴즈</button>`;
-  main.innerHTML = `<div class="card"><h3 style="margin-top:0">복습할 단어 (${due.length})</h3><p class="muted">학습 간격이 지난 단어들이에요.</p>${due.length ? pool("due") : "<p>지금은 복습할 단어가 없어요 👍</p>"}</div>
-    <div class="card"><h3 style="margin-top:0">자주 틀린 단어 (${weak.length})</h3>${weak.length ? pool("weak") : "<p class='muted'>아직 없어요.</p>"}</div>
-    <div class="card"><h3 style="margin-top:0">전체 (${WORDS.length}) · 랜덤 30</h3>${pool("rand")}</div>
-    <div class="card"><button class="btn alt" id="reset">진행 상황 초기화</button></div>`;
-  const get = d => d === "due" ? shuffle(due).slice(0, 30) : d === "weak" ? shuffle(weak).slice(0, 30) : shuffle(WORDS).slice(0, 30);
-  const names = { due: "복습", weak: "약한 단어", rand: "랜덤" };
-  main.querySelectorAll("[data-a]").forEach(b => b.onclick = () => renderCards(get(b.dataset.a), names[b.dataset.a]));
-  main.querySelectorAll("[data-q]").forEach(b => b.onclick = () => renderQuiz(get(b.dataset.q), names[b.dataset.q]));
-  document.getElementById("reset").onclick = () => { if (confirm("정말 초기화할까요?")) { P.s = {}; save(); render(); } };
 }
 
 render();
